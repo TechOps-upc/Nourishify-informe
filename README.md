@@ -215,6 +215,47 @@
 </div>
 </br>
 
+### **Usuario alquiler de barcos**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
