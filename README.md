@@ -26,7 +26,7 @@
 |                                 | U000000005 |
 
 </br>
-<h1 align="center">Swift Ship</h1>
+<h1 align="center">Nourishify</h1>
 </br>
 
 <ul style="list-style-type: none;">
