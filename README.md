@@ -263,3 +263,9 @@
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
+
+<h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
+<h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
+<h3><a id="user-stories">3.2. User Stories</a></h3>
+<h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
+<h3><a id="product-backlog">3.4. Product Backlog</a></h3>
