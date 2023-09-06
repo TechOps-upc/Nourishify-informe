@@ -48,3 +48,25 @@
       </ul>
    </ul>
    <il><h3><a href="#segmento-objetico">1.3. Segmentos objetivo</a></h3></il>
+
+<il><h1><a href="#capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
+<il><h3><a href="#competidores">2.1. Competidores</a></h3></il>
+
+   <ul>
+      <il><h3><a href="#analisis-competitivo">2.1.1. Análisis competitivo</a></h3></il>
+      <il><h3><a href="#estrategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
+   </ul>
+<il><h3><a href="#entrevistas">2.2. Entrevistas</a></h3></il>
+   <ul>
+      <il><h3><a href="#diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3></il>
+      <il><h3><a href="#registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3></il>
+      <il><h3><a href="#analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3></il>
+   </ul>
+<il><h3><a href="#needfinding">2.3. Needfinding</a></h3></il>
+   <ul>
+      <il><h3><a href="#user-personas">2.3.1. User Personas</a></h3></il>
+      <il><h3><a href="#user-task-matrix">2.3.2. User Task Matrix</a></h3></il>
+      <il><h3><a href="#user-journey-mapping">2.3.3. User Journey Mapping</a></h3></il>
+      <il><h3><a href="#empathy-mapping">2.3.4. Empathy Mapping</a></h3></il>
+      <il><h3><a href="#as-is">2.3.5. As-is Scenario Mapping</a></h3></il>
+   </ul>
