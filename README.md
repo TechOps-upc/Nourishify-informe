@@ -298,3 +298,20 @@
 <h3><a id="class-dictionary">4.7.2. Class Dictionary</a></h3>
 <h3><a id="database-design">4.8. Database Design</a></h3>
 <h3><a id="database-diagram">4.8.1. Database Diagram</a></h3>
+
+<h1><a id="capitulo-5">Capítulo V: Product Implementation, Validation & Deployment</a></h1>
+<h3><a id="software-configuration-management">5.1. Software Configuration Management</a></h3>
+<h3><a id="software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></h3>
+<h3><a id="source-code-management">5.1.2. Source Code Management</a></h3>
+<h3><a id="source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></h3>
+<h3><a id="software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3>
+<h3><a id="landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3>
+<h3><a id="sprint-1">5.2.1. Sprint 1</a></h3>
+<h3><a id="sprint-planning-1">5.2.1.1. Sprint Planning 1</a></h3>
+<h3><a id="sprint-backlog-1">5.2.1.2. Sprint Backlog 1</a></h3>
+<h3><a id="development-evidence-for-sprint-review">5.2.1.3. Development Evidence for Sprint Review</a></h3>
+<h3><a id="testing-suite-rvidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3>
+<h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></h3>
+<h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
+<h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
+<h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
