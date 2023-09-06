@@ -162,3 +162,104 @@
 <h3><a id="lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</a></h3>
 <h3><a id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3>
 <h3><a id="segmento-objetico">1.3. Segmentos objetivo</a></h3>
+
+<h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
+<h3><a id="competidores">2.1. Competidores</a></h3>
+<h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
+<h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
+<h3><a id="entrevistas">2.2. Entrevistas</a></h3>
+<h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
+<h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
+
+### **Usuario cliente**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
+
+### **Usuario otro**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h4>Entrevista 3</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+
+<h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+<h3><a id="needfinding">2.3. Needfinding</a></h3>
+<h3><a id="user-personas">2.3.1. User Personas</a></h3>
+<h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
+<h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+<h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+<h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
