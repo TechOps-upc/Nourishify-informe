@@ -166,6 +166,56 @@ En este contexto, Nourishify emerge como una plataforma vanguardista que aborda 
 Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria de la nutrición personalizada y el bienestar. Creemos que todos merecen tener acceso a soluciones de salud efectivas y personalizadas. Aspiramos a expandir nuestra presencia y llevar nuestros servicios a personas en todo el mundo, para que puedan disfrutar de una vida más saludable y equilibrada.
 </div>
 <h3><a id="perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h3>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="" alt="Foto 1" width="60" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202...</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202.....</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202......</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145909349965897808/JDiego_Image.jpg?width=621&height=621" alt="Foto 4" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy una persona que le fascina la tecnología en sus múltiples aspectos y, además, le gusta trabajar en equipo. En base a mis skills, destacan el tema de liderazgo, conocimientos de marcos de trabajos ágiles, programación en lenguajes tales como C++, HTML, CSS y manejo de base de datos como MySQL, SQL Server y MongoDB.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202110458</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre 5</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202....</td>
+  </tr>
+</table>
+
 <h3><a id="solution-profile">1.2. Solution Profile</a></h3>
 <h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
