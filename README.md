@@ -236,11 +236,13 @@ Una de las principales causas del problema radica en el desconocimiento de las c
 Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br>
 <strong>How much- ¿Cuál es la magnitud del problema?</strong>
 Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable
+
 <p align ="center">
    <img src="./static/peru-obesidad.png" >
 </p>
 
->>>>>>> develop
+> > > > > > > develop
+
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
 <div align='justify'>
@@ -417,14 +419,13 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
 
 Según la INEI(2022), de la población peruana, el 37,5% son las personas que presentan sobrepeso. Estas personas van desde 15 a más años de edad. Además, la ciudad de Lima tiene uno de los porcentajes más altos con un 39,3%. Por esta razón, nuestra aplicación empezará a funcionar en Lima.
 Nuestros Segmentos objetivos que identificamos son los siguientes:
-1.	Personas que busquen mejorar su salud, bienestar y calidad de vida:<br>
-Este segmento está compuesto por individuos que tienen interés en un estilo de vida y alimentación más saludable. Pueden estar buscando perder peso, aumentar su nivel de actividad física, etc.<br><br>
-2.	Nutricionistas:<br>
-Este segmento está compuesto por profesionales de la salud con experiencia en nutrición y dietética. Los nutricionistas desempeñan un rol fundamental en el cuidado de la alimentación de una persona.  Por esta razón, es importante que tengan un alcance amplio entre las personas interesadas en su salud.<br><br>
-3.	Dueños de gimnasios:<br>
-Este segmento está compuesto por empresarios que gestionan sus instalaciones de acondicionamiento físico y bienestar. Están enfocados en atraer y retener a sus clientes, mejorar la experiencia del cliente y optimizar la gestión de su negocio. La característica principal es que busca soluciones que les ayuden en el desarrollo de sus instalaciones.<br><br>
 
-
+1. Personas que busquen mejorar su salud, bienestar y calidad de vida:<br>
+   Este segmento está compuesto por individuos que tienen interés en un estilo de vida y alimentación más saludable. Pueden estar buscando perder peso, aumentar su nivel de actividad física, etc.<br><br>
+2. Nutricionistas:<br>
+   Este segmento está compuesto por profesionales de la salud con experiencia en nutrición y dietética. Los nutricionistas desempeñan un rol fundamental en el cuidado de la alimentación de una persona. Por esta razón, es importante que tengan un alcance amplio entre las personas interesadas en su salud.<br><br>
+3. Dueños de gimnasios:<br>
+   Este segmento está compuesto por empresarios que gestionan sus instalaciones de acondicionamiento físico y bienestar. Están enfocados en atraer y retener a sus clientes, mejorar la experiencia del cliente y optimizar la gestión de su negocio. La característica principal es que busca soluciones que les ayuden en el desarrollo de sus instalaciones.<br><br>
 
 <h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
 <h3><a id="competidores">2.1. Competidores</a></h3>
@@ -701,7 +702,6 @@ Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite
 
 <div align='center'>
 <img src="https://i.ibb.co/M7FHyhT/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
-
 
 <br><br>
 
@@ -1065,6 +1065,25 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 </table>
 
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
+
+### Cliente
+
+<p align ="center">
+   <img src="./static/journey-mapping/cliente-journey-map.png" >
+</p>
+
+### Dueño de gimnasio
+
+<p align ="center">
+   <img src="./static/journey-mapping/dueño-gym-journey-map.png" >
+</p>
+
+### Nutricionista
+
+<p align ="center">
+   <img src="./static/journey-mapping/nutricionista-journey-map.png" >
+</p>
+
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 
@@ -4700,6 +4719,7 @@ Es el proceso de garantizar que una organización documente verifique y satisfag
 </ul>
 
 <strong>Product UX/UI Design</strong>
+
 <ul>
 <li><strong>Uxpressia:</strong> es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>
 https://uxpressia.com/
@@ -4751,7 +4771,6 @@ https://github.com/
 </li>
 </ul>
 
-
 <h3><a id="source-code-management">5.1.2. Source Code Management</a></h3>
 A continuación, se presenta la gestión de código fuente o como es conocido por sus siglas en ingles SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizara a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se empleará como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
 <ul>
@@ -4769,6 +4788,7 @@ El enfoque de desarrollo de ramas en Git que ha ganado una gran importancia en l
 Como se mencionó anteriormente, GitFlow trabaja con branches o ramas. A continuación, se muestran las ramas que se emplearan en el flujo de trabajo de nuestro proyecto.<br><br>
 
 <strong>Main Branches</strong>
+
 <ul>
 <li><strong>main:</strong> es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores. Almacenara el historial de publicación oficial.
 </li>
@@ -7038,9 +7058,6 @@ coherente.<o:p></o:p></span></p>
 style='mso-ansi-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
 
 </div>
-   
-
-
 
 <h3><a id="software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3>
 Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:<br>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
@@ -7484,9 +7501,8 @@ Semana de desarrollo para el Sprint 1: se puede ver que todos los integrantes co
             </p>
 <br><br>
 
-
 Así, el equipo comenzó el desarrollo y la conclusión del Sprint 1.
-Lenguaje por utilizar es HTML, con CSS y un poco de JS. 
+Lenguaje por utilizar es HTML, con CSS y un poco de JS.
 <br><br>
 <strong>Insigths GitHub:</strong>
 <br><br>
