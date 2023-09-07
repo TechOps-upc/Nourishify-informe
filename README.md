@@ -218,8 +218,6 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
 
 <h3><a id="solution-profile">1.2. Solution Profile</a></h3>
 <h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
-<<<<<<< feature/landing-page-services-app-implementation
-
 <strong>What - ¿Cuál es el problema?</strong><br>
 El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.
 <strong>When - ¿Cuándo sucede el problema?</strong><br>
@@ -238,26 +236,6 @@ Una de las principales causas del problema radica en el desconocimiento de las c
 Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br>
 <strong>How much- ¿Cuál es la magnitud del problema?</strong>
 Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable
-=======
-<strong>What - ¿Cuál es el problema?</strong><br>
-El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.<br><br>
-<strong>When - ¿Cuándo sucede el problema?</strong><br>
-El problema ocurre al momento de ingerir alimentos y la persona no es consciente del valor nutricional que la comida le está aportando o si esos alimentos perjudican a su salud.<br><br>
-<strong>Where - ¿Dónde surge el problema?</strong><br>
-EL problema ocurre en los ambientes donde se consumen alimentos, especialmente donde el control de la información nutricional de la comida es nulo. Por ejemplo, los restaurantes y carretillas. Incluso en los hogares, al momento de preparar una comida, también se puede presentar este problema.<br><br>
-<strong>Who - ¿Quiénes son afectados por el problema?</strong><br>
-   Los principales afectados son:
-   -	Las personas que no tienen un buen hábito alimenticio.
-   -	Las personas que hacen deporte, pero tienen desórdenes alimenticios.<br>
-
-<strong>Why - ¿Cuál es la causa del problema?</strong><br>
-Una de las principales causas del problema radica en el desconocimiento de las calorías que se están consumiendo por alimento. Esto generando un descontrol en la ingesta calórica diaria, lo que puede resultar en un aumento de peso.
-<br><br>
-<strong>How - ¿Cómo se llevan a cabo los hechos?</strong><br>
-Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br><br>
-<strong>How much- ¿Cuál es la magnitud del problema?</strong><br>
-Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable<br><br>
-
 <p align ="center">
    <img src="./static/peru-obesidad.png" >
 </p>
