@@ -255,7 +255,7 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
       <img src="./static/team-photos/OlgheeD.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202......</td>
   </tr>
   <tr>
@@ -300,6 +300,7 @@ Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayore
 <p align ="center">
    <img src="./static/peru-obesidad.png" >
 </p>
+
 
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
@@ -573,15 +574,17 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
     </ol>
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
+
+
 <div align ="center">
 
 ### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
 
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| Arecely | Sanches  |  21  |
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Arecely  | Sanches    | 21  |
 
 <img src="static/entrevista aracely.png" >
 <p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Aracely</a></p>
@@ -591,6 +594,7 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 ### **Usuario dueño de gimnasios**
 
 <h4>Entrevista 1</h4>
+
 
 <div align ="center">
 
@@ -4631,7 +4635,64 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
 <h3><a id="general-style-guidelines">4.1.1. General Style Guidelines</a></h3>
+Brand Name<br><br>
+El nombre del software identificado es Nourishify. Descomponiendo el nombre en dos, ‘nourishi’ que significa nutritivo y ‘hify’ que significa alto. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en nutrición, bienestar y salud. Por ello se optó por la búsqueda de nutricionistas, además de los dueños de gimnasios. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. 
+A continuación, se presenta el logo o marca de nuestra solución propuesta.
+<p align ="center">
+   <img src="./static/styles-guidelines/branding.png" >
+</p><br>
+Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural. 
+
+<br>Typography
+<p align ="center">
+   <img src="./static/styles-guidelines/typografy.png" >
+</p><br>
+
+Colors
+<br>
+<p align ="center">
+   <img src="./static/styles-guidelines/color.png" >
+</p><br>
+Spacing
+<br>
+<p align ="center">
+   <img src="./static/styles-guidelines/spacing.png" >
+</p><br>
+<br>
+Tono de comunicación y lenguaje aplicado
+<br><br>
+Color Primario: El verde, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad. Decidimos usar  el color verde para asociar nuestra marca con la naturaleza, vegetales y la nutrición.
+<br><br>
+Color Secundario: El color aguamarina transmite solo emociones positivas en el diseño. Al estar relacionado con el agua, su significado está asociado a la pureza y la inmensidad.
+<br><br>
+Blanco: Representa limpieza y claridad. Asimismo, se usa mucho en aplicaciones identificadas en el mismo rubro de cuidado de la salud.
+<br><br>
+Negro: Color serio y elegante.
+El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+
+
+
+
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
+
+
+
+Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
+
+<br><br>
+<p align ="center">
+   <img src="./static/styles-guidelines/selectionboxes.png" >
+</p><br>
+<br>
+<p align ="center">
+   <img src="./static/styles-guidelines/big-elements.png" >
+</p><br>
+<br>
+<p align ="center">
+   <img src="./static/styles-guidelines/cards.png" >
+</p><br>
+
+<br>Link Figma: https://www.figma.com/file/yUavmzKkW2nMUMpxhpxDfL/Nourishify-style-guidelines?type=design&node-id=0%3A1&mode=design&t=ghLjnndHn9rHaL0e-1
 <h3><a id="information-architecture">4.2. Information Architecture</a></h3>
 En esta sección, definiremos la estructuración de nuestro producto para cada uno de nuestros segmentos objetivo. Abarcaremos diversos componentes que permitirán al usuario a organizar y encontrar su contenido: Organization systems, Labeling systems, SEO Tags and Meta Tags, Searching systems y Navigation systems.
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
