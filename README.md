@@ -20,10 +20,10 @@
 | Alumnos                         |   Codigo   |
 | :------------------------------ | :--------: |
 | Adrian Gonzalo Melgar Takahashi | U201819465 |
-|                                 | U000000002 |
-|                                 | U000000003 |
-|                                 | U000000004 |
-|                                 | U000000005 |
+| Diego Jose Acuña Gomez          | U20201C794 |
+| Diego Miguel Ramirez Ortega     | U202123548 |
+| José Diego Huamani Sánchez      | U202110458 |
+| Sebastian Alonso Bustinza Muñoz | U202123362 |
 
 </br>
 <h1 align="center">Nourishify</h1>
