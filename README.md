@@ -192,9 +192,9 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
+      <img src="./static/team-photos/OlgheeD.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202......</td>
   </tr>
@@ -577,16 +577,13 @@ El 100% de los entrevistados estaría motivado para utilizar una solución de nu
 </br>
 <p align="left"><strong>¿Has tenido experiencia previa con planes de alimentación o asesoramiento nutricional?</strong> </p>
 
-
 El 100% de entrevistados ha intentado seguir planes de alimentación en el pasado y también han consultado con nutricionistas en busca de orientación. Sin embargo, a veces les ha sido difícil mantenerse en el camino debido a la falta de seguimiento y apoyo constante.
 
 <p align="left"><strong>¿Qué desafíos has enfrentado al intentar mejorar tu alimentación y bienestar?</strong> </p>
 
-
 El 100% de los entrevistados concuerda que uno de los desafíos más grandes ha sido la falta de disciplina y consistencia en seguir un plan de alimentación. Además, la falta de tiempo y la disponibilidad de alimentos poco saludables en sus entornos han sido barreras significativas.
 
 <p align="left"><strong>¿Qué características te gustaría ver en una plataforma de nutrición personalizada?</strong> </p>
-
 
 El 100% de entrevistados indica que les gustaría que la plataforma sea fácil de usar y accesible desde su dispositivo móvil. Debería ofrecer un seguimiento constante, permitir la comunicación con expertos en nutrición, y proporcionar herramientas para registrar sus comidas y progreso.
 
@@ -596,13 +593,11 @@ El 100% de los entrevistados cree que Nourishify podría ser una herramienta val
 
 <p align="left"><strong>¿Qué características específicas te gustaría ver en una plataforma como Nourishify?</strong> </p>
 
-
 Al 100% de los entrevistados, le gustaría ver un chat privado con nutricionistas para obtener respuestas a sus preguntas en tiempo real. También sería genial si la plataforma ofreciera recordatorios para mantenerse en el camino y un sistema de seguimiento de progreso para ver las mejoras a lo largo del tiempo.
 
 <p align="left"><strong>¿Cómo visualizas la colaboración con expertos en nutrición a través de una plataforma como Nourishify?</strong> </p>
 
-
-El 100% de los entrevistados concuerda que sería una colaboración efectiva y conveniente, ya que, con los expertos en nutrición cuando lo necesite, se podrá programar sesiones de asesoramiento en línea y recibir orientación personalizada para ajustar sus planes de alimentación según las necesidades cambiantes. 
+El 100% de los entrevistados concuerda que sería una colaboración efectiva y conveniente, ya que, con los expertos en nutrición cuando lo necesite, se podrá programar sesiones de asesoramiento en línea y recibir orientación personalizada para ajustar sus planes de alimentación según las necesidades cambiantes.
 
 <p align="left"><strong>Análisis General:</strong> </p> Los entrevistados muestran un fuerte interés en mejorar su nutrición y bienestar, y reconocen la importancia de la personalización y el apoyo continuo. Sus expectativas en una plataforma de nutrición personalizada son claras y reflejan la necesidad de herramientas prácticas y recursos educativos para lograr sus objetivos.
 </br>
@@ -618,18 +613,15 @@ El 100% de los entrevistados están de acuerdo en que la nutrición personalizad
 <p align="left"><strong>¿Has considerado ofrecer servicios de asesoramiento nutricional en tu gimnasio?
 </strong> </p>
 
-
 Donny consideró la idea, pero optó por no ofrecer servicios de nutrición debido a desafíos financieros, mientras que Piero no parece haber considerado esta opción.
 
 <p align="left"><strong>¿Cómo crees que la promoción de tus servicios a través de una plataforma como Nourishify podría beneficiar a tu negocio?
 </strong> </p>
 
-
 El 100% de los entrevistados ven el potencial de Nourishify para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición personalizada y educación sobre la dieta.
 
 <p align="left"><strong>¿Cómo Nourishify podría integrarse con tus servicios existentes para ofrecer una solución más completa a tus clientes?
 </strong> </p>
-
 
 Piero proporciona una perspectiva sobre cómo Nourishify podría integrarse para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición y educación.
 
@@ -680,9 +672,6 @@ El 100% de los entrevistados reconocen la importancia de una mayor comunicación
 </strong> </p>
 
 Ambas nutricionistas enfatizan la importancia de la nutrición personalizada y destacan elementos clave para crear planes de alimentación efectivos, como el IMC, los gustos y las actividades de las personas. Además, ambas identifican barreras comunes en la adherencia a los planes, como la falta de disciplina y el tiempo limitado. Ambas ven el potencial de una plataforma como la nuestra para mejorar la comunicación y el seguimiento con los clientes, así como para llegar a un público más amplio. También sugieren la inclusión de herramientas como chat y agendamiento de citas para facilitar su trabajo y mejorar la experiencia del cliente.
-
-
-
 
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 
@@ -1092,16 +1081,16 @@ Segmento 1: Clientes<br><br>
 </p><br>
 
 Segmento 2: Nutricionistas<br>
+
 <p align="center">
    <img src="./static/map-scenarios/Escritura de ideas - As-Is Scenario Nutricionista.jpg" >
 </p><br>
 
 Segmento 3: Dueños de gimnasios<br>
+
 <p align="center">
    <img src="./static/map-scenarios/Escritura de ideas - As-Is Scenario Dueño de un gimnasio.jpg" >
 </p><br>
-
-
 
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
@@ -1111,16 +1100,16 @@ Segmento 1: Clientes<br><br>
 </p><br>
 
 Segmento 2: Nutricionistas<br><br>
+
 <p align="center">
    <img src="./static/map-scenarios/Escritura de ideas - To-Be Scenario Nutricionista.jpg" >
 </p><br>
 
-
 Segmento 3: Dueños de gimnasios<br><br>
+
 <p align="center">
    <img src="./static/map-scenarios/Escritura de ideas - To-be Scenario Dueño de un gimnasio.jpg" >
 </p><br>
-
 
 <div align="center">
 <a href="https://miro.com/app/board/uXjVMnjpby0=/?share_link_id=381213353000">Enlace al Miro</a><br><br>
