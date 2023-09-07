@@ -521,13 +521,17 @@ Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesan
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Shirley | Muñoz    | Edad 45 |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+</br>
+<img src="./static/entrevistas/ENTREVISTASHIRLEY.PNG" >
+
+</br>
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=gp5-G_Diuic" target="_blank">Entrevista a Shirley Marlene Muñoz Ibañez</a></p>
+<p align="justify">Resumen entrevista: Shirley Marelene Muñoz Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana, algunos días trabaja todo el día y otros días de madrugada. Shirley al contestar las preguntas realizadas, nos indicó que es de gran importancia que cada individuo tenga una nutrición especializada, de acuerdo a su actividad física, a su distribución de su composición corporal y de acuerdo a la condición médica que tenga.</br> En cuanto a los elementos para crear un plan de nutrición, mencionó que los principales son los gustos de las personas, la actividad que realiza la persona, sus horarios para saber cómo serán sus tiempos de comida y el 
+presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, de querer tener algún cambio en su alimentación, asimismo, la falta de tiempo, ya que, la falta de tiempo hace que tengamos a la mano alimentos procesados como las comidas rápidas.</br> Opina que nuestra plataforma la ayudaría a ampliar su cartera de clientes y a hacerse más conocida. Lo que ella agregaría a nuestra plataforma serían diversas formas de darle seguimiento a su cliente; como agendar citas, contar con un canal de chat y de voz, que le permita comunicarse con el cliente. </p>
 </div>
 </br>
 
@@ -535,13 +539,14 @@ Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesan
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre | Apellido |  Edad   |
+| :----- | :------- | :-----: |
+| Maria  | Ibañez   | Edad 69 |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<img src="./static/entrevistas/IMAGENENTREVISTAMINIATURA.png" >
+
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=GBeYBsLTHJI" target="_blank">Entrevista a Maria Esther Ibañez Benites</a></p>
+<p align="justify">Resumen entrevista: Maria Esther Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana y los días que descansa prefiere estar en su casa con su familia. Maria Esther al contestar las preguntas realizadas, nos indicó que la nutrición personalizada es muy importante para el bienestar de la persona, porque cada una de ellas tiene distintos requerimientos, distintas edades y distintas patologías, cada persona es distinta.</br> En cuanto a los elementos importantes para desarrollar un plan de alimentación efectivo, son relevantes los índices de masa corporal de cada persona, porque esto nos indica si estamos en obesidad o en delgadez. Las barreras entre la persona y el plan de alimentación es la falta de seguimiento a su plan cada día, indica que debe ser estricta para ver que en verdad se cumpla.</br> Opina que podemos facilitarle el trabajo al obtener una mayor comunicación entre ella y su paciente o cliente, resalta la importancia de darle seguimiento. Le gustaría contar con un chat privado, con una herramienta para agendar citas, asimismo, cree que nuestra plataforma le ayudaría a llegar a más personas.  </p>
 </div>
 </br>
 
