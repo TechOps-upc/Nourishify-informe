@@ -4798,6 +4798,19 @@ Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&
 <br>
 
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
+
+<div align="justify">
+<p>A continuación, se mostrará el respectivo diagrama de contenedores lo cual esta basado en nuestro sistema; es por ello, que este artefacto presenta los componentes técnicos de alto nivel - generando un enfoque más maximizado acerca de la visión de la arquitectura del software -.</p>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://i.ibb.co/k662Xbm/imagen-2023-09-07-162010919.png" alt="Context-Diagram" style="width:700px;height:500px">
+</div>
+
+<br>
+
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
 <h3><a id="class-diagrams">4.7.1. Class Diagrams</a></h3>
