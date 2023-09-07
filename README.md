@@ -172,6 +172,45 @@
 
 </br>
 </br>
+
+# Student Outcome
+
+## ABET – EAC - Student Outcome 5
+
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
+    </tr>
+    <tr>
+      <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Hice tal</td>
+      <td rowspan="6">Conclusion</td>
+    </tr>
+    <tr>
+      <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Hice tal</td>
+    </tr>
+    <tr>
+      <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.</td>
+    </tr>
+    <tr>
+      <td><strong>José Diego Huamani Sánchez</br>TB1:</strong></br>Hice tal</td>
+    </tr>
+    <tr>
+      <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Hice tal</td>
+    </tr>
+    <tr>
+  </tbody>
+  
+</table>
+
+</br>
 </br>
 
 <h1><a id="capitulo-1">Capítulo I: Introducción</a></h1>
@@ -261,7 +300,6 @@ Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayore
 <p align ="center">
    <img src="./static/peru-obesidad.png" >
 </p>
-
 
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
@@ -535,17 +573,15 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
     </ol>
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
-
-
 <div align ="center">
 
 ### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Arecely  | Sanches    | 21  |
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| Arecely | Sanches  |  21  |
 
 <img src="static/entrevista aracely.png" >
 <p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Aracely</a></p>
@@ -555,7 +591,6 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 ### **Usuario dueño de gimnasios**
 
 <h4>Entrevista 1</h4>
-
 
 <div align ="center">
 
