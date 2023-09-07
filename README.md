@@ -4324,6 +4324,11 @@ Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&
 <h3><a id="web-applications-user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams</a></h3>
 <h3><a id="web-applications-prototyping">4.5. Web Applications Prototyping</a></h3>
 <h3><a id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3>
+
+<div align="justify">
+<p>En esta sección, se presentarán los respectivos diagramas correspondientes al diseño de software basados en lo que utilizará nuestra aplicación web. Para dichos diseños, hemos aplicado patrones tanto de alta como de bajo nivel siguiendo el enfoque del Domain-Driven; por lo que, de esta manera, podremos explayar de manera más concisa y eficiente la arquitectua la cual Nourishify está compuesta. </p>
+</div>
+
 <h3><a id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3>
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
