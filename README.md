@@ -4832,6 +4832,19 @@ Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&
 <br>
 
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
+
+<div align="justify">
+<p>En este último apartado, se presenta el diagrma de componentes de nuestra arquitectura de software en que se detallan los componentes  de nuestros contenedores ya maquetados anteriormente; por consiguiente, se señalan sus responsabilidades y los detalles en veredicto al enlace tecnológico e implementación.</p>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://i.ibb.co/xXCKZSb/imagen-2023-09-07-163026879.png" alt="Context-Diagram" style="width:700px;height:500px">
+</div>
+
+<br>
+
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
 <h3><a id="class-diagrams">4.7.1. Class Diagrams</a></h3>
 <h3><a id="class-dictionary">4.7.2. Class Dictionary</a></h3>
