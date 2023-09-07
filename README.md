@@ -2515,7 +2515,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como
-  familiar de una persona con discapacidad, deseo ingresar al perfil del profesional
+  cliente deseo ingresar al perfil del profesional
   que busco para informarme más acerca de él.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
@@ -3633,6 +3633,23 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
 </div>
 
 <h3><a id="impact-mapping">3.3. Impact Mapping</a></h3>
+Impact Mapping es una metodología que ayuda de una forma visual a pensar en las metas que realmente queremos lograr para tener el alcance de nuestros usuarios. Por ello usamos esta herramienta con el fin de establecer enfoque y alcanzar las metas de nuestro objetivo principal. De tal manera, que al final del mapa mental identificamos las acciones y funcionalidades que debemos llevar a cabo para formar el proyecto de manera eficiente.
+<br>
+<br>
+User: Nutricionista 
+<br>
+<br>
+<p align ="center">
+   <img src="./static/impact-map-nutricionista.png" >
+</p>
+
+<br>
+<br>
+User: Cliente
+<p align ="center">
+   <img src="./static/impact-map-cliente.png" >
+</p>
+
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
 
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
