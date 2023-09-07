@@ -631,6 +631,7 @@ Piero resalta la importancia de una base de usuarios sólida como un posible inc
 Ambas entrevistas revelan un interés en la nutrición personalizada y en cómo Nourishify podría complementar los servicios de los gimnasios. También destacan la importancia de la educación nutricional y la necesidad de una base de usuarios sólida en la plataforma para atraer a los gimnasios. Estas entrevistas sugieren que hay interés y receptividad en la comunidad de dueños de gimnasios hacia servicios como los ofrecidos por Nourishify. Sin embargo, no se abordan explícitamente los desafíos específicos relacionados con la experiencia de bienestar de los clientes.
 
 </br>
+</br>
 <p align="left"><strong>SEGMENTO OBJETIVO- NUTRICIONISTAS
 </strong> </p>
 
