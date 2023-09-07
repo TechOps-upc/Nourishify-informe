@@ -413,21 +413,36 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 </div>
 </br>
 
-<h4>Entrevista 3</h4>
+### **Usuario dueño de gimnasios**
+
+<h4>Entrevista 1</h4>
 
 <div align ="center">
 
 | Nombre | Apellido | Edad |
 | :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Donny  | Enriquez |  28  |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<img src="./static/entrevistas/entrevista_donny_enriquez.png" >
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=yE_6UbkDLLw" target="_blank"> Entrevista Donny Enriquez</a></p>
+<p align="justify">Resumen entrevista: Trabaja como dueño de un gimnasio. Indica que se mantiene activo realizando ejercicios de manera diaria. Como dueño de gimnasio indica que su interes con el tema de la nutrición personalizada y el bienestar es bastante alto ,ya que, el sentirse bien con uno mismo no solo en el enfoque de los ejercisios, sino tambien en la alimentación es sumamente importante para las personas. Donny a consultado con un nutricionista desde los 20 años ya que presentaba obesidad y esto dificultaba su día a día ,ya incluso, afectando su salid. Donny cree en base a su experiencia que en el fitness una correcta alimentación juega un papel más importante que el ejercicio, para la mayoria de personas una buena alimentación representa un 70% del esfuerzo para ponerse en forma y los ejercicios solo un 30% , ya que, sin una buena alimentación los resulatados que se buscan con el ejercicio son practicamente nulos. </br> Donny indica que la idea de ofrecer un servicio de nutrición si surgio al momento de estar planeando su gimnasio pero al final opto por enfocarse más en las maquinas y la experiensia que iba a experimentar sus clientes debido a los altos costos y mantenimiento de contar con un nutricionista en el mismo gimnasio.</br>
+Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesante y atractiva alianza para tanto los dueños de gimnasios como para los mismos usuarios, ya que, al tener todo centralizado en la plataforma facilitaria los distintos tramites que los usuarios tienen que realizar y para los dueños de gimnasios la facilidad de poder contar con planes de nutricion personalisados para sus clientes seria un plus enorme.</p>
 </div>
-</br>
 
-### **Usuario alquiler de barcos**
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Piero  | Palomino |  26  |
+
+<img src="./static/entrevistas/entrevista_piero_palomino.png" >
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=NiJW1QRLt_w" target="_blank">Entrevista Piero Palomino</a></p>
+<p align="justify">Resumen entrevista: Piero Palomino se dedica unicamente a la administración de su gimnasio. Todas las mañanas sale a entrenar y luego pasa el resto del día en el gym gestionando y ayudando en cualquier tipo de inconveniente o consulta que pueda surgir. Piero nos indica que el tema de la nutrición personalisada y el vienestar es un tema que lo apasiona mucho ,ya que, este es un complemento de suma importancia al momento de desarrollar el plan de ejercicio y poder lograrlo satisfactoriamente. Piero desde hace 3 años sigue un plan de alimentación creado por un nutricionista. </br> Piero cree que la implementación de la tecnologia lo puede ayudar a mantener un mejor orden de sus comidas y caloria consumidas al día a día lo que le permite ser mas eficiente. Piero cree que la nutrició es una parte fundamental en el fitness, indica que el 70% de esfuerzo es tener una nutrición balanceada y el otro 30% los ejercicios que se realicen, como ejemplo da que una persona que se sigue un plan de nutrición puede obtener los mismos resultados en una hora que una persona que entrena 4 horas pero descuida su nutrición.</br>Para culminar, Piero nos dice que cree que la manera en que Nourishify podria ayudarlo a brindar una mejor experiencia a sus clientes es al momento de prestar asesorias con nutrisionistas y haciendo entender a sus clientes la importancia que tiene mantener una dieta balanceada. Y reclaca la importancia de que la plataforma cuente con una cartera de usuarios amplia para que los gimnasios se vean a traidos a utilizar la plataforma.</p>
+</div>
+
+### **Usuario nutricionista**
 
 <h4>Entrevista 1</h4>
 
@@ -441,6 +456,7 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 <p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
 <p align="justify">Resumen entrevista:</p>
 </div>
+</br>
 
 <h4>Entrevista 2</h4>
 
@@ -454,19 +470,7 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 <p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
 <p align="justify">Resumen entrevista:</p>
 </div>
-
-<h4>Entrevista 3</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
+</br>
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
@@ -4050,6 +4054,7 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 <strong>Segmento 1: Clientes</strong>
 
 Jerárquica:
+
 <ul>
 <li>Registro de comidas: Los clientes pueden registrar las comidas que consumen diariamente para hacer un seguimiento de su ingesta nutricional. Esta información se organiza por categorías de alimentos (proteínas, carbohidratos, grasas, etc.).</li>
 <li>Plan de comidas: Los clientes pueden acceder a su plan de comidas personalizado. La información se organiza de manera jerárquica, con la comida del día actual en la parte superior, seguida de comidas futuras y pasadas.</li>
@@ -4083,13 +4088,13 @@ Jerárquica:
 </ul>
 
 Matricial:
+
 <ul>
 <li>
 Panel de control: Los tres segmentos tienen acceso a un panel de control principal donde pueden seleccionar las funciones que desean realizar en ese momento. Estas opciones se organizan en categorías por tipo de función (registro de comidas, consultas, administración del gimnasio, etc.).</li>
 <li>
 Blog de salud y fitness: Los tres segmentos tienen acceso a un blog con artículos sobre salud y fitness. Los artículos se organizan por categorías (nutrición, ejercicios, consejos, etc.).</li>
 </ul>
-
 
 <h3><a id="labeling-systems">4.2.2. Labeling Systems</a></h3>
 A continuación, se mostrará el sistema de etiquetado que permitirá a nuestros visitantes recibir la información que nuestra Landing page ofrece a través de una sola palabra.<br><br>
@@ -4102,24 +4107,20 @@ Contamos con cuatro “headings” con fuente sans-serif ubicadas en la parte su
 </ul>
 <h3><a id="meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3>
 
-A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito de aumentar su visibilidad en los motores de búsqueda. 
+A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito de aumentar su visibilidad en los motores de búsqueda.
 Landing Page:
 
 <p align ="center">
    <img src="./static/metatags.png" >
 </p>
 
-
-
 <h3><a id="searching-systems">4.2.4. Searching Systems</a></h3>
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.<br>
-Para el Landing Page, no se ha implementado un sistema de búsqueda, ya que la información esta segmentada y enlaza con el menú principal. Por esto mismo, podrán buscar toda la información necesaria para poder identificar lo más importante de nuestra solución, como a que nos dedicamos o cuales son nuestros servicios o principalmente podrán buscar los contactos para que puedan comunicarse con nosotros. 
-
+Para el Landing Page, no se ha implementado un sistema de búsqueda, ya que la información esta segmentada y enlaza con el menú principal. Por esto mismo, podrán buscar toda la información necesaria para poder identificar lo más importante de nuestra solución, como a que nos dedicamos o cuales son nuestros servicios o principalmente podrán buscar los contactos para que puedan comunicarse con nosotros.
 
 <h3><a id="navigation-systems">4.2.5. Navigation Systems</a></h3>
 A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.<br><br>
-Como se mencionó anteriormente en el Labeling Systems, contamos con cuatro “headings” en el Landing Page entre los cuales tenemos a Home, About, Services y Contact. Estas secciones son ubicadas como un menú global horizontal a lo largo de la parte superior del Landing page, se dividió la información en estas cuatro secciones con la finalidad de que el cliente no estuviera recorriendo hacia abajo, a través de la barra de desplazamiento vertical, la inmensidad de información disponible. Esto le facilitaría movilizarse a través de nuestro contenido. Por supuesto, la estrategia es que revise primero el Home, dónde se encuentra la información más relevante y la que llamará más su atención, y luego viaje a través del resto del menú de izquierda a derecha. 
-
+Como se mencionó anteriormente en el Labeling Systems, contamos con cuatro “headings” en el Landing Page entre los cuales tenemos a Home, About, Services y Contact. Estas secciones son ubicadas como un menú global horizontal a lo largo de la parte superior del Landing page, se dividió la información en estas cuatro secciones con la finalidad de que el cliente no estuviera recorriendo hacia abajo, a través de la barra de desplazamiento vertical, la inmensidad de información disponible. Esto le facilitaría movilizarse a través de nuestro contenido. Por supuesto, la estrategia es que revise primero el Home, dónde se encuentra la información más relevante y la que llamará más su atención, y luego viaje a través del resto del menú de izquierda a derecha.
 
 <h3><a id="landing-page-ui-design">4.3. Landing Page UI Design</a></h3>
 Las Landing Pages son herramientas que se utilizan para convertir a los visitantes en potenciales clientes a través de diversas maneras como mensajes llamativos, información sobre tu producto entre otras cosas. Por ello se decidió hacer uso de esta herramienta, en la que diseñamos la versión preliminar para la versión del móvil y para computadoras.  
@@ -4139,14 +4140,14 @@ Buscamos colocar la información precisa sin abrumar para realizar este trabajo.
 </p>
 
 <br>
-Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.  
+Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.
 
 <p align ="center">
    <img src="./static/wireframe-landing-page/meet-us.png" >
 </p>
 
 Opción que muestra datos para conocer mejor la plataforma.
-Servicios para  segmentos gimnasio y cliente:
+Servicios para segmentos gimnasio y cliente:
 
 <p align ="center">
    <img src="./static/wireframe-landing-page/services-client-gym.png" >
@@ -4163,6 +4164,7 @@ Link:<br>https://www.figma.com/file/FnK2DykjCBefplAsaeeLKV/Untitled?type=design&
 <strong>Mobile Web</strong>
 
 Se observa el diseño del bloque de menú de inicio para la accesibilidad del usuario, mostrando el botón que despliega las opciones de navegación.
+
 <p align ="center">
    <img src="./static/wireframe-landing-page/mobile-inicio.png" >
 </p>
@@ -4180,6 +4182,7 @@ Se visualiza los servicios para el segmento de gimnasio y cliente.
 </p>
 
 Se muestra el bloque final de la aplicación, detallando contenido de comunicación del servicio y el usuario
+
 <p align ="center">
    <img src="./static/wireframe-landing-page/mobile-contact-us.png" >
 </p>
@@ -4229,11 +4232,13 @@ Se muestra el bloque de servicios que se ofrecen para los clienntes y los gimnas
 </p>
 
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
+
 <p align ="center">
    <img src="./static/mockup-landing-page/mobile-mockup-contactus.png" >
 </p>
 
-Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&node-id=0%3A1&mode=design&t=KNIulrTFAMUSeGXi-1  
+Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&node-id=0%3A1&mode=design&t=KNIulrTFAMUSeGXi-1
+
 <h3><a id="web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3>
 <h3><a id="web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3>
 <h3><a id="web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></h3>
