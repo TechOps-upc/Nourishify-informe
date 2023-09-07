@@ -27,6 +27,27 @@
 | Sebastian Alonso Bustinza Muñoz | U202123362 |
 
 </div>
+</br>
+<h1 align="center">Registro de versiones</h1>
+</br>
+<table>
+        <thead>
+            <tr>
+                <th>Versión</th>
+                <th>Fecha</th>
+                <th>Autor</th>
+                <th>Descripción de modificaciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.0</td>
+                <td>07/09/2023</td>
+                <td>Acuna, Diego<br>Melgar, Adrian<br>Ramirez, Diego<br>Huamani, Jose<br>Bustinza, Sebastian</td>
+                <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
+            </tr>
+        </tbody>
+    </table>
 
 </br>
 <h1 align="center">Nourishify</h1>
@@ -176,19 +197,19 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="Foto 1" width="60" height="50" style="border-radius: 25%;">
+      <img src="static/diegoacuna.png" alt="Foto 1" width="60" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202...</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acuna Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Acuña Gomez, resido en Lima y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente 7mo ciclo. Considero que tengo habilidades en programación con C++, Javascript y Python. Me comprometo a ayudar al trabajo y desarrollo de nuestro trabajo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201c794</td>
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
+      <img src="static/sebastian.png" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202.....</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sebastian Bustinza</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 21 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre soñé con poder crear un mundo virtual y me gustaría especializarme en realidad virtual. Tengo conocimientos de programación en C, C++, Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de textos y presentaciones, básico de Java. Me gusta trabajar en equipo y conocer mucha gente.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123362</td>
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -208,11 +229,11 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
+      <img src="static/diegoramirez.png" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nombre 5</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202....</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ramirez, Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Ramirez, tengo 19 años y estoy en el quinto ciclo de la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123548</td>
   </tr>
 </table>
 
@@ -241,7 +262,6 @@ Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayore
    <img src="./static/peru-obesidad.png" >
 </p>
 
-> > > > > > > develop
 
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
@@ -466,41 +486,76 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 <h3><a id="strategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3>
 <h3><a id="entrevistas">2.2. Entrevistas</a></h3>
 <h3><a id="diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3>
+<ol>
+        <li>
+            <h4>Preguntas Generales:</h4>
+            <ol>
+                <li>¿Cuál es tu nombre y edad?</li>
+                <li>¿A qué te dedicas actualmente?</li>
+                <li>¿Qué actividades disfrutas hacer para mantenerte activo/a?</li>
+                <li>¿Cuál es tu nivel de interés en la nutrición personalizada y el bienestar?</li>
+                <li>¿Has tenido alguna experiencia previa con asesoramiento nutricional o planes de alimentación personalizados?</li>
+                <li>¿Cómo crees que la tecnología puede contribuir a mejorar tu bienestar?</li>
+            </ol>
+        </li>
+        <li>
+            <h4>Preguntas Específicas para Clientes:</h4>
+            <ol>
+                <li>¿Te motivaría usar una solución de nutrición personalizada?</li>
+                <li>¿Has tenido experiencia previa con planes de alimentación o asesoramiento nutricional?</li>
+                <li>¿Qué desafíos has enfrentado al intentar mejorar tu alimentación y bienestar?</li>
+                <li>¿Qué características te gustaría ver en una plataforma de nutrición personalizada?</li>
+                <li>¿Cómo crees que Nourishify podría ayudarte a alcanzar tus objetivos de salud y bienestar?</li>
+                <li>¿Qué características específicas te gustaría ver en una plataforma como Nourishify?</li>
+                <li>¿Cómo visualizas la colaboración con expertos en nutrición a través de una plataforma como Nourishify?</li>
+            </ol>
+        </li>
+        <li>
+            <h4>Preguntas Específicas para Nutriólogos:</h4>
+            <ol>
+                <li>¿Cómo ves la importancia de la nutrición personalizada en el bienestar de las personas?</li>
+                <li>¿Cuáles consideras que son los elementos más importantes en la creación de planes de alimentación efectivos?</li>
+                <li>¿Cuál crees que es la mayor barrera para que las personas sigan planes de alimentación saludables?</li>
+                <li>¿De qué manera Nourishify podría facilitar tu trabajo como profesional de la nutrición?</li>
+                <li>¿Qué valor agregarías a la plataforma como nutriólogo?</li>
+                <li>¿Cómo te imaginas colaborando con clientes a través de una plataforma digital como Nourishify?</li>
+            </ol>
+        </li>
+        <li>
+            <h4>Preguntas Específicas para Dueños de Gimnasios:</h4>
+            <ol>
+                <li>¿Qué opinas sobre la relación entre la nutrición personalizada y los resultados en el fitness?</li>
+                <li>¿Has considerado ofrecer servicios de asesoramiento nutricional en tu gimnasio?</li>
+                <li>¿Cómo crees que la promoción de tus servicios a través de una plataforma como Nourishify podría beneficiar a tu negocio?</li>
+                <li>¿Cuáles son los desafíos que enfrentas al tratar de brindar una experiencia completa de bienestar a tus clientes?</li>
+                <li>¿Cómo Nourishify podría integrarse con tus servicios existentes para ofrecer una solución más completa a tus clientes?</li>
+                <li>¿Qué incentivos consideras que podrían motivar a los dueños de gimnasios a unirse a una plataforma como Nourishify?</li>
+            </ol>
+        </li>
+    </ol>
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
+
+
+
+<div align ="center">
 
 ### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
 
-<div align ="center">
-
 | Nombre | Apellido | Edad |
 | :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Arecely  | Sanches    | 21  |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<img src="static/entrevista aracely.png" >
+<p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Aracely</a></p>
+<p align="justify">Resumen entrevista: La entrevistada fue Aracely Sanchez, tiene 21 años y reside en el distrito de Los Olivos. Estudia Periodismo en la Universidad Peruana de Ciencias Aplicadas. Aracely disfruta de ir al gimnasio todos los dias, su principal objetivo es ganar fuerza. Ella nos cuenta que llevaba atencion con un nutricionista previamente, pero dejo de hacerlo porque su nutricionista cobraba mucho y ella no podia permitirselo. Finalmente nos comenta que le parece una buena idea nuestra startup, ya que le daria mucha facilidad por el tema virtual, y ademas contar con planes de nutricion personalizados le parece una gran idea para negocio.
 </div>
-</br>
-
-<h4>Entrevista 2</h4>
-
-<div align ="center">
-
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
-
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
-</div>
-</br>
 
 ### **Usuario dueño de gimnasios**
 
 <h4>Entrevista 1</h4>
+
 
 <div align ="center">
 
@@ -512,6 +567,7 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 <p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=yE_6UbkDLLw" target="_blank"> Entrevista Donny Enriquez</a></p>
 <p align="justify">Resumen entrevista: Trabaja como dueño de un gimnasio. Indica que se mantiene activo realizando ejercicios de manera diaria. Como dueño de gimnasio indica que su interes con el tema de la nutrición personalizada y el bienestar es bastante alto ,ya que, el sentirse bien con uno mismo no solo en el enfoque de los ejercisios, sino tambien en la alimentación es sumamente importante para las personas. Donny a consultado con un nutricionista desde los 20 años ya que presentaba obesidad y esto dificultaba su día a día ,ya incluso, afectando su salid. Donny cree en base a su experiencia que en el fitness una correcta alimentación juega un papel más importante que el ejercicio, para la mayoria de personas una buena alimentación representa un 70% del esfuerzo para ponerse en forma y los ejercicios solo un 30% , ya que, sin una buena alimentación los resulatados que se buscan con el ejercicio son practicamente nulos. </br> Donny indica que la idea de ofrecer un servicio de nutrición si surgio al momento de estar planeando su gimnasio pero al final opto por enfocarse más en las maquinas y la experiensia que iba a experimentar sus clientes debido a los altos costos y mantenimiento de contar con un nutricionista en el mismo gimnasio.</br>
 Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesante y atractiva alianza para tanto los dueños de gimnasios como para los mismos usuarios, ya que, al tener todo centralizado en la plataforma facilitaria los distintos tramites que los usuarios tienen que realizar y para los dueños de gimnasios la facilidad de poder contar con planes de nutricion personalisados para sus clientes seria un plus enorme.</p>
+</p>
 </div>
 
 <h4>Entrevista 2</h4>
