@@ -25,7 +25,9 @@
 | Diego Miguel Ramirez Ortega     | U202123548 |
 | José Diego Huamani Sánchez      | U202110458 |
 | Sebastian Alonso Bustinza Muñoz | U202123362 |
-
+<br>
+<br>
+<h4>Link del repositorio: https://github.com/TechOps-upc/Nourishify-informe </h4>
 </div>
 </br>
 <h1 align="center">Registro de versiones</h1>
@@ -7778,3 +7780,8 @@ Network: se muestran los últimos commits, los push y los merge que el equipo de
                <img src="./static/landing-page-services-app-implementations-img/network.png">
             </p>
 Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+
+
+ANEXOS:
+Repositorio de Github: https://github.com/TechOps-upc/Nourishify-informe
+Video about the team: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2FTechOps%2DNourishify%2DApps%2DWeb%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
