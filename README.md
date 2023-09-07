@@ -551,6 +551,127 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 </br>
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
+A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada.
+</br>
+</br>
+<p align="left"><strong>Puntos en Común:
+ </strong> </p>
+
+<p align="left"><strong>SEGMENTO OBJETIVO-CLIENTES: </strong> </p>
+
+<p align="left"><strong>¿Te motivaría usar una solución de nutrición personalizada? </strong> </p>
+El 100% de los entrevistados estaría motivado para utilizar una solución de nutrición personalizada. La nutrición es fundamental para lograr objetivos de salud y bienestar, y tener un plan adaptado a sus necesidades les sería muy motivador.
+
+</br>
+<p align="left"><strong>¿Has tenido experiencia previa con planes de alimentación o asesoramiento nutricional?</strong> </p>
+
+
+El 100% de entrevistados ha intentado seguir planes de alimentación en el pasado y también han consultado con nutricionistas en busca de orientación. Sin embargo, a veces les ha sido difícil mantenerse en el camino debido a la falta de seguimiento y apoyo constante.
+
+<p align="left"><strong>¿Qué desafíos has enfrentado al intentar mejorar tu alimentación y bienestar?</strong> </p>
+
+
+El 100% de los entrevistados concuerda que uno de los desafíos más grandes ha sido la falta de disciplina y consistencia en seguir un plan de alimentación. Además, la falta de tiempo y la disponibilidad de alimentos poco saludables en sus entornos han sido barreras significativas.
+
+<p align="left"><strong>¿Qué características te gustaría ver en una plataforma de nutrición personalizada?</strong> </p>
+
+
+El 100% de entrevistados indica que les gustaría que la plataforma sea fácil de usar y accesible desde su dispositivo móvil. Debería ofrecer un seguimiento constante, permitir la comunicación con expertos en nutrición, y proporcionar herramientas para registrar sus comidas y progreso.
+
+<p align="left"><strong>¿Cómo crees que Nourishify podría ayudarte a alcanzar tus objetivos de salud y bienestar?</strong> </p>
+
+El 100% de los entrevistados cree que Nourishify podría ser una herramienta valiosa al proporcionar planes de alimentación personalizados y seguimiento constante. Además, si la plataforma ofrece educación nutricional y consejos prácticos, sería aún más útil para alcanzar sus objetivos.
+
+<p align="left"><strong>¿Qué características específicas te gustaría ver en una plataforma como Nourishify?</strong> </p>
+
+
+Al 100% de los entrevistados, le gustaría ver un chat privado con nutricionistas para obtener respuestas a sus preguntas en tiempo real. También sería genial si la plataforma ofreciera recordatorios para mantenerse en el camino y un sistema de seguimiento de progreso para ver las mejoras a lo largo del tiempo.
+
+<p align="left"><strong>¿Cómo visualizas la colaboración con expertos en nutrición a través de una plataforma como Nourishify?</strong> </p>
+
+
+El 100% de los entrevistados concuerda que sería una colaboración efectiva y conveniente, ya que, con los expertos en nutrición cuando lo necesite, se podrá programar sesiones de asesoramiento en línea y recibir orientación personalizada para ajustar sus planes de alimentación según las necesidades cambiantes. 
+
+<p align="left"><strong>Análisis General:</strong> </p> Los entrevistados muestran un fuerte interés en mejorar su nutrición y bienestar, y reconocen la importancia de la personalización y el apoyo continuo. Sus expectativas en una plataforma de nutrición personalizada son claras y reflejan la necesidad de herramientas prácticas y recursos educativos para lograr sus objetivos.
+</br>
+</br>
+
+<p align="left"><strong>SEGMENTO OBJETIVO-DUEÑOS DE GYMS: </strong> </p>
+
+<p align="left"><strong>¿Qué opinas sobre la relación entre la nutrición personalizada y los resultados en el fitness?
+</strong> </p>
+
+El 100% de los entrevistados están de acuerdo en que la nutrición personalizada es crítica para lograr resultados en el fitness y que representa una parte significativa del esfuerzo necesario.
+
+<p align="left"><strong>¿Has considerado ofrecer servicios de asesoramiento nutricional en tu gimnasio?
+</strong> </p>
+
+
+Donny consideró la idea, pero optó por no ofrecer servicios de nutrición debido a desafíos financieros, mientras que Piero no parece haber considerado esta opción.
+
+<p align="left"><strong>¿Cómo crees que la promoción de tus servicios a través de una plataforma como Nourishify podría beneficiar a tu negocio?
+</strong> </p>
+
+
+El 100% de los entrevistados ven el potencial de Nourishify para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición personalizada y educación sobre la dieta.
+
+<p align="left"><strong>¿Cómo Nourishify podría integrarse con tus servicios existentes para ofrecer una solución más completa a tus clientes?
+</strong> </p>
+
+
+Piero proporciona una perspectiva sobre cómo Nourishify podría integrarse para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición y educación.
+
+<p align="left"><strong>¿Qué incentivos consideras que podrían motivar a los dueños de gimnasios a unirse a una plataforma como Nourishify?
+</strong> </p>
+
+Piero resalta la importancia de una base de usuarios sólida como un posible incentivo para los dueños de gimnasios. No se mencionan otros incentivos específicos en las entrevistas.
+
+<p align="left"><strong>Análisis General:
+</strong> </p>
+Ambas entrevistas revelan un interés en la nutrición personalizada y en cómo Nourishify podría complementar los servicios de los gimnasios. También destacan la importancia de la educación nutricional y la necesidad de una base de usuarios sólida en la plataforma para atraer a los gimnasios. Estas entrevistas sugieren que hay interés y receptividad en la comunidad de dueños de gimnasios hacia servicios como los ofrecidos por Nourishify. Sin embargo, no se abordan explícitamente los desafíos específicos relacionados con la experiencia de bienestar de los clientes.
+
+</br>
+<p align="left"><strong>SEGMENTO OBJETIVO- NUTRICIONISTAS
+</strong> </p>
+
+<p align="left"><strong>¿Cómo ves la importancia de la nutrición personalizada en el bienestar de las personas?
+</strong> </p>
+
+El 100% de los entrevistados están de acuerdo en que la nutrición personalizada es crucial para el bienestar de las personas y reconocen la necesidad de adaptar los planes de alimentación a las necesidades individuales.
+
+<p align="left"><strong>¿Cuáles consideras que son los elementos más importantes en la creación de planes de alimentación efectivos?
+</strong> </p>
+
+Ambas nutricionistas identifican elementos clave para la creación de planes de alimentación efectivos, incluyendo el IMC, los gustos y las actividades de las personas.
+
+<p align="left"><strong>¿Cuál crees que es la mayor barrera para que las personas sigan planes de alimentación saludables?
+</strong> </p>
+
+El 100% de los entrevistados coinciden en que la falta de disciplina y voluntad, así como la falta de tiempo y la conveniencia de los alimentos procesados, son barreras comunes para que las personas sigan planes de alimentación saludables.
+
+<p align="left"><strong>¿De qué manera Nourishify podría facilitar tu trabajo como profesional de la nutrición?
+</strong> </p>
+
+Ambas nutricionistas ven el potencial de Nourishify para mejorar la comunicación con los pacientes, el seguimiento y la expansión de su clientela. Destacan la importancia de herramientas como el chat y la agenda de citas.
+
+<p align="left"><strong>¿Qué valor agregarías a la plataforma como nutriólogo?
+</strong> </p>
+
+Shirley proporciona una respuesta específica sobre el valor que podría agregar como nutricionista, destacando herramientas adicionales de seguimiento para mejorar la experiencia del cliente.
+
+<p align="left"><strong>¿Cómo te imaginas colaborando con clientes a través de una plataforma digital como Nourishify?
+</strong> </p>
+
+El 100% de los entrevistados reconocen la importancia de una mayor comunicación y seguimiento constante a través de la plataforma, pero Shirley proporciona detalles específicos sobre cómo podría utilizar canales de chat y voz para colaborar con los clientes.
+
+<p align="left"><strong>Análisis General: 
+</strong> </p>
+
+Ambas nutricionistas enfatizan la importancia de la nutrición personalizada y destacan elementos clave para crear planes de alimentación efectivos, como el IMC, los gustos y las actividades de las personas. Además, ambas identifican barreras comunes en la adherencia a los planes, como la falta de disciplina y el tiempo limitado. Ambas ven el potencial de una plataforma como la nuestra para mejorar la comunicación y el seguimiento con los clientes, así como para llegar a un público más amplio. También sugieren la inclusión de herramientas como chat y agendamiento de citas para facilitar su trabajo y mejorar la experiencia del cliente.
+
+
+
+
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
 
 Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a su vez fundamental, el cual consiste en la búsqueda de ciertas necesidades; de las cuales, por medio del proceso de investigación, podamos identificar las necesidades del mercado para llegar a una determina solución.
