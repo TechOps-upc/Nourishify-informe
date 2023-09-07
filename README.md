@@ -480,6 +480,31 @@ Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a 
 Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite indagar la forma de innovar ideas cada vez mejores.
 
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
+
+<div align="justify">
+<p>Estos vienen a representar personajes semi-ficticios basados en los posibles clientes ideales y/o actuales respectivamente, donde cuyos objetivos y características representan las <b>necesidades de un grupo más grande usuarios</b>, de los cuales utilizaran un determinado servicio, producto, sitio web o alguna de marca en particular (Galiana,2021).</p>
+</div>
+
+<img src="https://i.ibb.co/M7FHyhT/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:720px;height:650px;">
+
+<br><br>
+
+<img src="https://i.ibb.co/THMHNxz/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Miluska" style="width:720px;height:650px;">
+
+<br><br>
+
+<img src="https://i.ibb.co/fFKY7FV/Fabricio-Alexander-Hern-ndez-Del-Carpio.png" alt="User-Persona-Miluska" style="width:720px;height:650px;">
+
+<br><br>
+
+<img src="https://i.ibb.co/1LZv9BQ/Luis-Alberto-Olascoaga-P-rez.png" alt="User-Persona-Miluska" style="width:720px;height:650px;">
+
+<br><br>
+
+<img src="https://i.ibb.co/k96Hmzf/Jos-Alberto-N-ez-Peralta.png" alt="User-Persona-Miluska" style="width:720px;height:650px;">
+
+<br>
+
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
