@@ -951,6 +951,12 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
    <img src="./static/journey-mapping/cliente-journey-map.png" >
 </p>
 
+### Dueño de gimnasio
+
+<p align ="center">
+   <img src="./static/journey-mapping/dueño-gym-journey-map.png" >
+</p>
+
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 
