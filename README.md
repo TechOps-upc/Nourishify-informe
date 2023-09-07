@@ -470,6 +470,15 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
+
+Para los que no saben que es <em>Needfinding</em>, es una fragmento crucial y a su vez fundamental, el cual consiste en la búsqueda de ciertas necesidades; de las cuales, por medio del proceso de investigación, podamos identificar las necesidades del mercado para llegar a una determina solución.
+
+<blockquote cite="http://lec-estudios.cl/estudios-de-needfinding"> A partir de entrevistas en profundidad, se busca determinar las expectativas y necesidades de futuros usuarios, con el propósito de definir lineamientos que puedan guiar el desarrollo de nuevos proyectos de toda índole (Laboratorios de Estudios Cotidiano, 2018).</blockquote>
+
+<br>
+
+Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite indagar la forma de innovar ideas cada vez mejores.
+
 <h3><a id="user-personas">2.3.1. User Personas</a></h3>
 <h3><a id="user-task-matrix">2.3.2. User Task Matrix</a></h3>
 <h3><a id="user-journey-mapping">2.3.3. User Journey Mapping</a></h3>
