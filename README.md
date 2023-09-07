@@ -4784,6 +4784,19 @@ Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&
 </div>
 
 <h3><a id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3>
+
+<div align="justify">
+<p>Este apartado, mayormente se centra en la presentacion del diagrama de contexto del cual abarca nuestro software. Esto nos permite identificar el sistema y sus multiples relaciones con el mundo de su alrededor (en referencia a los usuarios con la aplicación), mostrando los principales puntos en su arquitectura.</p>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://i.ibb.co/yRT4gmY/imagen-2023-09-07-160743689.png" alt="Context-Diagram" style="width:500px;height:500px">
+</div>
+
+<br>
+
 <h3><a id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3>
 <h3><a id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3>
 <h3><a id="software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3>
