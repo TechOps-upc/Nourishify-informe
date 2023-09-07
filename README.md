@@ -4736,7 +4736,7 @@ Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&
 <br>
 
 <div align="center">
-<img src="https://i.ibb.co/yRT4gmY/imagen-2023-09-07-160743689.png" alt="Context-Diagram" style="width:500px;height:500px">
+<img src="https://i.ibb.co/yRT4gmY/imagen-2023-09-07-160743689.png" alt="Context-Diagram" style="width:700px;height:500px">
 </div>
 
 <br>
