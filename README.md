@@ -442,7 +442,35 @@ Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesan
 <p align="justify">Resumen entrevista: Piero Palomino se dedica unicamente a la administración de su gimnasio. Todas las mañanas sale a entrenar y luego pasa el resto del día en el gym gestionando y ayudando en cualquier tipo de inconveniente o consulta que pueda surgir. Piero nos indica que el tema de la nutrición personalisada y el vienestar es un tema que lo apasiona mucho ,ya que, este es un complemento de suma importancia al momento de desarrollar el plan de ejercicio y poder lograrlo satisfactoriamente. Piero desde hace 3 años sigue un plan de alimentación creado por un nutricionista. </br> Piero cree que la implementación de la tecnologia lo puede ayudar a mantener un mejor orden de sus comidas y caloria consumidas al día a día lo que le permite ser mas eficiente. Piero cree que la nutrició es una parte fundamental en el fitness, indica que el 70% de esfuerzo es tener una nutrición balanceada y el otro 30% los ejercicios que se realicen, como ejemplo da que una persona que se sigue un plan de nutrición puede obtener los mismos resultados en una hora que una persona que entrena 4 horas pero descuida su nutrición.</br>Para culminar, Piero nos dice que cree que la manera en que Nourishify podria ayudarlo a brindar una mejor experiencia a sus clientes es al momento de prestar asesorias con nutrisionistas y haciendo entender a sus clientes la importancia que tiene mantener una dieta balanceada. Y reclaca la importancia de que la plataforma cuente con una cartera de usuarios amplia para que los gimnasios se vean a traidos a utilizar la plataforma.</p>
 </div>
 
-### **Usuario dueño de nutricionista**
+### **Usuario nutricionista**
+
+<h4>Entrevista 1</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
+
+<h4>Entrevista 2</h4>
+
+<div align ="center">
+
+| Nombre | Apellido | Edad |
+| :----- | :------- | :--: |
+| Dummy  | Dummy    | 100  |
+
+<img src="./static/img.png" >
+<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
+<p align="justify">Resumen entrevista:</p>
+</div>
+</br>
 
 <h3><a id="analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3>
 <h3><a id="needfinding">2.3. Needfinding</a></h3>
