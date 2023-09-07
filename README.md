@@ -6,6 +6,7 @@
 
 <h2 align="center">Ingeniería de Software</h2>
 
+<div align='center'>
 <h3>Aplicaciones Web - TB1</h3>
 <ul>
    <li> <strong>Sección:</strong> SW52 </li>
@@ -24,6 +25,8 @@
 | Diego Miguel Ramirez Ortega     | U202123548 |
 | José Diego Huamani Sánchez      | U202110458 |
 | Sebastian Alonso Bustinza Muñoz | U202123362 |
+
+</div>
 
 </br>
 <h1 align="center">Nourishify</h1>
