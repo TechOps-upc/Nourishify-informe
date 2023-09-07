@@ -1086,9 +1086,46 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
+Segmento 1: Clientes<br><br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - As-Is Scenario Cliente.jpg" >
+</p><br>
+
+Segmento 2: Nutricionistas<br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - As-Is Scenario Nutricionista.jpg" >
+</p><br>
+
+Segmento 3: Dueños de gimnasios<br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - As-Is Scenario Dueño de un gimnasio.jpg" >
+</p><br>
+
+
 
 <h1><a id="capitulo-3">Capítulo III: Requirements Specification</a></h1>
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
+Segmento 1: Clientes<br><br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - To-be Scenario Cliente.jpg" >
+</p><br>
+
+Segmento 2: Nutricionistas<br><br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - To-Be Scenario Nutricionista.jpg" >
+</p><br>
+
+
+Segmento 3: Dueños de gimnasios<br><br>
+<p align="center">
+   <img src="./static/map-scenarios/Escritura de ideas - To-be Scenario Dueño de un gimnasio.jpg" >
+</p><br>
+
+
+<div align="center">
+<a href="https://miro.com/app/board/uXjVMnjpby0=/?share_link_id=381213353000">Enlace al Miro</a><br><br>
+</div>
+
 <h3><a id="user-stories">3.2. User Stories</a></h3>
 Epics
 <div align=justify>
