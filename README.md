@@ -218,6 +218,27 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
 
 <h3><a id="solution-profile">1.2. Solution Profile</a></h3>
 <h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
+<<<<<<< feature/landing-page-services-app-implementation
+
+<strong>What - ¿Cuál es el problema?</strong><br>
+El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.
+<strong>When - ¿Cuándo sucede el problema?</strong><br>
+El problema ocurre al momento de ingerir alimentos y la persona no es consciente del valor nutricional que la comida le está aportando o si esos alimentos perjudican a su salud.<br>
+<strong>Where - ¿Dónde surge el problema?</strong>
+EL problema ocurre en los ambientes donde se consumen alimentos, especialmente donde el control de la información nutricional de la comida es nulo. Por ejemplo, los restaurantes y carretillas. Incluso en los hogares, al momento de preparar una comida, también se puede presentar este problema.
+<strong>Who - ¿Quiénes son afectados por el problema?</strong><br>
+   Los principales afectados son:
+   -	Las personas que no tienen un buen hábito alimenticio.
+   -	Las personas que hacen deporte, pero tienen desórdenes alimenticios.
+
+<strong>Why - ¿Cuál es la causa del problema?</strong><br>
+Una de las principales causas del problema radica en el desconocimiento de las calorías que se están consumiendo por alimento. Esto generando un descontrol en la ingesta calórica diaria, lo que puede resultar en un aumento de peso.
+<br>
+<strong>How - ¿Cómo se llevan a cabo los hechos?</strong>
+Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br>
+<strong>How much- ¿Cuál es la magnitud del problema?</strong>
+Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable
+=======
 <strong>What - ¿Cuál es el problema?</strong><br>
 El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.<br><br>
 <strong>When - ¿Cuándo sucede el problema?</strong><br>
@@ -228,7 +249,7 @@ EL problema ocurre en los ambientes donde se consumen alimentos, especialmente d
    Los principales afectados son:
    -	Las personas que no tienen un buen hábito alimenticio.
    -	Las personas que hacen deporte, pero tienen desórdenes alimenticios.<br>
-<br>
+
 <strong>Why - ¿Cuál es la causa del problema?</strong><br>
 Una de las principales causas del problema radica en el desconocimiento de las calorías que se están consumiendo por alimento. Esto generando un descontrol en la ingesta calórica diaria, lo que puede resultar en un aumento de peso.
 <br><br>
@@ -241,6 +262,7 @@ Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayore
    <img src="./static/peru-obesidad.png" >
 </p>
 
+>>>>>>> develop
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
 <div align='justify'>
@@ -4599,7 +4621,7 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
 <ul>
 
 <li><strong>Github:</strong> Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br>
-https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3 
+https://github.com/TechOps-upc
 </li>
 
 <li>
@@ -4637,7 +4659,7 @@ A continuación, se presenta la gestión de código fuente o como es conocido po
 <li>
 <strong>URL de la Organización:</strong> https://github.com/TechOps-upc
 </li>
-<li><strong>URL del Repositorio del Landing Page:</strong> https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3/LandingPage-DocSeeker</li>
+<li><strong>URL del Repositorio del Landing Page:</strong>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html</li>
 </ul>
 <strong>GitFlow</strong>
 El enfoque de desarrollo de ramas en Git que ha ganado una gran importancia en los últimos años es un método alternativo que muchos desarrolladores consideran esencial. Este flujo de trabajo de control de versiones, que se basa en el uso de ramas, fue introducido y promovido por Vincent Driessen. Su propósito principal es facilitar la gestión y organización de las diferentes versiones de un código, permitiendo la creación ordenada de nuevas características (features) y correcciones urgentes (hotfixes).
@@ -6924,7 +6946,7 @@ style='mso-ansi-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
 <h3><a id="software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3>
 Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:<br>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
 <br><br>
-Para el desarrollo del Landing Page de DocSeeker se han utilizado las siguientes herramientas: 
+Para el desarrollo del Landing Page de Nourishify se han utilizado las siguientes herramientas: 
    <ul>
       <li>
          <strong>Html:</strong> Es el lenguaje de marcado que estructuro nuestro Landing Page.<br>Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual. 
@@ -7003,10 +7025,396 @@ El despliegue del Landing Page de Nourishify no pudo ser posible sin utilizar la
 <h3><a id="landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3>
 <h3><a id="sprint-1">5.2.1. Sprint 1</a></h3>
 <h3><a id="sprint-planning-1">5.2.1.1. Sprint Planning 1</a></h3>
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>2023-09-1</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>04:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Servidor de Discord del Equipo</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Acuña Gomez Diego Jose</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Adrian Gonzalo Melgar Takahashi / Diego Miguel Ramirez Ortega / José Diego Huamani Sánchez / Sebastian Alonso Bustinza Muñoz / Acuña Gomez Diego Jose</td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es el funcionamiento de la Landing Page, tanto su visualización, el acceso a las redes sociales, el traslado en la Landing Page y la visualización de los canales de comunicación de la empresa.</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td>7 Velocity</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>7 Story points</td>
+  </tr>
+</table>
+
 <h3><a id="sprint-backlog-1">5.2.1.2. Sprint Backlog 1</a></h3>
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th>User Story</th>
+    <th>Work-item/Task</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="6">Sprint 1</td>
+    <td rowspan="6">HU30: Visualización de Landing Page</td>
+    <td>TA01</td>
+    <td>#182062223</td>
+    <td>Agregar sección de descarga</td>
+    <td>Se creará un botón que dirija a la descarga de la aplicación en el inicio; asimismo, debe incluir un párrafo llamativo que acompañe a la opción.</td>
+    <td>2</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>#182062223</td>
+    <td>Añadir tarjetas de información</td>
+    <td>Para la sección de ‘conócenos’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los beneficios que ofrece la app.</td>
+    <td>4</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA03</td>
+    <td>#182062223</td>
+    <td>Añadir tarjetas de servicios para clientes</td>
+    <td>Para la sección de ‘servicios para pacientes’, se añadirá un listado de tarjetas (imágenes con texto) que muestren los servicios que ofrece la app.</td>
+    <td>4</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA04</td>
+    <td>#182062223</td>
+    <td>Añadir tarjetas de servicios para doctores</td>
+    <td>Para la sección de ‘servicios para gimnasios, se añadirá un listado de tarjetas (imágenes con texto) que muestren los servicios que ofrece la app.</td>
+    <td>4</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA05</td>
+    <td>#182062223</td>
+    <td>Añadir datos resaltantes</td>
+    <td>Agregar una sección que cuente con los datos numéricos y/o estadísticos más sorprendentes de Nourishify.</td>
+    <td>2</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA06</td>
+    <td>#182062223</td>
+    <td>Agregar encabezados de secciones</td>
+    <td>Colocar un encabezado que indique en qué sección se encuentra el usuario.</td>
+    <td>1</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Sprint 1</td>
+    <td rowspan="1">HU31: Contacto con la Empresa</td>
+    <td>TA01</td>
+    <td>#182062235</td>
+    <td>Añadir sección ‘contáctanos’</td>
+    <td>Se creará una sección al final del Landing Page que esté dedicada totalmente al contacto con la empresa.</td>
+    <td>2</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Sprint 1</td>
+    <td rowspan="2">HU32: Traslación en el Landing Page</td>
+    <td>TA01</td>
+    <td>#182267507</td>
+    <td>Crear encabezado del Landing Page</td>
+    <td>Se añadirá un encabezado que contenga el logo de Nourishify al inicio de la página.</td>
+    <td>1</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TA02</td>
+    <td>#182267507</td>
+    <td>Programar botones de secciones en el encabezado</td>
+    <td>Se crearán botones en el inicio que te lleven a distintas secciones de la página.</td>
+    <td>3</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Sprint 1</td>
+    <td rowspan="1">HU33: Acceso a redes sociales</td>
+    <td>TA01</td>
+    <td>#182267516</td>
+    <td>Añadir botones de redes sociales</td>
+    <td>Se añadirán botones que te lleven a las distintas redes sociales de la página en el footer.</td>
+    <td>3</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 <h3><a id="development-evidence-for-sprint-review">5.2.1.3. Development Evidence for Sprint Review</a></h3>
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección services, goals, hero and footer. Con ello completamos el primer sprint de implementación. <br><br>
+Integrantes:  <br><br>
+        <p align ="center">
+            <img src="./static/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+         </p>
+         <table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>main</td>
+    <td>18400df</td>
+    <td>project structure</td>
+    <td>HTML template with title("DocSeeker Landing Page).</td>
+    <td>6/9/23</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>main</td>
+    <td>89f5c9d</td>
+    <td>Initial commit</td>
+    <td>Initial commit: readme text landing page</td>
+    <td>6/09/2023</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>feature/structure-index</td>
+    <td>fc6e906</td>
+    <td>create structure and index.html</td>
+    <td>create structure and index.html</td>
+    <td>6/09/2023</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>feature/images-implement</td>
+    <td>98b7af5</td>
+    <td>images</td>
+    <td>Implement images for the landing page</td>
+    <td>6/09/2023</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>feature/index-html</td>
+    <td>3baa605</td>
+    <td>Index.html</td>
+    <td>add index html</td>
+    <td>6/09/2023</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>feature/styles</td>
+    <td>9fa14f7</td>
+    <td>Styles.css</td>
+    <td>add styles and scripts</td>
+    <td>6/09/2023</td>
+  </tr>
+  <tr>
+    <td>Diego Acuna / Landing-Page-DocSeeker</td>
+    <td>bugfix/fix-structure</td>
+    <td>d0f1169</td>
+    <td>Fix name structure</td>
+    <td>fix name assests to -&gt; assets</td>
+    <td>6/09/2023</td>
+  </tr>
+</table>
+
 <h3><a id="testing-suite-rvidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3>
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></h3>
+Vistas implementadas: La primera vista se puede observar el navbar con secciones HOME, MEET US O KNOW US, SERVICES, CONTACT US. Cabe resaltar que es fijo y con forme el usuario se desplaye podrá seleccionar cual sección desde el navbar<br><br>
+<strong>Desktop Web Browser</strong>
+Se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
+<p align ="center">
+   <img src="./static/mockup-landing-page/web-mockup-desktop.png" >
+</p>
+Al elegir la opción “Meet Us” de la barra de herramientas del menú principal, se muestra 3 elecciones como adquisición del usuario que tendrá libertad de elegir cuál opción es su necesidad para informarse acerca de nuestro proyecto.
+<p align ="center">
+   <img src="./static/mockup-landing-page/web-mockup-meetus.png" >
+</p>
+Se presenta los servicios que posee el usuario a lo largo del consumo del software.
+<br>
+<br>
+<strong>Usuarios: Clientes y gimnasios</strong>
+<p align ="center">
+   <img src="./static/mockup-landing-page/web-mockup-clients.png" >
+</p>
+Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
+<p align ="center">
+   <img src="./static/mockup-landing-page/web-mockup-contactus.png" >
+</p>
+Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&node-id=0%3A1&mode=design&t=KNIulrTFAMUSeGXi-1 
+<br><br>
 <h3><a id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3>
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web services.
+
 <h3><a id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3>
-<h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3>
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: <br>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+
+Para el desarrollo del Landing Page de Nourishify se han utilizado las siguientes herramientas: <br>
+
+ <ul>
+      <li>
+         <strong>Html:</strong> Es el lenguaje de marcado que estructuro nuestro Landing Page.<br>Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual. 
+      </li>
+      <br>
+         <p align ="center">
+         <img src="./static/software-deployment-configuration-images/softdevconfig-html-evidence.png" >
+         </p>
+      <li>
+         <strong>Css:</strong> Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale<br>Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html. 
+      </li><br>
+         <p align ="center">
+            <img src="./static/software-deployment-configuration-images/softdevconfig-css-evidence.png" >
+         </p>
+      <li>
+         <strong>JS:</strong> Nos ayudó a desarrollar la lógica necesaria para el Landing Page.<br>Evidencia: Se muestra el documento main.js.
+      </li><br>
+         <p align ="center">
+            <img src="./static/software-deployment-configuration-images/softdevconfig-js-evidence.png" >
+         </p>
+   </ul>
+El despliegue del Landing Page de Nourishify no pudo ser posible sin utilizar las siguientes tecnologías:
+
+   <ul>
+      <li><strong>Git:</strong> Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page. 
+      </li><br>
+         <p align ="center">
+            <img src="./static/software-deployment-configuration-images/git.png" width="100" height="100" >
+         </p>
+      <li>
+         <strong>Github:</strong> Plataforma de desarrollo colaborativo
+      </li><br>
+       <p align ="center">
+            <img src="./static/software-deployment-configuration-images/github.png" width="100" height="100" >
+         </p>
+      <li>
+         <strong>Git Flow:</strong>Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page
+      </li> 
+      <li>
+         <strong>Git Hub Pages</strong>Servicio de Github que nos permitió alojar nuestra Landing page.
+      </li> <br>
+         <p align ="center">
+            <img src="./static/software-deployment-configuration-images/githubpages.jpg" width="200" height="100" >
+         </p>
+   </ul>
+   <br>
+   Asimismo, se han realizado los siguientes pasos: 
+   <ul>
+      <li><strong>Dirigirse al repositorio de la página</strong>: Dado que se ha empleado Github, debemos ir al repositorio creado en este sitio web para publicar el Landing Page que ha desarrollado el equipo. Desde aquí, se podrá iniciar la configuración del vínculo de la página dirigiéndonos al apartado de Settings.</li><br>
+        <p align ="center">
+            <img src="./static/software-deployment-configuration-images/pasos-settings.png">
+         </p>
+      <li><strong>Ir a la opción de páginas:</strong> Una vez presentes la configuración del repositorio, debemos dirigirnos a la sección de Pages. Esto se debe a que ahí se encuentran todas las opciones de configuración de publicación de la página en un link o vínculo.</li><br>
+        <p align ="center">
+            <img src="./static/software-deployment-configuration-images/pasos-pages.png">
+         </p>
+      <li><strong>Elección de rama y carpeta de guardado: </strong>Dentro de pages, se debe seleccionar la rama o branch que se va a publicar en el vínculo. De la misma manera, se tiene que elegir la carpeta donde se localizará esta publicación a realizar. Finalmente podremos acceder a nuestra página con el link que aparece en la parte superior de este apartado de configuración</li><br>
+        <p align ="center">
+            <img src="./static/software-deployment-configuration-images/pasos-rama.png">
+         </p>
+   </ul>
+   Siguiendo los pasos, obtenemos el siguiente enlace:<br>
+   https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+   <br>
+   <strong>Evidencia de Deployment</strong><br><br>
+        <p align ="center">
+            <img src="./static/software-deployment-configuration-images/evidencia-deployment.png">
+         </p>
+   Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. 
+   <br><br>
+   Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page.<br><br>
+        <p align ="center">
+            <img src="./static/software-deployment-configuration-images/evidencia-deployment2.png">
+         </p>
+
+<h3><a id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3><br>
+Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.<br><br>
+Repositorio Principal: LandingPageDS:https://github.com/TechOps-upc/Landing-Page<br>
+Landing Page: https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+<br><br>
+<strong>Integrantes y aportantes:</strong>
+<br><br>
+        <p align ="center">
+            <img src="./static/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+         </p>
+         
+<br><br>
+Semana de desarrollo para el Sprint 1: se puede ver que todos los integrantes contribuyeron.
+   <p align ="center">
+               <img src="./static/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+            </p>
+<br><br>
+
+
+Así, el equipo comenzó el desarrollo y la conclusión del Sprint 1.
+Lenguaje por utilizar es HTML, con CSS y un poco de JS. 
+<br><br>
+<strong>Insigths GitHub:</strong>
+<br><br>
+
+Tráfico: se clonó el repositorio para comenzar a trabajar, y se efectuaron updates.
+
+  <p align ="center">
+               <img src="./static/landing-page-services-app-implementations-img/gitcloneandvisitors.png">
+            </p>
+<br><br>
+Visitors: número de visitantes en el repositorio y se realizaron 885 vistas, para visualizar si los commits y los merges se agregaban de manera correcta.
+<br><br>
+Commits: estos son los públicos en el martes 12 de abril de 2023, por el equipo de desarrolladores.
+<br><br>
+  <p align ="center">
+               <img src="./static/landing-page-services-app-implementations-img/commits.png">
+            </p>
+
+<br>
+A continuación, se presentan algunos commits:
+  <p align ="center">
+               <img src="./static/landing-page-services-app-implementations-img/branches.png">
+            </p>
+<br><Br>
+Network: se muestran los últimos commits, los push y los merge que el equipo desarrollador efectuó.
+
+<p align ="center">
+               <img src="./static/landing-page-services-app-implementations-img/network.png">
+            </p>
+Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
