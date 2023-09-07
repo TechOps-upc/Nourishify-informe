@@ -190,20 +190,22 @@
       <td rowspan="6">Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
     </tr>
     <tr>
-      <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Hice tal</td>
+      <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page</td>
       <td rowspan="6">Conclusion</td>
     </tr>
     <tr>
-      <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Hice tal</td>
+      <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los nutricionistas, analisis de entrevistas en general, empathy map y Product backlog.
+</td>
     </tr>
     <tr>
       <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.</td>
     </tr>
     <tr>
-      <td><strong>José Diego Huamani Sánchez</br>TB1:</strong></br>Hice tal</td>
+      <td><strong>José Diego Huamani Sánchez</br>TB1:</strong></br>En este entrega de la TB1, desarrolle el cuadro de análisis competitivo acerca de nuestros posibles competidores que tenemos en el mercado, modelo los diagramas referentes al "Domain Driven Software Architecture", descripcion del Needfinding y la  elaboracion de los posibles usuarios que usen nuestra plataforma (User personas),.
+</td>
     </tr>
     <tr>
-      <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Hice tal</td>
+      <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Para esta entraga he realizado los antecedentes y problemáticas. También la realización de los mapas de escenarios. Realicé las tareas anteriores con la comunicación continua, informandoles los avances y preguntando activamente sobre el desarrollo del trabajo en general</td>
     </tr>
     <tr>
   </tbody>
