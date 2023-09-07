@@ -218,6 +218,7 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
 
 <h3><a id="solution-profile">1.2. Solution Profile</a></h3>
 <h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
+<<<<<<< feature/landing-page-services-app-implementation
 
 <strong>What - ¿Cuál es el problema?</strong><br>
 El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.
@@ -237,6 +238,31 @@ Una de las principales causas del problema radica en el desconocimiento de las c
 Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br>
 <strong>How much- ¿Cuál es la magnitud del problema?</strong>
 Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable
+=======
+<strong>What - ¿Cuál es el problema?</strong><br>
+El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.<br><br>
+<strong>When - ¿Cuándo sucede el problema?</strong><br>
+El problema ocurre al momento de ingerir alimentos y la persona no es consciente del valor nutricional que la comida le está aportando o si esos alimentos perjudican a su salud.<br><br>
+<strong>Where - ¿Dónde surge el problema?</strong><br>
+EL problema ocurre en los ambientes donde se consumen alimentos, especialmente donde el control de la información nutricional de la comida es nulo. Por ejemplo, los restaurantes y carretillas. Incluso en los hogares, al momento de preparar una comida, también se puede presentar este problema.<br><br>
+<strong>Who - ¿Quiénes son afectados por el problema?</strong><br>
+   Los principales afectados son:
+   -	Las personas que no tienen un buen hábito alimenticio.
+   -	Las personas que hacen deporte, pero tienen desórdenes alimenticios.<br>
+
+<strong>Why - ¿Cuál es la causa del problema?</strong><br>
+Una de las principales causas del problema radica en el desconocimiento de las calorías que se están consumiendo por alimento. Esto generando un descontrol en la ingesta calórica diaria, lo que puede resultar en un aumento de peso.
+<br><br>
+<strong>How - ¿Cómo se llevan a cabo los hechos?</strong><br>
+Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br><br>
+<strong>How much- ¿Cuál es la magnitud del problema?</strong><br>
+Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable<br><br>
+
+<p align ="center">
+   <img src="./static/peru-obesidad.png" >
+</p>
+
+>>>>>>> develop
 <h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
 <h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
 <div align='justify'>
@@ -411,6 +437,17 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
 </div>
 <h3><a id="segmento-objetico">1.3. Segmentos objetivo</a></h3>
 
+Según la INEI(2022), de la población peruana, el 37,5% son las personas que presentan sobrepeso. Estas personas van desde 15 a más años de edad. Además, la ciudad de Lima tiene uno de los porcentajes más altos con un 39,3%. Por esta razón, nuestra aplicación empezará a funcionar en Lima.
+Nuestros Segmentos objetivos que identificamos son los siguientes:
+1.	Personas que busquen mejorar su salud, bienestar y calidad de vida:<br>
+Este segmento está compuesto por individuos que tienen interés en un estilo de vida y alimentación más saludable. Pueden estar buscando perder peso, aumentar su nivel de actividad física, etc.<br><br>
+2.	Nutricionistas:<br>
+Este segmento está compuesto por profesionales de la salud con experiencia en nutrición y dietética. Los nutricionistas desempeñan un rol fundamental en el cuidado de la alimentación de una persona.  Por esta razón, es importante que tengan un alcance amplio entre las personas interesadas en su salud.<br><br>
+3.	Dueños de gimnasios:<br>
+Este segmento está compuesto por empresarios que gestionan sus instalaciones de acondicionamiento físico y bienestar. Están enfocados en atraer y retener a sus clientes, mejorar la experiencia del cliente y optimizar la gestión de su negocio. La característica principal es que busca soluciones que les ayuden en el desarrollo de sus instalaciones.<br><br>
+
+
+
 <h1><a id="capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h3>
 <h3><a id="competidores">2.1. Competidores</a></h3>
 <h3><a id="analisis-competitivo">2.1.1. Análisis competitivo</a></h3>
@@ -517,13 +554,17 @@ Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesan
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre  | Apellido |  Edad   |
+| :------ | :------- | :-----: |
+| Shirley | Muñoz    | Edad 45 |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+</br>
+<img src="./static/entrevistas/ENTREVISTASHIRLEY.PNG" >
+
+</br>
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=gp5-G_Diuic" target="_blank">Entrevista a Shirley Marlene Muñoz Ibañez</a></p>
+<p align="justify">Resumen entrevista: Shirley Marelene Muñoz Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana, algunos días trabaja todo el día y otros días de madrugada. Shirley al contestar las preguntas realizadas, nos indicó que es de gran importancia que cada individuo tenga una nutrición especializada, de acuerdo a su actividad física, a su distribución de su composición corporal y de acuerdo a la condición médica que tenga.</br> En cuanto a los elementos para crear un plan de nutrición, mencionó que los principales son los gustos de las personas, la actividad que realiza la persona, sus horarios para saber cómo serán sus tiempos de comida y el 
+presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, de querer tener algún cambio en su alimentación, asimismo, la falta de tiempo, ya que, la falta de tiempo hace que tengamos a la mano alimentos procesados como las comidas rápidas.</br> Opina que nuestra plataforma la ayudaría a ampliar su cartera de clientes y a hacerse más conocida. Lo que ella agregaría a nuestra plataforma serían diversas formas de darle seguimiento a su cliente; como agendar citas, contar con un canal de chat y de voz, que le permita comunicarse con el cliente. </p>
 </div>
 </br>
 
@@ -531,13 +572,14 @@ Por ultimo, Donny nos dice que la idea de Nourishify le parece una muy interesan
 
 <div align ="center">
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Dummy  | Dummy    | 100  |
+| Nombre | Apellido |  Edad   |
+| :----- | :------- | :-----: |
+| Maria  | Ibañez   | Edad 69 |
 
-<img src="./static/img.png" >
-<p align="left"><strong>URL: </strong> <a href="https://" target="_blank">Entrevista Dummy Dummy</a></p>
-<p align="justify">Resumen entrevista:</p>
+<img src="./static/entrevistas/IMAGENENTREVISTAMINIATURA.png" >
+
+<p align="left"><strong>URL: </strong> <a href="https://www.youtube.com/watch?v=GBeYBsLTHJI" target="_blank">Entrevista a Maria Esther Ibañez Benites</a></p>
+<p align="justify">Resumen entrevista: Maria Esther Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana y los días que descansa prefiere estar en su casa con su familia. Maria Esther al contestar las preguntas realizadas, nos indicó que la nutrición personalizada es muy importante para el bienestar de la persona, porque cada una de ellas tiene distintos requerimientos, distintas edades y distintas patologías, cada persona es distinta.</br> En cuanto a los elementos importantes para desarrollar un plan de alimentación efectivo, son relevantes los índices de masa corporal de cada persona, porque esto nos indica si estamos en obesidad o en delgadez. Las barreras entre la persona y el plan de alimentación es la falta de seguimiento a su plan cada día, indica que debe ser estricta para ver que en verdad se cumpla.</br> Opina que podemos facilitarle el trabajo al obtener una mayor comunicación entre ella y su paciente o cliente, resalta la importancia de darle seguimiento. Le gustaría contar con un chat privado, con una herramienta para agendar citas, asimismo, cree que nuestra plataforma le ayudaría a llegar a más personas.  </p>
 </div>
 </br>
 
@@ -4138,6 +4180,198 @@ User: Cliente
 </p>
 
 <h3><a id="product-backlog">3.4. Product Backlog</a></h3>
+
+Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product Backlog se encarga de generar un orden de importancia entre todas las historias de usuarios, mientras más Story Points contenga, más relevante será para la plataforma. Por esta razón, se antepondrá el desarrollo de las US que tengan más puntos
+</br>
+
+<table>
+        <thead>
+            <tr>
+                <th>Orden</th>
+                <th>User Story ID</th>
+                <th>Título</th>
+                <th>Descripción</th>
+                <th>Story Points</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>HU01</td>
+                <td>Registrar Cuenta</td>
+                <td>Como usuario, deseo crear una nueva cuenta para entrar a la plataforma.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>HU02</td>
+                <td>Iniciar Sesión</td>
+                <td>Como usuario, deseo ingresar con mi cuenta ya creada para tener mis datos ya guardados.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>HU03</td>
+                <td>Cerrar Sesión</td>
+                <td>Como usuario, deseo cerrar sesión para que esta no se quede abierta en el buscador.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>HU04</td>
+                <td>Recuperar Cuenta</td>
+                <td>Como usuario, deseo que me brinden mis datos de inicio de sesión por un medio externo para recuperar mi cuenta.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>HU05</td>
+                <td>Visualización de Perfil</td>
+                <td>Como usuario, deseo ingresar a mi perfil para observar todos mis datos.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>HU06</td>
+                <td>Cambio de Foto</td>
+                <td>Como usuario, deseo ingresar una foto de perfil para que las personas con las que realizó algún contrato tengan una representación mía.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>HU07</td>
+                <td>Cambio de Ubicación</td>
+                <td>Como usuario, deseo cambiar mi lugar de residencia para que este se encuentre con mi dirección actual.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>HU08</td>
+                <td>Cambio de Número Telefónico</td>
+                <td>Como usuario, deseo cambiar mi número de teléfono o celular para que puedan contactarse conmigo.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>HU09</td>
+                <td>Cambio de Correo Afiliado</td>
+                <td>Como usuario, deseo cambiar de correo afiliado a mi cuenta para que esta se encuentre vinculada al que más utilizo.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>HU10</td>
+                <td>Cambio de Nombre</td>
+                <td>Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>HU11</td>
+                <td>Ingreso de Historial médico</td>
+                <td>Como cliente con historial médico, deseo ingresar el historial para que el profesional que contrate sepa mi situación.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>HU12</td>
+                <td>Ingreso de Curriculum Vitae</td>
+                <td>Como profesional de la nutrición, deseo ingresar mi CV a la plataforma para que los clientes sepan cuáles son mis capacidades como profesional.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>HU13</td>
+                <td>Ingreso de Información de gimnasio</td>
+                <td>Como dueño o administrador de gimnasio, deseo ingresar la información de mi gimnasio a la plataforma para que los usuarios sepan sobre las características de mi gimnasio.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>HU14</td>
+                <td>Búsqueda por nombre</td>
+                <td>Como cliente, deseo ingresar el nombre del especialista que estoy buscando para encontrarlo de manera más rápida.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>HU15</td>
+                <td>Agregación de Filtros</td>
+                <td>Como cliente, deseo añadir filtros en la búsqueda de los profesionales para que solo aparezcan los que cumplen con el criterio que solicitó.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>HU16</td>
+                <td>Visualización de Perfiles de Profesionales</td>
+                <td>Como familiar de una persona con discapacidad, deseo ingresar al perfil del profesional que busco para informarme más acerca de él.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>HU17</td>
+                <td>Selección del profesional</td>
+                <td>Como cliente, deseo recibir ayuda del profesional y seleccionar horario.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>HU18</td>
+                <td>Visualización de Calendario de Citas</td>
+                <td>Como profesional, deseo tener una agenda con el horario de mis reuniones en la plataforma para saber mis horas de trabajo.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>HU19</td>
+                <td>Registro de avances</td>
+                <td>Como profesional de la salud, deseo ingresar los avances obtenidos del paciente.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>HU20</td>
+                <td>Ingreso de plan alimenticio</td>
+                <td>Como profesional, deseo ingresar el plan alimenticio que recomiendo al cliente para que este lo visualice.</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>HU21</td>
+                <td>Visualización de plan alimenticio</td>
+                <td>Como cliente, deseo acceder al plan alimenticio.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>HU22</td>
+                <td>Ingreso de Experiencias</td>
+                <td>Como usuario, deseo ingresar mi experiencia en la plataforma para que otros clientes conozcan los beneficios de utilizarla.</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>HU23</td>
+                <td>Añadido de Reseñas</td>
+                <td>Como cliente, deseo agregar una reseña al profesional que contraté para que otros usuarios sepan qué tan bueno es su servicio.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>HU24</td>
+                <td>Agregar Ubicación del Gimnasio</td>
+                <td>Como dueño de un gimnasio, quiero agregar la ubicación exacta de mi gimnasio en la aplicación para que los clientes puedan encontrar fácilmente dónde estamos ubicados.</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>HU25</td>
+                <td>Describir Instalaciones y Servicios</td>
+                <td>Como usuario propietario de gimnasio, deseo proporcionar una descripción detallada de las instalaciones y servicios disponibles en mi gimnasio en la aplicación para que los clientes sepan qué ofrecemos.</td>
+                <td>5</td>
+            </tr>
+        </tbody>
+    </table>
 
 <h1><a id="capitulo-4">Capítulo IV: Product Design</a></h1>
 <h3><a id="style-guidelines">4.1. Style Guidelines</a></h3>
