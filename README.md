@@ -8,7 +8,7 @@
 
 <div align='center'>
 <h3>Aplicaciones Web - TB1</h3>
-<ul>
+<ul style="list-style-type: none;">
    <li> <strong>Sección:</strong> SW52 </li>
    <li><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</li>
    <li><strong>Ciclo:</strong> 2023-02</li>
@@ -255,8 +255,9 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
       <img src="./static/team-photos/OlgheeD.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202......</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201819465</td>
+
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
