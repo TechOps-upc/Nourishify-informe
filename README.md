@@ -197,7 +197,7 @@
       <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Hice tal</td>
     </tr>
     <tr>
-      <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br></td>
+      <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.</td>
     </tr>
     <tr>
       <td><strong>José Diego Huamani Sánchez</br>TB1:</strong></br>Hice tal</td>
