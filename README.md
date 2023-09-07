@@ -255,7 +255,7 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
       <img src="./static/team-photos/OlgheeD.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripcion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202......</td>
   </tr>
   <tr>
@@ -1166,7 +1166,7 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 </p>
 
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
-En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.   
+En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
 
 </br>
 <p align="left"><strong>Segmento 1: Cliente que desea mejorar su nutrición, bienestar y salud </strong> </p>
@@ -1184,7 +1184,6 @@ En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivo
 <p align="center">
    <img src="./static/Empathymapnutri.png" >
 </p><br>
-
 
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 Segmento 1: Clientes<br><br>
