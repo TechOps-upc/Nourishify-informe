@@ -7781,7 +7781,9 @@ Network: se muestran los últimos commits, los push y los merge que el equipo de
             </p>
 Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
 
-
-ANEXOS:
+<br><br>
+<h2>ANEXOS:</h2>
+<br><br>
 Repositorio de Github: https://github.com/TechOps-upc/Nourishify-informe
+<br>
 Video about the team: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2FTechOps%2DNourishify%2DApps%2DWeb%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
