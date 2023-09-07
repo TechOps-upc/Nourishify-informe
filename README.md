@@ -1075,6 +1075,26 @@ Se realiza un análisis de las principales funciones detectadas en la problemát
 </p>
 
 <h3><a id="empathy-mapping">2.3.4. Empathy Mapping</a></h3>
+En esta sección se presenta el Empathy Mapping de nuestros 3 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.   
+
+</br>
+<p align="left"><strong>Segmento 1: Cliente que desea mejorar su nutrición, bienestar y salud </strong> </p>
+
+<p align="center">
+   <img src="./static/Empathymap3.png" >
+</p><br>
+<p align="left"><strong>Segmento 2: Dueños de Gimnasios </strong> </p>
+
+<p align="center">
+   <img src="./static/Empathymapdueño.png" >
+</p><br>
+<p align="left"><strong>Segmento 3: Nutricionistas </strong> </p>
+
+<p align="center">
+   <img src="./static/Empathymapnutri.png" >
+</p><br>
+
+
 <h3><a id="as-is">2.3.5. As-is Scenario Mapping</a></h3>
 Segmento 1: Clientes<br><br>
 <p align="center">
