@@ -444,7 +444,7 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
 <h3><a id="to-be">3.1. To-Be Scenario Mapping</a></h3>
 <h3><a id="user-stories">3.2. User Stories</a></h3>
 Epics
-<div align=center>
+<div align=justify>
 <table>
   <thead>
     <tr>
@@ -494,8 +494,12 @@ Epics
   </tbody>
 </table>
 
+Imagen de Epics en Pivotal Tracker
 
-
+<p align ="center">
+   <img src="./static/userstories-epic.png" >
+</p>
+ <a href="https://www.pivotaltracker.com/n/projects/2674928">Enlace al pivotal tracker</a>
 </div>
 <br>
 <br>
