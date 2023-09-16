@@ -5087,6 +5087,14 @@ se va a estar adentrando para canalizar y cerciorar que datos se estarán utiliz
 
 <h3><a id="database-diagram">4.8.1. Database Diagram</a></h3>
 
+<div  align='center'>
+<img  src="https://i.ibb.co/88KsX2v/DB-Nourishify-UPC-App-Web-2023-09-16-09-09.png"  alt="Database_Diagram"  width="900"  height="700">
+
+<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/SnSuNS8DcPIuEpd1V0yLvb2mXNdmG2Jr</a></p>
+</div>
+
+<br>
+
 <h1><a id="capitulo-5">Capítulo V: Product Implementation, Validation & Deployment</a></h1>
 <h3><a id="software-configuration-management">5.1. Software Configuration Management</a></h3>
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
