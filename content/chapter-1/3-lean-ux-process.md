@@ -1,11 +1,13 @@
 <h3>1.2.2 Lean UX Process</h3>
 <h3>1.2.2.1. Lean UX Problem Statements</h3>
 <div align='justify'>
-En el contexto de la nutrición y el bienestar, enfrentamos una serie de desafíos significativos que afectan la salud y la calidad de vida de las personas. Cada vez más, las personas se encuentran insatisfechas con las soluciones actuales en términos de asesoramiento nutricional personalizado.
-<br></br>
-Los problemas predominantes incluyen la dificultad para acceder a planes de alimentación personalizados y efectivos, la falta de orientación adecuada, la confusión sobre las opciones disponibles y la falta de seguimiento y ajustes personalizados en sus programas de salud. Este panorama ha llevado a una problemática importante: muchas personas evitan buscar asesoramiento nutricional debido a la complejidad y falta de personalización en las soluciones actuales. Esto tiene un impacto negativo en su capacidad para alcanzar sus metas de salud y bienestar.
-<br></br>
-El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las personas reciban asesoramiento nutricional integral, efectivo y beneficioso para su salud, en un formato cómodo y altamente personalizado? ¿Cómo podemos simplificar el proceso y eliminar la confusión, permitiendo a las personas transformar su salud y bienestar de manera efectiva?
+En el contexto de la nutrición y el bienestar, enfrentamos una serie de desafíos significativos que afectan la salud y la calidad de vida de las personas, así como la eficacia de los profesionales de la nutrición. Tanto los clientes como los nutricionistas se enfrentan a dificultades significativas en la búsqueda y entrega de asesoramiento nutricional personalizado y efectivo.
+<br><br>
+Para los clientes, los problemas predominantes incluyen la dificultad para acceder a planes de alimentación personalizados y efectivos, la falta de orientación adecuada, la confusión sobre las opciones disponibles y la falta de seguimiento y ajustes personalizados en sus programas de salud. Esto ha llevado a una problemática importante: muchas personas evitan buscar asesoramiento nutricional debido a la complejidad y falta de personalización en las soluciones actuales, lo que tiene un impacto negativo en su capacidad para alcanzar sus metas de salud y bienestar.
+<br><br>
+Para los nutricionistas, los desafíos incluyen la necesidad de herramientas efectivas para crear planes nutricionales personalizados, realizar seguimiento de los progresos de los clientes y ajustar los planes según sea necesario. También se enfrentan a la dificultad de comunicarse y colaborar de manera efectiva con sus clientes, lo que a veces limita su capacidad para brindar un asesoramiento nutricional óptimo.
+<br><br>
+El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que tanto los clientes como los nutricionistas reciban asesoramiento nutricional integral, efectivo y beneficioso para la salud en un formato cómodo y altamente personalizado? ¿Cómo podemos simplificar el proceso y eliminar la confusión, permitiendo a las personas transformar su salud y bienestar de manera efectiva, al tiempo que facilitamos el trabajo de los profesionales de la nutrición?
 </div>
 <h3>1.2.2.2. Lean UX Assumptions</h3>
 <div align='justify'>
