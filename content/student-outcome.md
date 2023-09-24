@@ -69,3 +69,13 @@
       </tr>
    </tbody>
 </table>
+
+<div display="flex" align="right" >
+   </br></br>
+   &lt;
+   <a href="../README.md">Previous</a>
+   &boxh;
+   <a href="./chapter-1/1-startup-profile.md">Next</a>
+   &gt;
+   </br></br>
+</div>

@@ -57,7 +57,7 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
 <div display="flex" align="right" >
    </br></br>
    &lt;
-   <a href="../../README.md">Previous</a>
+   <a href="../student-outcome.md">Previous</a>
    &boxh;
    <a href="./2-solution-profile.md">Next</a>
    &gt;
