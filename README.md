@@ -87,24 +87,24 @@
 <h1 align="center">Contenido</h1>
 </br>
 <ul style="list-style-type: none;">
-   <li><h1><a href="">Capítulo I: Introducción</a></h1></li>
-   <li><h3><a href="">1.1. Startup Profile</a></h3></li>
+   <li><h1><a href="./content/chapter-1/1-startup-profile.md">Capítulo I: Introducción</a></h1></li>
+   <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1. Startup Profile</a></h3></li>
    <ul>
-      <li><h3><a href="">1.1.1.  Descripción de la Startup</a></h3></li>
-      <li><h3><a href="">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
+      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.1.  Descripción de la Startup</a></h3></li>
+      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
    </ul>
-   <li><h3><a href="">1.2. Solution Profile</a></h3></li>
+   <li><h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3></li>
    <ul>
-      <il><h3><a href="">1.2.1 Antecedentes y problemática</a></h3></il>
-      <il><h3><a href="">1.2.2 Lean UX Process</a></h3></il>
+      <il><h3><a href="./content/chapter-1/2-solution-profile.md">1.2.1 Antecedentes y problemática</a></h3></il>
+      <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2 Lean UX Process</a></h3></il>
       <ul>
-         <il><h3><a href="">1.2.2.1. Lean UX Problem Statements</a></h3></il>
-         <il><h3><a href="">1.2.2.2. Lean UX Assumptions</a></h3></il>
-         <il><h3><a href="">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
-         <il><h3><a href="">1.2.2.4. Lean UX Canvas</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.1. Lean UX Problem Statements</a></h3></il>
+         <il><h3><a href="../content/chapter-1/3-lean-ux-process.md">1.2.2.2. Lean UX Assumptions</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.4. Lean UX Canvas</a></h3></il>
       </ul>
    </ul>
-   <il><h3><a href="">1.3. Segmentos objetivo</a></h3></il>
+   <il><h3><a href="./content/chapter-1/4-segmento-objetivo.md">1.3. Segmentos objetivo</a></h3></il>
 
 <il><h1><a href="">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
 <il><h3><a href="">2.1. Competidores</a></h3></il>
