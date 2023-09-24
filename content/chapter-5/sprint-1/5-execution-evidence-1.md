@@ -22,3 +22,12 @@ Se presenta como bloque final de la plataforma, información breve de contacto, 
 </p>
 Link:<br>https://www.figma.com/file/4xDxh5FYrqfFsA5q0P2OWh/Untitled?type=design&node-id=0%3A1&mode=design&t=KNIulrTFAMUSeGXi-1 
 <br><br>
+<div display="flex" align="right" >
+   </br></br>
+   &lt;
+   <a href="./4-testing-suit-evidence-1.md">Previous</a>
+   &boxh;
+   <a href="./6-services-documentation-evicence-1.md">Next</a>
+   &gt;
+   </br></br>
+</div>
