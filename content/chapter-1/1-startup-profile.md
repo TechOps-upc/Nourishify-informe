@@ -54,3 +54,12 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123548</td>
   </tr>
 </table>
+<div display="flex" align="right" >
+   </br></br>
+   &lt;
+   <a href="../../README.md">Previous</a>
+   &boxh;
+   <a href="./2-solution-profile.md">Next</a>
+   &gt;
+   </br></br>
+</div>

@@ -172,9 +172,9 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las pers
 <div display="flex" align="right" >
    </br></br>
    &lt;
-   <a href="">Previous</a>
-   &boxH;
-   <a href="">Next</a>
+   <a href="./2-solution-profile.md">Previous</a>
+   &boxh;
+   <a href="./4-segmento-objetivo.md">Next</a>
    &gt;
    </br></br>
 </div>

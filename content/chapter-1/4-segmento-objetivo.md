@@ -10,7 +10,7 @@ Este segmento está compuesto por profesionales de la salud con experiencia en n
 <div display="flex" align="right" >
    </br></br>
    &lt;
-   <a href="./lean-ux-process.md">Previous</a>
+   <a href="./3-lean-ux-process.md">Previous</a>
    &boxh;
    <a href="../chapter-2/1-competidores.md">Next</a>
    &gt;

@@ -27,9 +27,9 @@ Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayore
 <div display="flex" align="right" >
    </br></br>
    &lt;
-   <a href="./startup-profile.md">Previous</a>
+   <a href="./1-startup-profile.md">Previous</a>
    &boxh;
-   <a href="./lean-ux-process.md">Next</a>
+   <a href="./3-lean-ux-process.md">Next</a>
    &gt;
    </br></br>
 </div>
