@@ -53,7 +53,7 @@ Epics
 Imagen de Epics en Pivotal Tracker
 
 <p align ="center">
-   <img src="./static/userstories-epic.png" >
+   <img src="../images/random/userstories-epic.png" >
 </p>
  <a href="https://www.pivotaltracker.com/n/projects/2674928">Enlace al pivotal tracker</a>
 </div>
