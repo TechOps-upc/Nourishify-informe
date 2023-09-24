@@ -196,7 +196,7 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
    &lt;
    <a href="./3-impact-mapping.md">Previous</a>
    &boxh;
-   <a href="../">Next</a>
+   <a href="../chapter-4/1-style-guidelines.md">Next</a>
    &gt;
    </br></br>
 </div>
