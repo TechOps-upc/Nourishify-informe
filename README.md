@@ -87,6 +87,7 @@
 <h1 align="center">Contenido</h1>
 </br>
 <ul style="list-style-type: none;">
+   <li><a href="./content/student-outcome.md"><h1>Student Outcome</a></h1></li>
    <li><h1><a href="./content/chapter-1/1-startup-profile.md">Capítulo I: Introducción</a></h1></li>
    <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1. Startup Profile</a></h3></li>
    <ul>
