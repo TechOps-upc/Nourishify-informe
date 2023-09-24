@@ -52,6 +52,6 @@ Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landin
 <div display="flex" align="right" >
    </br></br>
    &lt;
-   <a href="./7-software-deplayment-evidence-1.md">Previous</a>
+   <a href="./7-software-deployment-evidence-1.md">Previous</a>
    </br></br>
 </div>

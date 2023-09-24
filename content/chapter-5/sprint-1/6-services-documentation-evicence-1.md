@@ -6,7 +6,7 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
    &lt;
    <a href="./5-execution-evidence-1.md">Previous</a>
    &boxh;
-   <a href="./7-software-deplayment-evidence-1.md">Next</a>
+   <a href="./7-software-deployment-evidence-1.md">Next</a>
    &gt;
    </br></br>
 </div>
