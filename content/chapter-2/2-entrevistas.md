@@ -54,19 +54,30 @@
     </ol>
 <h3>2.2.2. Registro de entrevistas</h3>
 
-<div align ="center">
-
 ### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
+<div align ="center">
 
-| Nombre  | Apellido | Edad |
-| :------ | :------- | :--: |
-| Arecely | Sanches  |  21  |
+| Nombre  | Apellido | Edad |  Distrito  |
+| :------ | :------- | :--: | :--------: |
+| Arecely | Sanches  |  21  | Los Olivos |
 
 <img src="../images/interviews/clients/entrevista aracely.png" >
 <p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Aracely</a></p>
 <p align="justify">Resumen entrevista: La entrevistada fue Aracely Sanchez, tiene 21 años y reside en el distrito de Los Olivos. Estudia Periodismo en la Universidad Peruana de Ciencias Aplicadas. Aracely disfruta de ir al gimnasio todos los dias, su principal objetivo es ganar fuerza. Ella nos cuenta que llevaba atencion con un nutricionista previamente, pero dejo de hacerlo porque su nutricionista cobraba mucho y ella no podia permitirselo. Finalmente nos comenta que le parece una buena idea nuestra startup, ya que le daria mucha facilidad por el tema virtual, y ademas contar con planes de nutricion personalizados le parece una gran idea para negocio.
+</div>
+
+<h4>Entrevista 2</h4>
+<div align ="center">
+
+| Nombre | Apellido | Edad |  Distrito   |
+| :----- | :------- | :--: | :---------: |
+| Donny  | Enriquez |  22  | La Victoria |
+
+<img src="../images/interviews/clients/entrevista-donny-enriquez-cliente.png" >
+<p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Donny</a></p>
+<p align="justify">Resumen entrevista: El entrevistado se llama Donny Enriquez, tiene 22 años y vive en el distrito de La Victoria. Actualmente está estudiando y en su tiempo libre disfruta de ir al gimnasio, con el objetivo principal de mejorar su salud. Donny nos cuenta que tiene un interés bastante alto en la nutrición personalizada y el bienestar, y en este momento sigue un plan de nutrición diseñado específicamente para él por un nutricionista. Donny utiliza un iPhone y una computadora de escritorio con sistema Windows, y en ambos dispositivos utiliza el navegador Google Chrome. Las redes sociales que más utiliza son Instagram, WhatsApp y Facebook. En resumen, Donny piensa que nuestra startup es una excelente idea, ya que le proporcionaría mucha comodidad debido a su enfoque virtual. Además, considera que la oferta de planes de nutrición personalizados es una gran oportunidad de negocio.
 </div>
 
 ### **Usuario nutricionista**
@@ -75,9 +86,9 @@
 
 <div align ="center">
 
-| Nombre  | Apellido |  Edad   |
-| :------ | :------- | :-----: |
-| Shirley | Muñoz    | Edad 45 |
+| Nombre  | Apellido | Edad |  Distrito  |
+| :------ | :------- | :--: | :--------: |
+| Shirley | Muñoz    |  45  | Los Olivos |
 
 </br>
 <img src="../images/interviews/nutritionists/ENTREVISTASHIRLEY.PNG" >
@@ -93,9 +104,9 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 
 <div align ="center">
 
-| Nombre | Apellido |  Edad   |
-| :----- | :------- | :-----: |
-| Maria  | Ibañez   | Edad 69 |
+| Nombre | Apellido | Edad |  Distrito  |
+| :----- | :------- | :--: | :--------: |
+| Maria  | Ibañez   |  69  | Los Olivos |
 
 <img src="../images/interviews/nutritionists/IMAGENENTREVISTAMINIATURA.png" >
 
