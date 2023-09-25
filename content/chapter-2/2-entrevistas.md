@@ -5,10 +5,12 @@
             <h4>Preguntas Generales:</h4>
             <ol>
                 <li>¿Cuál es tu nombre y edad?</li>
+                <li>¿En que distrito vives?</li>
                 <li>¿A qué te dedicas actualmente?</li>
                 <li>¿Qué actividades disfrutas hacer para mantenerte activo/a?</li>
                 <li>¿Cuál es tu nivel de interés en la nutrición personalizada y el bienestar?</li>
                 <li>¿Has tenido alguna experiencia previa con asesoramiento nutricional o planes de alimentación personalizados?</li>
+                <li>¿Cuales son los buscadores que utiliza?</li>
                 <li>¿Qué tipo de dispositivo móvil usas?</li>
                 <li>¿Cuáles son tus redes sociales donde eres más activo?</li>
                 <li>¿De qué sistema operativo es la computadora o laptop que utilizas?</li>
@@ -115,7 +117,6 @@ El 85% de los entrevistados usa smartphones con sistema operativo Android, mient
 <p align="left"><strong>¿Cuáles son tus redes sociales donde eres más activo?</strong> </p>
 El 70% de los  entrevistados indicó que es más activo en Instagram, seguido de un 20% en Facebook y un 10% en LinkdIn. Las redes sociales juegan un papel esencial en su vida diaria, ya que les permiten seguir a expertos en nutrición y bienestar, y obtener consejos y recomendaciones.
 
-
 <p align="left"><strong>¿De qué sistema operativo es la computadora o laptop que utilizas? </strong> </p>
 El 90% de los entrevistados utiliza una computadora con sistema operativo Windows, mientras que el 10% prefiere MacOS. La elección del sistema operativo está influenciada por su uso profesional y personal.
 
@@ -155,7 +156,6 @@ El 100% de los entrevistados concuerda que sería una colaboración efectiva y c
 <p align="left"><strong>Análisis General:</strong> </p> Los entrevistados muestran un fuerte interés en mejorar su nutrición y bienestar, y reconocen la importancia de la personalización y el apoyo continuo. Sus expectativas en una plataforma de nutrición personalizada son claras y reflejan la necesidad de herramientas prácticas y recursos educativos para lograr sus objetivos.
 </br>
 </br>
-
 
 <p align="left"><strong>SEGMENTO OBJETIVO- NUTRICIONISTAS
 </strong> </p>
