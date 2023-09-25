@@ -15,11 +15,11 @@ Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite
 </div>
 
 <div align='center'>
-<img src="https://i.ibb.co/M7FHyhT/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
 
 <br><br>
 
-<img src="https://i.ibb.co/THMHNxz/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
 
 <br><br>
 
@@ -31,7 +31,6 @@ Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite
 
 <br><br>
 
-<img src="https://i.ibb.co/k96Hmzf/Jos-Alberto-N-ez-Peralta.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
 </div>
 
 <br>
