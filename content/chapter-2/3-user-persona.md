@@ -15,23 +15,22 @@ Por ende, dichas necesidades concretas que presentan dichos usuarios nos permite
 </div>
 
 <div align='center'>
-<img src="https://i.ibb.co/M7FHyhT/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Miluska-Luzmila-Barrientos.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
 
 <br><br>
 
-<img src="https://i.ibb.co/THMHNxz/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Luz-Camila-Heredia-Pel-ez.png" alt="User-Persona-Luz" style="width:500px;height:650px;">
 
 <br><br>
 
-<img src="https://i.ibb.co/fFKY7FV/Fabricio-Alexander-Hern-ndez-Del-Carpio.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Luis-Alejandro-Mora.png" alt="User-Persona-Luis" style="width:500px;height:650px;">
 
 <br><br>
 
-<img src="https://i.ibb.co/1LZv9BQ/Luis-Alberto-Olascoaga-P-rez.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
+<img src="../images/user-stories/Laura-Lopez.jfif" alt="User-Persona-Laura" style="width:500px;height:650px;">
 
 <br><br>
 
-<img src="https://i.ibb.co/k96Hmzf/Jos-Alberto-N-ez-Peralta.png" alt="User-Persona-Miluska" style="width:500px;height:650px;">
 </div>
 
 <br>

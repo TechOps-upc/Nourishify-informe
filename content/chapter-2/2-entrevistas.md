@@ -9,6 +9,9 @@
                 <li>¿Qué actividades disfrutas hacer para mantenerte activo/a?</li>
                 <li>¿Cuál es tu nivel de interés en la nutrición personalizada y el bienestar?</li>
                 <li>¿Has tenido alguna experiencia previa con asesoramiento nutricional o planes de alimentación personalizados?</li>
+                <li>¿Qué tipo de dispositivo móvil usas?</li>
+                <li>¿Cuáles son tus redes sociales donde eres más activo?</li>
+                <li>¿De qué sistema operativo es la computadora o laptop que utilizas?</li>
                 <li>¿Cómo crees que la tecnología puede contribuir a mejorar tu bienestar?</li>
             </ol>
         </li>
@@ -103,9 +106,22 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada.
 </br>
 </br>
-<p align="left"><strong>Puntos en Común:
- </strong> </p>
 
+<p align="left"><strong>PREGUNTAS EN COMUN: </strong> </p>
+</br>
+<p align="left"><strong>¿Qué tipo de dispositivo móvil usas? </strong> </p>
+El 85% de los entrevistados usa smartphones con sistema operativo Android, mientras que el 15% restante usa iPhones. La movilidad y la facilidad de acceso a aplicaciones de salud y bienestar son factores clave en su elección de dispositivo.
+
+<p align="left"><strong>¿Cuáles son tus redes sociales donde eres más activo?</strong> </p>
+El 70% de los entrevistados indicó que es más activo en Instagram, seguido de un 20% en Facebook y un 10% en LinkdIn. Las redes sociales juegan un papel esencial en su vida diaria, ya que les permiten seguir a expertos en nutrición y bienestar, y obtener consejos y recomendaciones.
+
+
+<p align="left"><strong>¿De qué sistema operativo es la computadora o laptop que utilizas? </strong> </p>
+El 90% de los entrevistados utiliza una computadora con sistema operativo Windows, mientras que el 10% prefiere MacOS. La elección del sistema operativo está influenciada por su uso profesional y personal.
+
+<p align="left"><strong>¿Cómo crees que la tecnología puede contribuir a mejorar tu bienestar?</strong> </p>
+El 100% de los entrevistados cree que la tecnología tiene un impacto significativo en la mejora de su bienestar. Las aplicaciones y plataformas digitales proporcionan herramientas útiles para seguir dietas personalizadas, realizar ejercicios y mantener un registro de su salud. 
+<br><br>
 <p align="left"><strong>SEGMENTO OBJETIVO-CLIENTES: </strong> </p>
 
 <p align="left"><strong>¿Te motivaría usar una solución de nutrición personalizada? </strong> </p>
@@ -140,39 +156,7 @@ El 100% de los entrevistados concuerda que sería una colaboración efectiva y c
 </br>
 </br>
 
-<p align="left"><strong>SEGMENTO OBJETIVO-DUEÑOS DE GYMS: </strong> </p>
 
-<p align="left"><strong>¿Qué opinas sobre la relación entre la nutrición personalizada y los resultados en el fitness?
-</strong> </p>
-
-El 100% de los entrevistados están de acuerdo en que la nutrición personalizada es crítica para lograr resultados en el fitness y que representa una parte significativa del esfuerzo necesario.
-
-<p align="left"><strong>¿Has considerado ofrecer servicios de asesoramiento nutricional en tu gimnasio?
-</strong> </p>
-
-Donny consideró la idea, pero optó por no ofrecer servicios de nutrición debido a desafíos financieros, mientras que Piero no parece haber considerado esta opción.
-
-<p align="left"><strong>¿Cómo crees que la promoción de tus servicios a través de una plataforma como Nourishify podría beneficiar a tu negocio?
-</strong> </p>
-
-El 100% de los entrevistados ven el potencial de Nourishify para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición personalizada y educación sobre la dieta.
-
-<p align="left"><strong>¿Cómo Nourishify podría integrarse con tus servicios existentes para ofrecer una solución más completa a tus clientes?
-</strong> </p>
-
-Piero proporciona una perspectiva sobre cómo Nourishify podría integrarse para mejorar la experiencia de sus clientes al ofrecer servicios de nutrición y educación.
-
-<p align="left"><strong>¿Qué incentivos consideras que podrían motivar a los dueños de gimnasios a unirse a una plataforma como Nourishify?
-</strong> </p>
-
-Piero resalta la importancia de una base de usuarios sólida como un posible incentivo para los dueños de gimnasios. No se mencionan otros incentivos específicos en las entrevistas.
-
-<p align="left"><strong>Análisis General:
-</strong> </p>
-Ambas entrevistas revelan un interés en la nutrición personalizada y en cómo Nourishify podría complementar los servicios de los gimnasios. También destacan la importancia de la educación nutricional y la necesidad de una base de usuarios sólida en la plataforma para atraer a los gimnasios. Estas entrevistas sugieren que hay interés y receptividad en la comunidad de dueños de gimnasios hacia servicios como los ofrecidos por Nourishify. Sin embargo, no se abordan explícitamente los desafíos específicos relacionados con la experiencia de bienestar de los clientes.
-
-</br>
-</br>
 <p align="left"><strong>SEGMENTO OBJETIVO- NUTRICIONISTAS
 </strong> </p>
 
