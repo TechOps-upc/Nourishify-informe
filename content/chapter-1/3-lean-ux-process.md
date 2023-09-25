@@ -145,22 +145,36 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que tanto lo
     <li>
         <strong>1ra Hipótesis:</strong>
         <ul>
-            <li>Creemos que proporcionar a los usuarios planes de nutrición personalizados y acceso a su progreso nutricional a través de nuestra aplicación tendrá un impacto positivo en su compromiso con una alimentación saludable.</li>
-            <li>Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en la retención mensual de usuarios y una disminución del 10% en las solicitudes de cancelación de suscripciones premium.</li>
+            <li>Creemos que ofrecer a los usuarios la capacidad de crear perfiles personalizados y registrar su información de salud hará que sientan que el servicio está adaptado a sus necesidades específicas.</li>
+            <li>Sabremos que hemos tenido éxito cuando veamos un aumento de 25 % en la retención y participación de usuarios después de la implementación de esta característica.</li>
         </ul>
     </li>
     <li>
         <strong>2da Hipótesis:</strong>
         <ul>
             <li>Creemos que ofrecer a los nutricionistas una plataforma para crear planes de nutrición personalizados y comunicarse eficazmente con los pacientes mejorará su capacidad para brindar un servicio de alta calidad.</li>
-            <li>Sabremos que hemos tenido éxito cuando notemos que los nutricionistas aumentan su tasa de pacientes atendidos en un 25% en los primeros tres meses de uso de nuestra plataforma, y recibamos comentarios positivos de los pacientes sobre la calidad de la atención recibida.</li>
+            <li>Sabremos que hemos tenido éxito cuando registremos un incremento de 20% en las reservas y consultas con nutricionistas a través de la plataforma.</li>
         </ul>
     </li>
     <li>
         <strong>3ra Hipótesis:</strong>
         <ul>
-            <li>Creemos que brindar a los gimnasios la capacidad de ofrecer asesoramiento nutricional personalizado como parte de sus servicios mejorará la retención de sus miembros y atraerá a nuevos clientes.</li>
-            <li>Sabremos que hemos tenido éxito cuando veamos un aumento del 20% en la retención de miembros en los gimnasios que utilizan Nourishify y un aumento del 15% en la inscripción de nuevos miembros a través de recomendaciones de usuarios satisfechos.</li>
+            <li>Creemos que proporcionar planes de nutrición personalizados diseñados por expertos incrementará la satisfacción del usuario con la plataforma.</li>
+            <li>Sabremos que hemos tenido éxito cuando aumentemos en un 15% los comentarios positivos y un incremento en la tasa de usuarios de un 20%  que siguen y utilizan estos planes de nutrición.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>4ta Hipótesis:</strong>
+        <ul>
+            <li>Creemos que al permitir a los usuarios realizar un seguimiento de su progreso nutricional y acceder a análisis y recomendaciones, aumentará la frecuencia de uso de la plataforma.</li>
+            <li>Sabremos que hemos tenido éxito cuando registremos un aumento de 30% en las visitas diarias y mensuales a la sección de seguimiento.</li>
+        </ul>
+    </li>
+    <li>
+        <strong>5ta Hipótesis:</strong>
+        <ul>
+            <li>Creemos que facilitar la comunicación directa entre usuarios y nutricionistas fortalecerá la confianza y el compromiso del usuario con la plataforma.</li>
+            <li>Sabremos que hemos tenido éxito cuando veamos un aumento de 30% en las interacciones entre usuarios y nutricionistas y recibamos retroalimentación positiva sobre la facilidad y utilidad de la comunicación.</li>
         </ul>
     </li>
 </ul>
