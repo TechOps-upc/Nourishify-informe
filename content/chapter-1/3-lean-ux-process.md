@@ -181,7 +181,7 @@ El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que tanto lo
    
 <h3>1.2.2.4. Lean UX Canvas</h3>
 <div align="center">
-  <a href="https://ibb.co/RgSNk5x"><img src="https://i.ibb.co/p1PQBmt/Untitled-2023-09-05-07-55-53.png" alt="Imagen del Lean UX Canvas" border="0"></a>
+  <a href="https://ibb.co/RgSNk5x"><img src="../images/lean-ux/lean-ux-canvas.png" alt="Imagen del Lean UX Canvas" border="0"></a>
    </br>
   Enlace al Mural:</br><a href="https://app.mural.co/t/upc1597/m/upc1597/1693899400664/ffc20849ad07b21d494621bf9e431f3d84d60dc6?sender=ua4e539ff8dd2efd17b101960">https://app.mural.co/t/upc1597/m/upc1597/1693899400664/ffc20849ad07b21d494621bf9e431f3d84d60dc6?sender=ua4e539ff8dd2efd17b101960</a>
 </div>
