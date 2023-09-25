@@ -9,6 +9,9 @@
                 <li>¿Qué actividades disfrutas hacer para mantenerte activo/a?</li>
                 <li>¿Cuál es tu nivel de interés en la nutrición personalizada y el bienestar?</li>
                 <li>¿Has tenido alguna experiencia previa con asesoramiento nutricional o planes de alimentación personalizados?</li>
+                <li>¿Qué tipo de dispositivo móvil usas?</li>
+                <li>¿Cuáles son tus redes sociales donde eres más activo?</li>
+                <li>¿De qué sistema operativo es la computadora o laptop que utilizas?</li>
                 <li>¿Cómo crees que la tecnología puede contribuir a mejorar tu bienestar?</li>
             </ol>
         </li>
