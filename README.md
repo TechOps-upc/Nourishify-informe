@@ -59,9 +59,78 @@
          <tbody>
             <tr>
                <td>1.0</td>
-               <td>07/09/2023</td>
-               <td>Acuna, Diego<br>Melgar, Adrian<br>Ramirez, Diego<br>Huamani, Jose<br>Bustinza, Sebastian</td>
-               <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
+               <td>03/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adicion de la seccion Startup profile, Lean UX Proccess y user persona</td>
+            </tr>
+            <tr>
+               <td>1.0</td>
+               <td>03/09/2023</td>
+               <td>Ramirez, Diego<br></td>
+               <td>Adición de la sección solution profile , as-is scenario mapping y to be scenario mapping</td>
+            </tr>
+            <tr>
+               <td>1.0</td>
+               <td>03/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Adición de la sección competidores,analisis de entrevistas,registro de entrevistas y empathy mapping</td>
+            </tr>
+            <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Adición de la sección analisis de competidores,user task matrix y user journey mapping .</td>
+            </tr>
+            <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+            <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Ramirez, Diego</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+             <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+             <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adición de la sección user-stories, impact mapping, information architecture landing page ui design y domain driven software achitecture</td>
+            </tr>
+             <tr>
+               <td>1.2</td>
+               <td>06/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adicción de todo el capitulo 5 del informe: sprint, development evidence, software deployment evidence, team colaboration insight. Realizacion de la landing page y deployarla</td>
+            </tr>
+               <tr>
+               <td>2.0</td>
+               <td>23/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Refactorizar y ordenar de manera eficiente el repositorio del informe de github.</td>
+            </tr>
+              </tr>
+               <tr>
+               <td>2.0</td>
+               <td>23/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Mejora y correcciones de:Registro de versiones, Lean UX Problem statements, Lean UX Hypothesis Statements, Lean UX Canvas, Analisis de entrevistas, User Stories y Product Backlog</td>
+            </tr>
+             </tr>
+              </tr>
+               <tr>
+               <td>2.0</td>
+               <td>23/09/2023</td>
+               <td>Ramirez, Diego</td>
+               <td>Mejora y correcciones de: User personas</td>
             </tr>
          </tbody>
       </table>
