@@ -113,7 +113,7 @@ A continuación, se desarrolla una estrategia en conjunto con el equipo para ide
 El 85% de los entrevistados usa smartphones con sistema operativo Android, mientras que el 15% restante usa iPhones. La movilidad y la facilidad de acceso a aplicaciones de salud y bienestar son factores clave en su elección de dispositivo.
 
 <p align="left"><strong>¿Cuáles son tus redes sociales donde eres más activo?</strong> </p>
-El 70% de los entrevistados indicó que es más activo en Instagram, seguido de un 20% en Facebook y un 10% en LinkdIn. Las redes sociales juegan un papel esencial en su vida diaria, ya que les permiten seguir a expertos en nutrición y bienestar, y obtener consejos y recomendaciones.
+El 70% de los  entrevistados indicó que es más activo en Instagram, seguido de un 20% en Facebook y un 10% en LinkdIn. Las redes sociales juegan un papel esencial en su vida diaria, ya que les permiten seguir a expertos en nutrición y bienestar, y obtener consejos y recomendaciones.
 
 
 <p align="left"><strong>¿De qué sistema operativo es la computadora o laptop que utilizas? </strong> </p>
