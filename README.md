@@ -99,38 +99,47 @@
                <td>Melgar, Adrian</td>
                <td>Elaboracion y adición del style guidelines.</td>
             </tr>
-             <tr>
+            <tr>
                <td>1.1</td>
                <td>04/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Adición de la sección user-stories, impact mapping, information architecture landing page ui design y domain driven software achitecture</td>
             </tr>
-             <tr>
+            <tr>
                <td>1.2</td>
                <td>06/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Adicción de todo el capitulo 5 del informe: sprint, development evidence, software deployment evidence, team colaboration insight. Realizacion de la landing page y deployarla</td>
             </tr>
-               <tr>
+            <tr>
                <td>2.0</td>
                <td>23/09/2023</td>
                <td>Melgar, Adrian</td>
                <td>Refactorizar y ordenar de manera eficiente el repositorio del informe de github.</td>
             </tr>
-              </tr>
-               <tr>
+            <tr>
                <td>2.0</td>
                <td>23/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Mejora y correcciones de:Registro de versiones, Lean UX Problem statements, Lean UX Hypothesis Statements, Lean UX Canvas, Analisis de entrevistas, User Stories y Product Backlog</td>
             </tr>
-             </tr>
-              </tr>
-               <tr>
+            <tr>
                <td>2.0</td>
                <td>23/09/2023</td>
                <td>Ramirez, Diego</td>
                <td>Mejora y correcciones de: User personas</td>
+            </tr>
+            <tr>
+               <td>2.1</td>
+               <td>25/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y correcciones de: Entrevistas cliente</td>
+            </tr>
+            <tr>
+               <td>2.2</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y correcciones de: User Stories</td>
             </tr>
          </tbody>
       </table>
