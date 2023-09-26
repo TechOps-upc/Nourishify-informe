@@ -1,12 +1,48 @@
-<p align ="center">
-   <img src="./static/UPC_logo.png" >
-</p>
-
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
-
-<h2 align="center">Ingeniería de Software</h2>
-
 <div align='center'>
+
+   <img src="content/images/random/UPC_logo.png" >
+   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+   <h2>Ingeniería de Software</h2>
+   <h2>Aplicaciones Web</h2>
+   </br></br>
+   <p><strong>Sección:</strong> SW52</p>
+   <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>
+   <p><strong>Informe:</strong> Trabajo parcial</p>
+   <p><strong>Nombre de la Startup:</strong> TechOps</p>
+   <p><strong>Nombre del producto:</strong> Nourishify</p>
+   <p><strong>Ciclo:</strong> 2023-02</p>
+</div>
+</br></br>
+<div align="center">
+   <h3>Integrantes</h3>
+   </br>
+   <table>
+      <thead>
+         <tr>
+            <th>Nombre</th>
+            <th>Código</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td>Adrian Gonzalo Melgar Takahashi</td>
+            <td>U201819465</td>
+         </tr>
+         <tr>
+            <td>Diego Jose Acuña Gomez</td>
+            <td>U20201C794</td>
+         </tr>
+         <tr>
+            <td>Diego Miguel Ramirez Ortega</td>
+            <td>U202123548</td>
+         </tr>
+         <tr>
+            <td>Sebastian Alonso Bustinza Muñoz</td>
+            <td>U202123362</td>
+         </tr>
+      </tbody>
+   </table>
+=======
 <h3>Aplicaciones Web - TB1</h3>
 <ul style="list-style-type: none;">
    <li> <strong>Sección:</strong> SW52 </li>
@@ -30,447 +66,338 @@
 <h4>Link del repositorio: https://github.com/TechOps-upc/Nourishify-informe </h4>
 </div>
 </br>
-<h1 align="center">Registro de versiones</h1>
-</br>
-<table>
-        <thead>
+<div align="center">
+   <h1>Registro de versiones</h1>
+   </br>
+   <span align-item="center">
+      <table>
+         <thead>
             <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
+               <th>Versión</th>
+               <th>Fecha</th>
+               <th>Autor</th>
+               <th>Descripción de modificaciones</th>
             </tr>
-        </thead>
-        <tbody>
+         </thead>
+         <tbody>
             <tr>
-                <td>1.0</td>
-                <td>07/09/2023</td>
-                <td>Acuna, Diego<br>Melgar, Adrian<br>Ramirez, Diego<br>Huamani, Jose<br>Bustinza, Sebastian</td>
-                <td>Entrega de la primera versión del trabajo parcial de Aplicaciones Web: Landing Page.</td>
+               <td>0.1</td>
+               <td>03/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adicion de la seccion Startup profile, Lean UX Proccess y user persona</td>
             </tr>
-        </tbody>
-    </table>
-
+            <tr>
+               <td>0.2</td>
+               <td>03/09/2023</td>
+               <td>Ramirez, Diego<br></td>
+               <td>Adición de la sección solution profile , as-is scenario mapping y to be scenario mapping</td>
+            </tr>
+            <tr>
+               <td>0.3</td>
+               <td>03/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Adición de la sección competidores,analisis de entrevistas,registro de entrevistas y empathy mapping</td>
+            </tr>
+            <tr>
+               <td>1.0</td>
+               <td>07/09/2023</td>
+               <td>TechOps</td>
+               <td>Entrega TB1</td>
+            </tr>
+            <tr>
+               <td>1.1</td>
+               <td>04/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Adición de la sección analisis de competidores,user task matrix y user journey mapping .</td>
+            </tr>
+            <tr>
+               <td>1.2</td>
+               <td>04/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+            <tr>
+               <td>1.3</td>
+               <td>04/09/2023</td>
+               <td>Ramirez, Diego</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+             <tr>
+               <td>1.4</td>
+               <td>04/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Elaboracion y adición del style guidelines.</td>
+            </tr>
+            <tr>
+               <td>1.5</td>
+               <td>04/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adición de la sección user-stories, impact mapping, information architecture landing page ui design y domain driven software achitecture</td>
+            </tr>
+            <tr>
+               <td>1.6</td>
+               <td>06/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Adicción de todo el capitulo 5 del informe: sprint, development evidence, software deployment evidence, team colaboration insight. Realizacion de la landing page y deployarla</td>
+            </tr>
+            <tr>
+               <td>1.7</td>
+               <td>23/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Refactorizar y ordenar de manera eficiente el repositorio del informe de github.</td>
+            </tr>
+            <tr>
+               <td>1.8</td>
+               <td>23/09/2023</td>
+               <td>Acuna, Diego</td>
+               <td>Mejora y correcciones de:Registro de versiones, Lean UX Problem statements, Lean UX Hypothesis Statements, Lean UX Canvas, Analisis de entrevistas, User Stories y Product Backlog</td>
+            </tr>
+            <tr>
+               <td>1.9</td>
+               <td>23/09/2023</td>
+               <td>Ramirez, Diego</td>
+               <td>Mejora y correcciones de: User personas</td>
+            </tr>
+            <tr>
+               <td>1.10</td>
+               <td>25/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y correcciones de: Entrevistas cliente</td>
+            </tr>
+            <tr>
+               <td>1.11</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y correcciones de: User Stories</td>
+            </tr>
+            <tr>
+               <td>1.12</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Implementación de los technical stories</td>
+            </tr>
+            <tr>
+               <td>1.13</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y reorganización de: Product Backlog</td>
+            </tr>
+            <tr>
+               <td>1.14</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora de: Impact Mapping</td>
+            </tr>
+             <tr>
+               <td>1.15</td>
+               <td>26/09/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Sprint 2</td>
+            </tr>
+              <tr>
+               <td>1.15</td>
+               <td>26/09/2023</td>
+               <td>Ramirez, Diego</td>
+                <td>Agregar class diagram</td>
+             </tr>
+              <tr>
+               <td>1.16</td>
+               <td>26/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+                <td>Mejora de Web App Design</td>
+             </tr>
+         </tbody>
+      </table>
+   </span>
+</div>
 </br>
-<h1 align="center">Nourishify</h1>
-</br>
+<div>
+   <h1 align="center">Project Report Collaboration Insights</h1>
+   </br>
+   
+   Repositorio GitHub: <a href="https://github.com/orgs/TechOps-upc/repositories">https://github.com/orgs/TechOps-upc/repositories</a>
+   
+   <!-- TB1 Content -->
+   
+   <strong>TB1:</strong>
 
+Actividades de Elaboración del Informe:
+
+En esta primera entrega del trabajo, el equipo se enfocó en establecer la estructura básica del informe del proyecto en el repositorio de GitHub. Se crearon los siguientes elementos clave:
+
+Estructura del Informe: Se diseñó la estructura general del informe, definiendo las secciones principales que incluirá el documento final, como la introducción, objetivos, metodología, resultados preliminares y conclusiones.
+
+Registro de Versiones: Se configuró un archivo de registro de versiones en el repositorio de GitHub para llevar un seguimiento de los cambios realizados en el informe a lo largo del proyecto.
+
+Capturas de Imagen: Se tomaron capturas de imagen de los análisis de colaboración y commits en GitHub para el repositorio del informe. Estas capturas proporcionan una instantánea de la actividad del equipo en el repositorio durante esta fase inicial del proyecto.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe:
+
+<div align="center">
+<img src="/content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+<img src="/content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+</div>
+
+   <!-- TP Content -->
+
+<strong>TP:</strong>
+
+Actividades de Elaboración del Informe:
+
+En la segunda entrega del trabajo, el equipo continuó desarrollando y mejorando el informe del proyecto. Se llevaron a cabo las siguientes actividades:
+
+Desarrollo de Contenido: Se completaron las secciones faltantes del informe, como los resultados detallados, el análisis de datos y las conclusiones finales. Se incorporaron gráficos y tablas para respaldar los hallazgos.
+
+Revisión y Edición: Se realizó una revisión exhaustiva del contenido del informe para asegurarse de que esté claro, coherente y bien estructurado. Se corrigieron errores gramaticales y se mejoró la redacción.
+
+Registro de Versiones: Se mantuvo actualizado el registro de versiones en el repositorio de GitHub para reflejar todos los cambios realizados en el informe desde la primera entrega.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe durante la segunda entrega:
+
+<div align="center">
+<img src="/content/images/sprint2-team/commits.png">
+<img src="/content/images/sprint2-team/contribuitors.png">
+</div>
+
+</div>
+
+<h1 align="center">Contenido</h1>
+</br>
 <ul style="list-style-type: none;">
-   <li><h1><a href="#capitulo-1">Capítulo I: Introducción</a></h1></li>
-   <li><h3><a href="#startup-profile">1.1. Startup Profile</a></h3></li>
+   <li><h1><a href="./content/student-outcome.md">Student Outcome</a></h1></li>
+   <li><h1><a href="./content/chapter-1/1-startup-profile.md">Capítulo I: Introducción</a></h1></li>
+   <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1. Startup Profile</a></h3></li>
    <ul>
-      <li><h3><a href="#descripcion-startup">1.1.1.  Descripción de la Startup</a></h3></li>
-      <li><h3><a href="#perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
+      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.1.  Descripción de la Startup</a></h3></li>
+      <li><h3><a href="./content/chapter-1/1-startup-profile.md">1.1.2. Perfiles de integrantes del equipo</a></h2></li>
    </ul>
-   <li><h3><a href="#solution-profile">1.2. Solution Profile</a></h3></li>
+   <li><h3><a href="./content/chapter-1/2-solution-profile.md">1.2. Solution Profile</a></h3></li>
    <ul>
-      <il><h3><a href="#antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3></il>
-      <il><h3><a href="#lean-ux-process">1.2.2 Lean UX Process</a></h3></il>
+      <il><h3><a href="./content/chapter-1/2-solution-profile.md">1.2.1 Antecedentes y problemática</a></h3></il>
+      <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2 Lean UX Process</a></h3></il>
       <ul>
-         <il><h3><a href="#lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3></il>
-         <il><h3><a href="#lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></h3></il>
-         <il><h3><a href="#lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
-         <il><h3><a href="#lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.1. Lean UX Problem Statements</a></h3></il>
+         <il><h3><a href="../content/chapter-1/3-lean-ux-process.md">1.2.2.2. Lean UX Assumptions</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.3. Lean UX Hypothesis Statements</a></h3></il>
+         <il><h3><a href="./content/chapter-1/3-lean-ux-process.md">1.2.2.4. Lean UX Canvas</a></h3></il>
       </ul>
    </ul>
-   <il><h3><a href="#segmento-objetico">1.3. Segmentos objetivo</a></h3></il>
+   <il><h3><a href="./content/chapter-1/4-segmento-objetivo.md">1.3. Segmentos objetivo</a></h3></il>
 
-<il><h1><a href="#capitulo-2">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
-<il><h3><a href="#competidores">2.1. Competidores</a></h3></il>
-
-   <ul>
-      <il><h3><a href="#analisis-competitivo">2.1.1. Análisis competitivo</a></h3></il>
-      <il><h3><a href="#estrategias-y-tacticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
-   </ul>
-<il><h3><a href="#entrevistas">2.2. Entrevistas</a></h3></il>
-   <ul>
-      <il><h3><a href="#diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></h3></il>
-      <il><h3><a href="#registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3></il>
-      <il><h3><a href="#analisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></h3></il>
-   </ul>
-<il><h3><a href="#needfinding">2.3. Needfinding</a></h3></il>
-   <ul>
-      <il><h3><a href="#user-personas">2.3.1. User Personas</a></h3></il>
-      <il><h3><a href="#user-task-matrix">2.3.2. User Task Matrix</a></h3></il>
-      <il><h3><a href="#user-journey-mapping">2.3.3. User Journey Mapping</a></h3></il>
-      <il><h3><a href="#empathy-mapping">2.3.4. Empathy Mapping</a></h3></il>
-      <il><h3><a href="#as-is">2.3.5. As-is Scenario Mapping</a></h3></il>
-   </ul>
-
-<il><h1><a href="#capitulo-3">Capítulo III: Requirements Specification</a></h1></il>
-<il><h3><a href="#to-be">3.1. To-Be Scenario Mapping</a></h3></il>
-<il><h3><a href="#user-stories">3.2. User Stories</a></h3></il>
-<il><h3><a href="#impact-mapping">3.3. Impact Mapping</a></h3></il>
-<il><h3><a href="#product-backlog">3.4. Product Backlog</a></h3></il>
-
-<il><h1><a href="#capitulo-4">Capítulo IV: Product Design</a></h1></il>
-<il><h3><a href="#style-guidelines">4.1. Style Guidelines</a></h3></il>
+<il><h1><a href="./content/chapter-2/1-competidores.md">Capítulo II: Requirements Elicitation & Analysis</a></h1></il>
+<il><h3><a href="./content/chapter-2/1-competidores.md">2.1. Competidores</a></h3></il>
 
    <ul>
-      <il><h3><a href="#general-style-guidelines">4.1.1. General Style Guidelines</a></h3></il>
-      <il><h3><a href="#web-style-guidelines">4.1.2. Web Style Guidelines</a></h3></il>
+      <il><h3><a href="./content/chapter-2/1-competidores.md">2.1.1. Análisis competitivo</a></h3></il>
+      <il><h3><a href="./content/chapter-2/1-competidores.md">2.1.2. Estrategias y tácticas frente a competidores</a></h3></il>
    </ul>
-<il><h3><a href="#information-architecture">4.2. Information Architecture</a></h3></il>
+<il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2. Entrevistas</a></h3></il>
    <ul>
-      <il><h3><a href="#organization-systems">4.2.1. Organization Systems</a></h3></il>
-      <il><h3><a href="#labeling-systems">4.2.2. Labeling Systems</a></h3></il>
-      <il><h3><a href="#meta-tags">4.2.3. SEO Tags and Meta Tags</a></h3></il>
-      <il><h3><a href="#searching-systems">4.2.4. Searching Systems</a></h3></il>
-      <il><h3><a href="#navigation-systems">4.2.5. Navigation Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.1. Diseño de entrevistas</a></h3></il>
+      <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.2. Registro de entrevistas</a></h3></il>
+      <il><h3><a href="./content/chapter-2/2-entrevistas.md">2.2.3. Análisis de entrevistas</a></h3></il>
    </ul>
-<il><h3><a href="#landing-page-ui-design">4.3. Landing Page UI Design</a></h3></il>
+<il><h3><a href="./content/chapter-2/3-user-persona.md">2.3. Needfinding</a></h3></il>
    <ul>
-      <il><h3><a href="#landing-page-wireframe">4.3.1. Landing Page Wireframe</a></h3></il>
-      <il><h3><a href="#landingpage-mock-up">4.3.2. Landing Page Mock-up</a></h3></il>
-   </ul>
-<il><h3><a href="#web-applications-ux-ui-design">4.4. Web Applications UX/UI Design</a></h3></il>
-   <ul>
-      <il><h3><a href="#web-applications-wireframes">4.4.1. Web Applications Wireframes</a></h3></il>
-      <il><h3><a href="#web-applications-wireflow-diagrams">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
-      <il><h3><a href="#web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a></h3></il>
-      <il><h3><a href="#web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="#web-applications-prototyping">4.5. Web Applications Prototyping</a></h3></il>
-<il><h3><a href="#domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a></h3></il>
-   <ul>
-      <il><h3><a href="#software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram</a></h3></il>
-      <il><h3><a href="#software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a></h3></il>
-      <il><h3><a href="#software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a></h3></il>
-   </ul>
-<il><h3><a href="#software-object-oriented-design">4.7. Software Object-Oriented Design</a></h3></il>
-   <ul>
-      <il><h3><a href="#class-diagrams">4.7.1. Class Diagrams</a></h3></il>
-      <il><h3><a href="#class-dictionary">4.7.2. Class Dictionary</a></h3></il>
-   </ul>
-<il><h3><a href="#database-design">4.8. Database Design</a></h3></il>
-   <ul>
-      <il><h3><a href="#database-diagram">4.8.1. Database Diagram</a></h3></il>
+      <il><h3><a href="./content/chapter-2/3-user-persona.md">2.3.1. User Personas</a></h3></il>
+      <il><h3><a href="./content/chapter-2/4-user-task-matrix.md">2.3.2. User Task Matrix</a></h3></il>
+      <il><h3><a href="./content/chapter-2/5-user-journey-mapping.md">2.3.3. User Journey Mapping</a></h3></il>
+      <il><h3><a href="./content/chapter-2/6-empathy-mapping.md">2.3.4. Empathy Mapping</a></h3></il>
+      <il><h3><a href="./content/chapter-2/7-as-is.md">2.3.5. As-is Scenario Mapping</a></h3></il>
    </ul>
 
-<il><h1><a href="#capitulo-5">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
-<il><h3><a href="#software-configuration-management">5.1. Software Configuration Management</a></h3></il>
+<il><h1><a href="./content/chapter-3/1-to-be.md">Capítulo III: Requirements Specification</a></h1></il>
+<il><h3><a href="./content/chapter-3/1-to-be.md">3.1. To-Be Scenario Mapping</a></h3></il>
+<il><h3><a href="./content/chapter-3/2-user-stories.md">3.2. User Stories</a></h3></il>
+<il><h3><a href="./content/chapter-3/3-impact-mapping.md">3.3. Impact Mapping</a></h3></il>
+<il><h3><a href="./content/chapter-3/4-product-backlog.md">3.4. Product Backlog</a></h3></il>
+
+<il><h1><a href="./content/chapter-4/1-style-guidelines.md">Capítulo IV: Product Design</a></h1></il>
+<il><h3><a href="./content/chapter-4/1-style-guidelines.md">4.1. Style Guidelines</a></h3></il>
 
    <ul>
-      <il><h3><a href="#software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></h3></il>
-      <il><h3><a href="#source-code-management">5.1.2. Source Code Management</a></h3></il>
-      <il><h3><a href="#source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
-      <il><h3><a href="#software-deployment-configuration">5.1.4. Software Deployment Configuration</a></h3></il>
+      <il><h3><a href="./content/chapter-4/1-style-guidelines.md">4.1.1. General Style Guidelines</a></h3></il>
+      <il><h3><a href="">4.1.2. Web Style Guidelines</a></h3></il>
    </ul>
-<il><h3><a href="#landing-page-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
+<il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2. Information Architecture</a></h3></il>
    <ul>
-      <il><h3><a href="#sprint-1">5.2.1. Sprint 1</a></h3></il>
+      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.1. Organization Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.2. Labeling Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.3. SEO Tags and Meta Tags</a></h3></il>
+      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.4. Searching Systems</a></h3></il>
+      <il><h3><a href="./content/chapter-4/2-information-architecture.md">4.2.5. Navigation Systems</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3. Landing Page UI Design</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3.1. Landing Page Wireframe</a></h3></il>
+      <il><h3><a href="./content/chapter-4/3-landing-page-ui-design.md">4.3.2. Landing Page Mock-up</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4. Web Applications UX/UI Design</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.1. Web Applications Wireframes</a></h3></il>
+      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.2. Web Applications Wireflow Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.3. Web Applications Mock-ups</a></h3></il>
+      <il><h3><a href="./content/chapter-4/4-web-app-ux-ui-design.md">4.4.4. Web Applications User Flow Diagrams</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-4/5-web-app-prototyping.md">4.5. Web Applications Prototyping</a></h3></il>
+<il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6. Domain-Driven Software Architecture</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.1. Software Architecture Context Diagram</a></h3></il>
+      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.2. Software Architecture Container Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/6-domain-driven-software-architecture.md">4.6.3. Software Architecture Components Diagrams</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7. Software Object-Oriented Design</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7.1. Class Diagrams</a></h3></il>
+      <il><h3><a href="./content/chapter-4/7-software-object-oriented-design.md">4.7.2. Class Dictionary</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-4/8-database-design.md">4.8. Database Design</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-4/8-database-design.md">4.8.1. Database Diagram</a></h3></il>
+   </ul>
+
+<il><h1><a href="./content/chapter-5/1-software-configuration-managment.md">Capítulo V: Product Implementation, Validation & Deployment</a></h1></il>
+<il><h3><a href="./content/chapter-5/1-software-configuration-managment.md">5.1. Software Configuration Management</a></h3></il>
+
+   <ul>
+      <il><h3><a href="./content/chapter-5/1-software-configuration-managment.md">5.1.1. Software Development Environment Configuration</a></h3></il>
+      <il><h3><a href="./content/chapter-5/1-software-configuration-managment.md">5.1.2. Source Code Management</a></h3></il>
+      <il><h3><a href="./content/chapter-5/1-software-configuration-managment.md">5.1.3. Source Code Style Guide & Conventions</a></h3></il>
+      <il><h3><a href="./content/chapter-5/1-software-configuration-managment.md">5.1.4. Software Deployment Configuration</a></h3></il>
+   </ul>
+<il><h3><a href="./content/chapter-5/sprint-1/1-sprint-planing-1.md">5.2. Landing Page, Services & Applications Implementation</a></h3></il>
+   <ul>
+      <il><h3><a href="./content/chapter-5/sprint-1/1-sprint-planing-1.md">5.2.1. Sprint 1</a></h3></il>
       <ul>
-         <il><h3><a href="#sprint-planning-1">5.2.1.1. Sprint Planning 1</a></h3></il>
-         <il><h3><a href="#sprint-backlog-1">5.2.1.2. Sprint Backlog 1</a></h3></il>
-         <il><h3><a href="#development-evidence-for-sprint-review">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="#testing-suite-rvidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="#execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="#services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="#software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
-         <il><h3><a href="#team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/1-sprint-planing-1.md">5.2.1.1. Sprint Planning 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/2-sprint-backlog-1.md">5.2.1.2. Sprint Backlog 1</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/3-development-evidence-1.md">5.2.1.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/4-testing-suit-evidence-1.md">5.2.1.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/5-execution-evidence-1.md">5.2.1.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/6-services-documentation-evicence-1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/7-software-deployment-evidence-1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-1/8-team-colaboration-insights-1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+   </ul>
+   <ul>
+      <il><h3><a href="./content/chapter-5/sprint-2/2.1-sprint-planning-2.md">5.2.2. Sprint 2</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.1-sprint-planning-2.md">5.2.2.1. Sprint Planning 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.2-sprint-backlog-2.md">5.2.2.2. Sprint Backlog 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.3-development-evidence-for-sprint-review.md">5.2.2.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.4-testing-suite-evidence.md">5.2.2.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.5-execution-evidence.md">5.2.2.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.6-services-documentation-evidence.md">5.2.2.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.7-software-deployment-evidence.md">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.8-team-collaboration-insights.md">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
 </ul>
 
-</br>
-</br>
-
-# Student Outcome
-
-## ABET – EAC - Student Outcome 5
-
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="6">Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
-    </tr>
-    <tr>
-      <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page</td>
-      <td rowspan="6">Conclusion</td>
-    </tr>
-    <tr>
-      <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los nutricionistas, analisis de entrevistas en general, empathy map y Product backlog.
-</td>
-    </tr>
-    <tr>
-      <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.</td>
-    </tr>
-    <tr>
-      <td><strong>José Diego Huamani Sánchez</br>TB1:</strong></br>En este entrega de la TB1, desarrolle el cuadro de análisis competitivo acerca de nuestros posibles competidores que tenemos en el mercado, modelo los diagramas referentes al "Domain Driven Software Architecture", descripcion del Needfinding y la  elaboracion de los posibles usuarios que usen nuestra plataforma (User personas),.
-</td>
-    </tr>
-    <tr>
-      <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Para esta entraga he realizado los antecedentes y problemáticas. También la realización de los mapas de escenarios. Realicé las tareas anteriores con la comunicación continua, informandoles los avances y preguntando activamente sobre el desarrollo del trabajo en general</td>
-    </tr>
-    <tr>
-  </tbody>
-  
-</table>
-
-</br>
-</br>
-
-<h1><a id="capitulo-1">Capítulo I: Introducción</a></h1>
-<h3><a id="startup-profile">1.1. Startup Profile</a></h2>
-<h3><a id="descripcion-startup">1.1.1. Descripción de la Startup</a></h3>
-<div align="justify">
-En la actualidad existe un número exorbitante de personas que necesitan ayuda para poder mejorar su calidad de vida y salud. Es un hecho innegable que la salud es esencial en nuestra vida diaria, y más aún en un mundo donde los desafíos para mantenernos saludables son cada vez más evidentes.
-<br>
-<br>
-En este contexto, Nourishify emerge como una plataforma vanguardista que aborda estas necesidades apremiantes. Nuestro compromiso es claro: brindar una solución integral para ayudar a las personas a alcanzar sus metas de bienestar y nutrición personalizada. Nuestro objetivo fundamental como proyecto es proporcionar una solución accesible y efectiva para mejorar la salud y el bienestar de las personas en todo momento. Creemos firmemente en que la nutrición personalizada es una de las claves para lograr una vida más saludable y plena.
-<br> 
-<br>
-Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria de la nutrición personalizada y el bienestar. Creemos que todos merecen tener acceso a soluciones de salud efectivas y personalizadas. Aspiramos a expandir nuestra presencia y llevar nuestros servicios a personas en todo el mundo, para que puedan disfrutar de una vida más saludable y equilibrada.
-</div>
-<h3><a id="perfiles-integrantes">1.1.2. Perfiles de integrantes del equipo</a></h3>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
-    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="static/diegoacuna.png" alt="Foto 1" width="60" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acuna Diego</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Acuña Gomez, resido en Lima y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente 7mo ciclo. Considero que tengo habilidades en programación con C++, Javascript y Python. Me comprometo a ayudar al trabajo y desarrollo de nuestro trabajo.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201c794</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="static/sebastian.png" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sebastian Bustinza</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 21 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre soñé con poder crear un mundo virtual y me gustaría especializarme en realidad virtual. Tengo conocimientos de programación en C, C++, Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de textos y presentaciones, básico de Java. Me gusta trabajar en equipo y conocer mucha gente.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123362</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="./static/team-photos/OlgheeD.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201819465</td>
-
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145909349965897808/JDiego_Image.jpg?width=621&height=621" alt="Foto 4" width="50" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy una persona que le fascina la tecnología en sus múltiples aspectos y, además, le gusta trabajar en equipo. En base a mis skills, destacan el tema de liderazgo, conocimientos de marcos de trabajos ágiles, programación en lenguajes tales como C++, HTML, CSS y manejo de base de datos como MySQL, SQL Server y MongoDB.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202110458</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="static/diegoramirez.png" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ramirez, Diego</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Ramirez, tengo 19 años y estoy en el quinto ciclo de la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123548</td>
-  </tr>
-</table>
-
-<h3><a id="solution-profile">1.2. Solution Profile</a></h3>
-<h3><a id="antecedentes-y-problematica">1.2.1 Antecedentes y problemática</a></h3>
-<strong>What - ¿Cuál es el problema?</strong><br>
-El problema que se ha identificado es que muchas personas tienen una alimentación descuidada y desequilibrada, lo cual está teniendo un impacto negativo en su salud y forma física. Además, las personas que desean mejorar su aspecto físico, pero siguen manteniendo malos hábitos alimenticio, están prolongando los resultados.
-<strong>When - ¿Cuándo sucede el problema?</strong><br>
-El problema ocurre al momento de ingerir alimentos y la persona no es consciente del valor nutricional que la comida le está aportando o si esos alimentos perjudican a su salud.<br>
-<strong>Where - ¿Dónde surge el problema?</strong>
-EL problema ocurre en los ambientes donde se consumen alimentos, especialmente donde el control de la información nutricional de la comida es nulo. Por ejemplo, los restaurantes y carretillas. Incluso en los hogares, al momento de preparar una comida, también se puede presentar este problema.
-<strong>Who - ¿Quiénes son afectados por el problema?</strong><br>
-   Los principales afectados son:
-   -	Las personas que no tienen un buen hábito alimenticio.
-   -	Las personas que hacen deporte, pero tienen desórdenes alimenticios.
-
-<strong>Why - ¿Cuál es la causa del problema?</strong><br>
-Una de las principales causas del problema radica en el desconocimiento de las calorías que se están consumiendo por alimento. Esto generando un descontrol en la ingesta calórica diaria, lo que puede resultar en un aumento de peso.
-<br>
-<strong>How - ¿Cómo se llevan a cabo los hechos?</strong>
-Cuando la persona está consumiendo alimentos, pero pasa por alto los nutrientes que la comida le está aportando. Esto generando una ingesta calórica descontrolada y desequilibrada que puede tener un impacto significativo en su bienestar a largo plazo.<br>
-<strong>How much- ¿Cuál es la magnitud del problema?</strong>
-Según INEI (2022), recopilo que en todo el país, el 25,6% de ciudadanos mayores de 15 años padece de obesidad. Del total, Lima representa el 29,4% y se considera un nivel elevado. De esta forma, se identifica la necesidad de un servicio que permita asesorar sobre la nutrición y la importancia de una alimentación saludable
-
-<p align ="center">
-   <img src="./static/peru-obesidad.png" >
-</p>
-
-
-<h3><a id="lean-ux-process">1.2.2 Lean UX Process</a></h3>
-<h3><a id="lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a></h3>
-<div align='justify'>
-En el contexto de la nutrición y el bienestar, enfrentamos una serie de desafíos significativos que afectan la salud y la calidad de vida de las personas. Cada vez más, las personas se encuentran insatisfechas con las soluciones actuales en términos de asesoramiento nutricional personalizado.
-<br></br>
-Los problemas predominantes incluyen la dificultad para acceder a planes de alimentación personalizados y efectivos, la falta de orientación adecuada, la confusión sobre las opciones disponibles y la falta de seguimiento y ajustes personalizados en sus programas de salud. Este panorama ha llevado a una problemática importante: muchas personas evitan buscar asesoramiento nutricional debido a la complejidad y falta de personalización en las soluciones actuales. Esto tiene un impacto negativo en su capacidad para alcanzar sus metas de salud y bienestar.
-<br></br>
-El desafío que enfrentamos es evidente: ¿Cómo podemos garantizar que las personas reciban asesoramiento nutricional integral, efectivo y beneficioso para su salud, en un formato cómodo y altamente personalizado? ¿Cómo podemos simplificar el proceso y eliminar la confusión, permitiendo a las personas transformar su salud y bienestar de manera efectiva?
-</div>
-<h3><a id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a></h3>
-<div align='justify'>
-<h4>Bussines Outcomes</h4>
-<div align='justify'>
-   <ul>
-      <li>Desarrollar una plataforma nutricional sólida: Establecer una plataforma en línea que sea intuitiva y eficaz para brindar a nuestros usuarios recomendaciones nutricionales personalizadas y lograr una mayor retención de usuarios.</li>
-      <li>Construir una sólida presencia en el mercado de la nutrición: Establecer una posición de confianza en el mercado de la nutrición personalizada, demostrando resultados efectivos y calidad en el servicio de nuestros nutricionistas y expertos en salud.</li>
-      <li>Atraer interés de la industria del bienestar: Generar interés y asociaciones con empresas relacionadas con el bienestar y la nutrición, aumentando así nuestros ingresos a través de acuerdos de publicidad y promoción.
-      </li>
-      <li>Lograr rentabilidad económica: Ofrecer planes de suscripción asequibles y flexibles que generen ingresos que superen nuestros costos operativos, garantizando así la sostenibilidad financiera de Nourishify.</li>
-      <li>Mantener una alta tasa de retención: Implementar estrategias de retención efectivas para asegurarnos de que los usuarios sigan utilizando nuestra plataforma a largo plazo.</li>
-   </ul>
-</div>
-<h4>User</h4>
-<div align='justify'>
-   <ul>
-      <li>Clientes: que quieren perder peso, deportistas o atletas, personas con objetivos de ganancia muscular, necesidades dietéticas, problemas de salud</li>
-      <li>Nutricionistas</li>
-      <li>Gimnasios
-      </li>
-   </ul>
-</div>
-<h4>User Outcomes</h4>
-<div align='justify'>
-   <h5>Clientes</h5>
-   <ul>
-      <li>Proporcionar a los clientes las herramientas necesarias para mejorar su salud general y bienestar a través de una alimentación adecuada y personalizada.</li>
-      <li>Ayudar a los clientes a alcanzar y mantener sus objetivos de fitness, ya sea pérdida de peso, ganancia muscular o cualquier otro objetivo relacionado con la nutrición.</li>
-      <li>Ofrecer a los clientes una experiencia de usuario intuitiva y conveniente que les permita acceder fácilmente a planes de nutrición personalizados y realizar un seguimiento de su progreso.
-      </li>
-      <li>Facilitar la interacción de los clientes con nutricionistas expertos y profesionales de la salud para recibir orientación y ajustes personalizados en sus planes de nutrición.
-      </li>
-   </ul>
-
-   <h5>Nutricionistas</h5>
-   <ul>
-      <li>Permitir a los nutricionistas llegar a un público más amplio y atraer a nuevos clientes interesados en mejorar su dieta y salud.</li>
-      <li>Facilitar la gestión de los pacientes y el seguimiento de su progreso nutricional a través de la plataforma, lo que les permite ofrecer asesoramiento más efectivo.</li>
-   </ul>
-
-   <h5>Gimnasios</h5>
-   <ul>
-      <li>Distinguirse de la competencia al ofrecer asesoramiento nutricional personalizado a los miembros, lo que mejora la experiencia general en el gimnasio.</li>
-      <li>Aumentar la retención de miembros al proporcionar servicios adicionales relacionados con la salud y el bienestar, como planes de nutrición personalizados.</li>
-      <li>Utilizar la plataforma Nourishify para promocionar sus servicios y establecimiento, llegando a una audiencia más amplia de posibles clientes.
-      </li>
-      <li>Facilitar la interacción de los clientes con nutricionistas expertos y profesionales de la salud para recibir orientación y ajustes personalizados en sus planes de nutrición.
-      </li>
-   </ul>
-</div>
-<h4>Features</h4>
-<div align='justify'>
-
-   <ul>
-      <li>Perfil del Usuario y Registro de Datos de Salud: Proporciona a los usuarios la capacidad de crear perfiles personalizados y registrar su información de salud actual, incluyendo objetivos de nutrición, preferencias alimenticias y restricciones dietéticas.</li>
-      <li>Búsqueda de Nutricionistas: Ofrece a los usuarios la posibilidad de buscar y visualizar a los nutricionistas disponibles en la plataforma, junto con sus calificaciones y los precios de sus servicios de asesoramiento dietético.</li>
-      <li>Planes de Nutrición Personalizados: Proporciona planes de nutrición personalizados elaborados por nutricionistas expertos, diseñados para ayudar a los usuarios a alcanzar sus objetivos de bienestar, ya sea pérdida de peso, ganancia muscular o necesidades dietéticas específicas.
-      </li>
-      <li>Seguimiento del Progreso: Permite a los usuarios realizar un seguimiento de su progreso nutricional, accediendo a información sobre su dieta, resultados de análisis y recomendaciones de sus nutricionistas.
-      </li>
-      <li>Conexión con Profesionales de la Salud: Facilita la comunicación y la interacción entre los usuarios y los nutricionistas, permitiendo ajustes personalizados en los planes de nutrición según el progreso.
-      </li>
-   </ul>
-
-</div>
-<h4>Suposiciones de negocio</h4>
-<div align='justify'>
-
-<ol>
-  <li><strong>Creo que mis usuarios necesitan</strong> acceso a información detallada sobre su plan de nutrición personalizado y orientación sobre cómo seguirlo para lograr sus objetivos de salud y bienestar. Esto debe estar disponible en línea, de manera accesible y personalizada.</li>
-  <li><strong>Estas necesidades se pueden resolver</strong> con una plataforma que permita a los nutricionistas crear planes de nutrición personalizados para sus clientes y proporcionar orientación detallada sobre la dieta y el seguimiento de su progreso. Los clientes deben poder acceder a esta información en línea de manera conveniente.</li>
-  <li><strong>Mis clientes iniciales son</strong> los clientes que buscan perder peso, atletas, personas con objetivos de ganancia muscular, necesidades dietéticas específicas y problemas de salud relacionados con la nutrición. Además, incluye a los nutricionistas que brindan orientación nutricional personalizada.</li>
-  <li><strong>l valor #1 que un cliente quiere de mi servicio es</strong> recibir planes de nutrición personalizados que sean efectivos y los ayuden a alcanzar sus objetivos de salud. Para los nutricionistas, el valor principal es poder brindar un servicio de alta calidad y efectivo a sus clientes.</li>
-  <li><strong>El cliente también puede obtener beneficios adicionales</strong>, como el acceso a un seguimiento detallado de su progreso nutricional y recomendaciones personalizadas. Además, los nutricionistas pueden beneficiarse al llegar a un público más amplio y obtener ingresos adicionales.</li>
-  <li><strong>Voy a adquirir la mayoría de mis clientes a través de</strong> estrategias de marketing en línea, incluyendo anuncios en redes sociales y la promoción de historias de éxito de clientes que utilizan Nourishify.</li>
-  <li><strong>Haremos dinero a través de</strong> planes de suscripción asequibles para los clientes que deseen un acceso más detallado a su progreso nutricional y recomendaciones. También podemos establecer acuerdos con nutricionistas que utilizan la plataforma y obtener un porcentaje de sus ingresos.</li>
-  <li><strong>Mi competencia principal en el mercado serán</strong> las aplicaciones y servicios relacionados con la nutrición y el bienestar que ofrecen soluciones similares.</li>
-  <li><strong>Los venceremos debido a </strong>nuestra propuesta de valor única, que incluye planes de nutrición altamente personalizados y un seguimiento detallado del progreso. Esto garantiza que los clientes obtengan resultados efectivos. Los nutricionistas se beneficiarán al poder ofrecer servicios de alta calidad a un público más amplio.</li>
-  <li><strong>Mi mayor riesgo de producto son</strong> posibles problemas técnicos en la plataforma que puedan afectar el acceso de los clientes a su información nutricional y recomendaciones. La seguridad de los datos también es una preocupación importante.</li>
-  <li><strong>Resolveremos esto a través de</strong> inversiones constantes en el desarrollo y mantenimiento de la plataforma, con actualizaciones regulares y medidas de seguridad sólidas para proteger la privacidad de los usuarios y la integridad de sus datos.</li>
-</ol>
-
-<h4>Suposiciones de usuario</h4>
-<div align='justify'>
-<ol>
-   <li>
-      <strong>¿Quién es el usuario?</strong>
-      <ul>
-         <li>Pacientes que buscan mejorar su salud y bienestar a través de una nutrición personalizada. Esto incluye a personas que desean perder peso, atletas, aquellos con objetivos de ganancia muscular y personas con necesidades dietéticas específicas.</li>
-         <li>Nutricionistas y profesionales de la salud que utilizan la plataforma para brindar orientación nutricional personalizada a los pacientes.</li>
-         <li>Gimnasios que desean ofrecer servicios de asesoramiento nutricional personalizado a sus miembros.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>¿Dónde encaja nuestro producto en su trabajo o vida?</strong>
-      <ul>
-         <li>Para los pacientes, Nourishify encaja en su vida en el área de la salud y el bienestar, ya que les ayuda a mejorar sus hábitos alimenticios y alcanzar sus objetivos de nutrición.</li>
-         <li>Para los nutricionistas y profesionales de la salud, Nourishify encaja en su trabajo al proporcionarles una plataforma para crear planes de nutrición personalizados y brindar orientación a sus clientes de manera efectiva.</li>
-         <li>Para los gimnasios, Nourishify encaja en su oferta de servicios al permitirles ofrecer asesoramiento nutricional personalizado a sus miembros, mejorando así la experiencia en el gimnasio.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>¿Cómo y cuándo es usado nuestro producto?</strong>
-      <ul>
-         <li>Los pacientes utilizan Nourishify para acceder a planes de nutrición personalizados y realizar un seguimiento de su progreso nutricional. Lo utilizan según sus necesidades, como parte de su rutina diaria para mantener una dieta saludable.</li>
-         <li>Los nutricionistas y profesionales de la salud utilizan Nourishify para crear planes de nutrición personalizados y brindar orientación a los pacientes. Lo utilizan durante sus sesiones de consulta y para el seguimiento continuo.</li>
-         <li>Los gimnasios utilizan Nourishify para ofrecer servicios de asesoramiento nutricional personalizado a sus miembros como parte de su oferta general de bienestar.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>¿Qué problema tendría nuestro producto y cómo se pueden resolver?</strong>
-      <ul>
-         <li>Nuestro producto podría enfrentar problemas relacionados con la usabilidad, como una interfaz confusa o un diseño poco intuitivo. Esto podría frustrar a los usuarios.</li>
-         <li>Para resolver estos problemas, debemos realizar pruebas de usabilidad y recopilar comentarios de los usuarios para mejorar constantemente la experiencia del usuario.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>¿Qué características son importantes?</strong>
-      <ul>
-         <li>Características importantes incluyen la capacidad de acceder a planes de nutrición personalizados, realizar un seguimiento del progreso nutricional, recibir recomendaciones de nutricionistas y profesionales de la salud, y garantizar la seguridad de los datos de los usuarios.</li>
-      </ul>
-   </li>
-   <li>
-      <strong>¿Cómo debe verse nuestro servicio y cómo debe comportarse?</strong>
-      <ul>
-         <li>Nourishify debe tener una apariencia amigable, moderna y atractiva que sea agradable para los usuarios. Debe comportarse como una plataforma eficiente y confiable que brinde información nutricional precisa y orientación personalizada de manera efectiva.</li>
-      </ul>
-   </li>
-</ol>
-</div>
-<h3><a id="lean-ux-hypothesis-statement">1.2.2.3. Lean UX Hypothesis Statements</a></h3>
-<div align="justify">
- <ul>
-    <li>
-        <strong>1ra Hipótesis:</strong>
-        <ul>
-            <li>Creemos que proporcionar a los usuarios planes de nutrición personalizados y acceso a su progreso nutricional a través de nuestra aplicación tendrá un impacto positivo en su compromiso con una alimentación saludable.</li>
-            <li>Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en la retención mensual de usuarios y una disminución del 10% en las solicitudes de cancelación de suscripciones premium.</li>
-        </ul>
-    </li>
-    <li>
-        <strong>2da Hipótesis:</strong>
-        <ul>
-            <li>Creemos que ofrecer a los nutricionistas una plataforma para crear planes de nutrición personalizados y comunicarse eficazmente con los pacientes mejorará su capacidad para brindar un servicio de alta calidad.</li>
-            <li>Sabremos que hemos tenido éxito cuando notemos que los nutricionistas aumentan su tasa de pacientes atendidos en un 25% en los primeros tres meses de uso de nuestra plataforma, y recibamos comentarios positivos de los pacientes sobre la calidad de la atención recibida.</li>
-        </ul>
-    </li>
-    <li>
-        <strong>3ra Hipótesis:</strong>
-        <ul>
-            <li>Creemos que brindar a los gimnasios la capacidad de ofrecer asesoramiento nutricional personalizado como parte de sus servicios mejorará la retención de sus miembros y atraerá a nuevos clientes.</li>
-            <li>Sabremos que hemos tenido éxito cuando veamos un aumento del 20% en la retención de miembros en los gimnasios que utilizan Nourishify y un aumento del 15% en la inscripción de nuevos miembros a través de recomendaciones de usuarios satisfechos.</li>
-        </ul>
-    </li>
-</ul>
    
 <h3><a id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3>
 <div align="center">
@@ -7787,3 +7714,4 @@ Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landin
 Repositorio de Github: https://github.com/TechOps-upc/Nourishify-informe
 <br>
 Video about the team: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2FTechOps%2DNourishify%2DApps%2DWeb%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
+
