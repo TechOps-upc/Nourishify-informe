@@ -8,74 +8,352 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
  style='border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
  1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>User&nbsp;&nbsp;<o:p></o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Story ID</span><span style='mso-fareast-font-family:"Times New Roman";
   mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
-  <td width=96 style='width:72.0pt;border:solid black 1.0pt;border-left:none;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=96 style='width:72.0pt;border:solid white 1.0pt;border-left:none;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Título&nbsp;</span><span style='mso-fareast-font-family:"Times New Roman";
   mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
-  <td width=113 style='width:84.75pt;border:solid black 1.0pt;border-left:none;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=113 style='width:84.75pt;border:solid white 1.0pt;border-left:none;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Descripción&nbsp;</span><span style='mso-fareast-font-family:"Times New Roman";
   mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
-  <td width=385 style='width:288.75pt;border:solid black 1.0pt;border-left:
-  none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=385 style='width:288.75pt;border:solid white 1.0pt;border-left:
+  none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Criterios de&nbsp;&nbsp;<o:p></o:p></span></p>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Aceptación</span><span style='mso-fareast-font-family:"Times New Roman";
   mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
-  <td width=59 style='width:44.35pt;border:solid black 1.0pt;border-left:none;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=59 style='width:44.35pt;border:solid white 1.0pt;border-left:none;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
-  <p class=MsoNormal style='text-align:justify'><span style='mso-bidi-font-size:
+  <p class=MsoNormal style='text-align:center'><span style='mso-bidi-font-size:
   14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Relacionado con (Epics ID)</span><span style='mso-fareast-font-family:
   "Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+ 
+<tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU01<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Registrar
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Gestión de Cuenta<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como usuario deseo acceder a mi cuenta privada para entrar a la plataforma.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Gestión de Perfil<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como usuario, deseo realizar cambios en mi perfil para que este se encuentre actualizado.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Gestión de Contrataciones<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como cliente interesado, deseo contratar a un profesional en nutrición para que atienda mis necesidades.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Seguimiento del Progreso<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como usuario, deseo realizar un seguimiento efecto de mi progreso nutricional.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Gestión de Calificaciones<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como cliente, deseo calificar la atención del nutriólogo para que los demás clientes tengan referencias de él.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Información del gimnasio<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como dueño de gimnasio, deseo ofrecer información del gimnasio para que los clientes sepan más de ella.<o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  </td>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU01<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Registrar
   Cuenta<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -84,8 +362,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   usuario, deseo crear una nueva cuenta para entrar a la plataforma.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -154,8 +432,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale una equis roja al lado de la casilla con el mensaje de nombre
-  incorrecto<o:p></o:p></span></p>
+  ES-PE'>aparece una marca de error junto a la casilla del nombre con el mensaje "Nombre con caracteres no permitidos".<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -181,8 +458,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale una equis roja al lado de la casilla con el mensaje de ubicación
-  incorrecta<o:p></o:p></span></p>
+  ES-PE'>aparece una marca de error junto a la casilla de ubicación con el mensaje "Ubicación incorrecta"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -208,8 +484,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale una equis roja al lado de la casilla con el mensaje de edad
-  incorrecta<o:p></o:p></span></p>
+  ES-PE'>aparece una marca de error junto a la casilla de edad con el mensaje "Edad incorrecta"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -235,8 +510,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale una equis roja al lado de la casilla con el mensaje de apellido
-  incorrecto<o:p></o:p></span></p>
+  ES-PE'>aparece una marca de error junto a la casilla de apellidos con el mensaje "Apellidos incorrectos"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -262,8 +536,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale una equis roja al lado de la casilla con el mensaje de correo
-  incorrecto<o:p></o:p></span></p>
+  ES-PE'>aparece una marca de error junto a la casilla de correo electrónico con el mensaje "Correo incorrecto"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -288,41 +561,40 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale un mensaje que advierte que no se ha seleccionado rol en la
-  plataforma.<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje que advierte que no se ha seleccionado un rol en la plataforma<o:p></o:p></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU02<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Iniciar
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Iniciar
   Sesión<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -332,8 +604,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   guardados.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -367,7 +639,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>ingresa a la plataforma con la sesión iniciada<o:p></o:p></span></p>
+  ES-PE'>se inicia la sesión y el usuario accede a la plataforma.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
@@ -397,14 +669,13 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>ingresa mi correo correcto, pero su contraseña incorrecta<o:p></o:p></span></p>
+  ES-PE'>ingresa su correo electrónico correcto, pero una contraseña incorrecta<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale un mensaje que advierte que se ingresó el correo o la contraseña
-  de manera incorrecta.<o:p></o:p></span></p>
+  ES-PE'>se muestra un mensaje de error que advierte que se ingresó una contraseña incorrecta<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -434,37 +705,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   de manera incorrecta.<o:p></o:p></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU03<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cerrar
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cerrar
   Sesión<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -474,8 +745,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   buscador.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -568,37 +839,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU04<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU04<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Recuperar
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Recuperar
   Cuenta<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -608,8 +879,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   externo para recuperar mi cuenta.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -685,37 +956,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU05<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU05<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Visualización
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualización
   de Perfil<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -724,8 +995,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   usuario, deseo ingresar a mi perfil para observar todos mis datos.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -762,37 +1033,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   ES-PE'>se le concede acceso a su perfil<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU06<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU06<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cambio
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cambio
   de Foto<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -802,8 +1073,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   realizo algún contrato tengan una representación mía.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
@@ -875,37 +1146,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU07<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU07<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cambio
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cambio
   de Ubicación<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -915,8 +1186,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   mi dirección actual.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -987,37 +1258,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU08<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU08<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cambio
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cambio
   de Número Telefónico<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1027,8 +1298,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   conmigo<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1129,37 +1400,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU09<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU09<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cambio
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cambio
   de Correo Afiliado<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1169,8 +1440,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   encuentre vinculada al que más utilizo.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1270,37 +1541,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU10<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU10<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Cambio
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cambio
   de Nombre<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1310,8 +1581,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   escrito correctamente.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1386,37 +1657,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU11<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU11<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Ingreso
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
   de Historial médico<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1426,8 +1697,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   contrate sepa mi situación<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1501,37 +1772,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   class=SpellE>pdf</span><b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU12<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU12<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Ingreso
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
   de <span class=SpellE>Curriculum</span> Vitae<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1541,8 +1812,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   los clientes sepan cuáles son mis capacidades como profesional. <o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1616,37 +1887,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   class=SpellE>pdf</span><b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU13<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU13<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Ingreso
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
   de Información de gimnasio <o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1657,8 +1928,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   gimnasio<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1733,14 +2004,14 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   class=SpellE>pdf</span><b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><a
   style='mso-comment-reference:djag_1;mso-comment-date:20230904T1112'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP02</span></a><span
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02</span></a><span
   class=MsoCommentReference><span style='font-size:8.0pt'><![if !supportAnnotations]><a
   class=msocomanchor id="_anchor_1"
   onmouseover="msoCommentShow('_anchor_1','_com_1')"
@@ -1748,31 +2019,31 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   name="_msoanchor_1">[djag1]</a><![endif]><span style='mso-special-character:
   comment'>&nbsp;</span></span></span><span style='mso-bidi-font-size:14.0pt;
   mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  color:black;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU14<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU14<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Búsqueda
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Búsqueda
   por nombre<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1782,8 +2053,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   encontrarlo de manera más rápida.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1857,37 +2128,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   nombre ingresado<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU15<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU15<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Agregación
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Agregación
   de Filtros<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -1897,8 +2168,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   aparezcan los que cumplen con el criterio que solicito.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1973,37 +2244,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   cumplan los datos ingresados<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU16<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU16<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Visualización
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualización
   de Perfiles de Profesionales<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2013,8 +2284,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   que busco para informarme más acerca de él.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2077,37 +2348,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   ES-PE'>se muestra su perfil<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU17<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU17<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Selección
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Selección
   del profesional<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2116,8 +2387,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   deseo recibir ayuda del profesional y seleccionar horario<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2194,37 +2465,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   encuentra disponible<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU18<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU18<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Visualización
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualización
   de Calendario de Citas<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2234,8 +2505,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   plataforma para saber mis horas de trabajo.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2309,41 +2580,41 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU20<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU20<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Registro<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Registro<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'><span
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><span
   style='mso-spacerun:yes'> </span>de avances<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2352,8 +2623,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   profesional de la salud, deseo ingresar los avances obtenidos del paciente <o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2457,37 +2728,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   correcto<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU21<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU21<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Ingreso
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
   de plan alimenticio<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2497,8 +2768,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   para que este lo visualice. <o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2577,37 +2848,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></b></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU22<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU22<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Visualización
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualización
   de plan alimenticio <o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2616,8 +2887,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   deseo acceder al plan alimenticio <o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2690,37 +2961,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   anteriormente.<b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP04<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:22;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU23<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU23<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Ingreso
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
   de Experiencias<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2730,8 +3001,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   clientes conozcan los beneficios de utilizarla.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2810,37 +3081,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></b></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU24<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU24<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Añadido
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Añadido
   de Reseñas<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2850,8 +3121,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   sepan qué tan bueno es su servicio.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2952,37 +3223,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU25<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU25<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Agregar
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Agregar
   Ubicación del Gimnasio<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -2993,8 +3264,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   ubicados.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -3032,37 +3303,37 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='color:#0070C0'><o:p></o:p></span></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:25;mso-yfti-lastrow:yes;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>HU26<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU26<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:solid black 1.0pt;
-  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>Describir
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Describir
   Instalaciones y Servicios<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
@@ -3073,8 +3344,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   para que los clientes sepan qué ofrecemos.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -3113,13 +3384,13 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   los clientes.<span style='color:#0070C0'><o:p></o:p></span></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:black;mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
