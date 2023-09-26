@@ -13,6 +13,9 @@ A continuación, se presenta el impact map del usuario cliente, en el cual se id
 <br>
 <br>
 User: Nutricionista
+<br>
+A continuación, se presenta el impact map del usuario nutricionista, en el cual se identifican los objetivos que se quieren lograr, las funcionalidades que se deben implementar para lograr los objetivos y las métricas que se deben tener en cuenta para medir el éxito de las funcionalidades.
+<br>
 <p align ="center">
    <img src="../images/impact-mapping/nutritionist-impact-map.png" >
 </p>
