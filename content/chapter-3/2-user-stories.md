@@ -3104,7 +3104,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   </td>
  </tr>
 
-
  <tr style='mso-yfti-irow:23;height:29.75pt'>
   <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
   mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
@@ -3154,20 +3153,25 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>el servicio de registro de la cuenta está<o:p></o:p></span></p>
+  ES-PE'>el servicio de registro de cuenta está disponible en el URL: "http://nourishify.com/register/"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>selecciona la cantidad de estrellas e ingresa un texto correcto<o:p></o:p></span></p>
+  ES-PE'>el developer realiza un request con los datos requeridos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>se muestra esta reseña con mi nombre en el apartado de calificaciones
-  del profesional<o:p></o:p></span></p>
+  ES-PE'>se añade en la tabla "users" de la base de datos de Nourishify.<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.2pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
@@ -3175,7 +3179,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
-  mso-fareast-language:ES-PE'>E02: Ingreso de datos incorrecto</span></b><span
+  mso-fareast-language:ES-PE'>E02: Envío de datos incorrectos</span></b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
   ES-PE'><o:p></o:p></span></p>
@@ -3190,50 +3194,729 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>el usuario se encuentra en el formulario de ingreso de reseñas<o:p></o:p></span></p>
+  ES-PE'>el servicio de registro de cuenta está disponible en la URL: "http://nourishify.com/register/"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>selecciona la cantidad de estrellas correcto, pero ingresa un texto
+  ES-PE'>el developer realiza un request con datos incorrectos
   con caracteres no permitidos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale un mensaje que advierte que la reseña contiene caracteres no
-  permitidos<o:p></o:p></span></p>
+  ES-PE'>sale un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU24<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Obtención de las credenciales del usuario<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder recuperar las credenciales del usuario desde la base de datos para autenticar el inicio de sesión.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Recuperación de datos correcta</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
-  mso-fareast-language:ES-PE'>CA03</span></b><b><span style='mso-bidi-font-size:
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
   14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'>:</span></b><span style='mso-bidi-font-size:14.0pt;
-  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>el usuario se encuentra en el formulario de ingreso de reseñas<o:p></o:p></span></p>
+  ES-PE'>el servicio de inicio de sesión está disponible en la URL: "http://nourishify.com/log-in/"<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Cuando</span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'> ingresa un texto correcto, pero no selecciona la cantidad de
-  estrellas<o:p></o:p></span></p>
+  ES-PE'>el developer envía un request con los parámetros requeridos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale un mensaje que advierte que no se ha agregado una calificación<b><span
-  style='color:#0070C0'><o:p></o:p></span></b></span></p>
+  ES-PE'>se envían los datos solicitados a través del protocolo HTTP<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Recuperación de datos incorrecta</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de inicio de sesión no está disponible en la URL: "http://nourishify.com/log-in/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer envia un request sin los parametros requeridos<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP01<o:p></o:p></span></p>
   </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU25<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Obtención de los datos personales del usuario<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder obtener los datos personales del usuario desde la base de datos para que pueda visualizar su perfil.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Recuperación de datos correcta</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio que retorna los datos personales de los usuarios  está disponible en el URL: "http://nourishify.com/user/{id}/profile/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer envía un request con el id del usuario como parámetro<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se envía una colección de objetos connteniendo los datos personales del usuario<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Recuperación de datos incorrecta</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio que retorna los datos personales de los usuarios no esta disponible URL: "http://nourishify.com/user/{id}/profile/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer envia un request sin parametros requeridos<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU26<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Almacenamiento de la foto de perfil<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder almacenar el archivo de la foto de perfil del usuario en la base de datos para mostrarla en su prefil.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Archivo se almacena correctamente</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de edición de foto de perfil está permitido en el URL: "http://nourishify.com/user/{id}/profile/photo"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se almacena el archivo dentro de la base de datos<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Archivo no se almacena correctamente</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de edición de foto de perfil está permitido en el URL: "http://nourishify.com/user/{id}/profile/photo/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el archivo no es compatible<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 405(Method Not Allowed)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU27<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Almacenamiento de historial de chat con el nutricionista<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder almacenar el historial de chat con el nutricionista del usuario en la base de datos para que los usuarios tengan acceso a este desde la aplicación.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Envio de datos correcto</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de chat con el nutricionista está presente en la URL: "http://nourishify.com/user/{id}/chats/{nutritionist-id}"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se modifica correctamente el historial de chats del usuario en la base de datos de Nourishify<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Envío de datos incorrecto</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de chat con el nutricionista está presente en la URL: "http://nourishify.com/user/{id}/chats/{nutritionist-id}"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>hay un fallo en el protocolo HTTP<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU28<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Agregar un nuevo plan nutricional<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder agregar un nuevo plan nutricional dentro de la base de datos para que los usuarios puedan visualizarlo dentro de la aplicación.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Almacenamiento correcto del plan</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de plan nutricional está presente en la URL: "http://nourishify.com/plans/add-plan/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se añade correctamente el nuevo plan nutricional en la base de datos de Nourishify<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Almacenamiento incorrecto del plan</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de plan nutricional está presente en la URL: "http://nourishify.com/plans/add-plan/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el protocolo HTTP no logra conectarse con la base de datos<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU29<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Agregar una recomendación<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder agregar un plan nutricional en la tabla de recomendados para presentarlo a los usuarios .<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Almacenamiento correcto del plan</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de plan nutricional en la tabla de recomendados está presente en la URL: "http://nourishify.com/recommendation/add-plan/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se añade correctamente el plan nutricional en la tabla de recomendados de la base de datos de Nourishify<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Almacenamiento incorrecto del plan</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de plan nutricional en la tabla de recomendados está presente en la URL: "http://nourishify.com/recommendation/add-plan/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el protocolo HTTP no logra conectarse con la base de datos<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
   solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
@@ -3244,7 +3927,476 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
   </td>
  </tr>
- 
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU30<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Almacenamiento de historial médico<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder almacenar el historial médico del usuario en la base de datos para que los usuarios tengan acceso a este desde la aplicación.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Envío de datos correctos</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de historial médico está presente en la URL: "http://nourishify.com/user/{id}/medical-history/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se añade correctamente el historial médico en la base de datos de Nourishify<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Envío de datos incorrecto</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de historial médico está presente en la URL: "http://nourishify.com/user/{id}/medical-history/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el protocolo HTTP no logra conectarse con la base de datos<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+<tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU31<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Almacenamiento de curriculum vitae<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder almacenar archivos de curriculum vitae del nutricionista en la base de datos para quie los usuarios tengan acceso a este desde la aplicación.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: Envío de datos correctos</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de cv está presente en la URL: "http://nourishify.com/nutritionist/{id}/cv/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se registra correctamente el cv en la base de datos de Nourishify<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se devuelve el mensaje "200(OK)".<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: Envío de datos incorrecto</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el servicio de registro de historial médico está presente en la URL: "http://nourishify.com/nutritionist/{id}/cv/"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el developer hace una inserción sin párametros<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "error 404(Not Found)"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+<tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU32<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualizar planes nutricion ales<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como usuario, deseo visualizar los planes nutricionales para poder elegir el que mejor se adecua a mis requerimientos.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: El usuario visualiza los planes nutricionales</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el usuario cuenta con una sesión iniciada con el rol de usuario<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>abre la sección "Planes nutricionales" de la aplicación<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestran los planes nutricionales disponibles.<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: El usuarion no visualiza los planes nutricionales</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el usuario cuenta con una sesión iniciada con el rol de cliente"<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>abre la sección "Planes nutricionales" de la aplicación<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>no se muestran los planes nutricionales disponibles<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "No se encontraron planes nutricionales"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
+  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
+  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU33<o:p></o:p></span></p>
+  </td>
+  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
+  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
+  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:5.7pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Visualizar planes de ejercicio ales<o:p></o:p></span></p>
+  </td>
+  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.55pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como usuario, deseo visualizar los planes de ejercicio para poder elegir el que mejor se adecua a mis requerimientos.<o:p></o:p></span></p>
+  </td>
+  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E01: El usuario visualiza los planes de ejercicio</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el usuario cuenta con una sesión iniciada con el rol de cliente<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>abre la sección "Planes de ejercicio" de la aplicación<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestran los planes de ejercicio disponibles.<o:p></o:p></span></p></b>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
+  mso-fareast-language:ES-PE'>E02: El usuarion no visualiza los planes de ejercicio</span></b><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
+  ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el usuario cuenta con una sesión iniciada con el rol de cliente<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>abre la sección "Planes de ejercicio" de la aplicación<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Y </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>no se muestran los planes nutricionales disponibles<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra un mensaje que indica "No se encontraron planes de ejercicio"<o:p></o:p></span></p>
+  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
+  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
+  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:29.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
+  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
+  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP03<o:p></o:p></span></p>
+  </td>
+ </tr>
+
+
 </table>
 
 </div>
