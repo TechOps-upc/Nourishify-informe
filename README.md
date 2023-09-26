@@ -165,6 +165,24 @@
                <td>Melgar, Adrian</td>
                <td>Mejora de: Impact Mapping</td>
             </tr>
+             <tr>
+               <td>1.15</td>
+               <td>26/09/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Sprint 2</td>
+            </tr>
+              <tr>
+               <td>1.15</td>
+               <td>26/09/2023</td>
+               <td>Ramirez, Diego</td>
+                <td>Agregar class diagram</td>
+             </tr>
+              <tr>
+               <td>1.16</td>
+               <td>26/09/2023</td>
+               <td>Bustinza, Sebastian</td>
+                <td>Mejora de Web App Design</td>
+             </tr>
          </tbody>
       </table>
    </span>
