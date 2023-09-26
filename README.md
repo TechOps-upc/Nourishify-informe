@@ -58,22 +58,28 @@
          </thead>
          <tbody>
             <tr>
-               <td>1.0</td>
+               <td>0.1</td>
                <td>03/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Adicion de la seccion Startup profile, Lean UX Proccess y user persona</td>
             </tr>
             <tr>
-               <td>1.0</td>
+               <td>0.2</td>
                <td>03/09/2023</td>
                <td>Ramirez, Diego<br></td>
                <td>Adición de la sección solution profile , as-is scenario mapping y to be scenario mapping</td>
             </tr>
             <tr>
-               <td>1.0</td>
+               <td>0.3</td>
                <td>03/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Adición de la sección competidores,analisis de entrevistas,registro de entrevistas y empathy mapping</td>
+            </tr>
+            <tr>
+               <td>1.0</td>
+               <td>07/09/2023</td>
+               <td>TechOps</td>
+               <td>Entrega TB1</td>
             </tr>
             <tr>
                <td>1.1</td>
@@ -82,64 +88,76 @@
                <td>Adición de la sección analisis de competidores,user task matrix y user journey mapping .</td>
             </tr>
             <tr>
-               <td>1.1</td>
+               <td>1.2</td>
                <td>04/09/2023</td>
                <td>Bustinza, Sebastian</td>
                <td>Elaboracion y adición del style guidelines.</td>
             </tr>
             <tr>
-               <td>1.1</td>
+               <td>1.3</td>
                <td>04/09/2023</td>
                <td>Ramirez, Diego</td>
                <td>Elaboracion y adición del style guidelines.</td>
             </tr>
              <tr>
-               <td>1.1</td>
+               <td>1.4</td>
                <td>04/09/2023</td>
                <td>Melgar, Adrian</td>
                <td>Elaboracion y adición del style guidelines.</td>
             </tr>
             <tr>
-               <td>1.1</td>
+               <td>1.5</td>
                <td>04/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Adición de la sección user-stories, impact mapping, information architecture landing page ui design y domain driven software achitecture</td>
             </tr>
             <tr>
-               <td>1.2</td>
+               <td>1.6</td>
                <td>06/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Adicción de todo el capitulo 5 del informe: sprint, development evidence, software deployment evidence, team colaboration insight. Realizacion de la landing page y deployarla</td>
             </tr>
             <tr>
-               <td>2.0</td>
+               <td>1.7</td>
                <td>23/09/2023</td>
                <td>Melgar, Adrian</td>
                <td>Refactorizar y ordenar de manera eficiente el repositorio del informe de github.</td>
             </tr>
             <tr>
-               <td>2.0</td>
+               <td>1.8</td>
                <td>23/09/2023</td>
                <td>Acuna, Diego</td>
                <td>Mejora y correcciones de:Registro de versiones, Lean UX Problem statements, Lean UX Hypothesis Statements, Lean UX Canvas, Analisis de entrevistas, User Stories y Product Backlog</td>
             </tr>
             <tr>
-               <td>2.0</td>
+               <td>1.9</td>
                <td>23/09/2023</td>
                <td>Ramirez, Diego</td>
                <td>Mejora y correcciones de: User personas</td>
             </tr>
             <tr>
-               <td>2.1</td>
+               <td>1.10</td>
                <td>25/09/2023</td>
                <td>Melgar, Adrian</td>
                <td>Mejora y correcciones de: Entrevistas cliente</td>
             </tr>
             <tr>
-               <td>2.2</td>
+               <td>1.11</td>
                <td>26/09/2023</td>
                <td>Melgar, Adrian</td>
                <td>Mejora y correcciones de: User Stories</td>
+            </tr>
+            <tr>
+               <td>1.12</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Implementación de los technical stories</td>
+            </tr>
+            <tr>
+               <td>1.13</td>
+               <td>26/09/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Mejora y reorganización de: Product Backlog</td>
             </tr>
          </tbody>
       </table>
