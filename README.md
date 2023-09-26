@@ -197,10 +197,48 @@
    <!-- TB1 Content -->
    
    <strong>TB1:</strong>
-   
+
+Actividades de Elaboración del Informe:
+
+En esta primera entrega del trabajo, el equipo se enfocó en establecer la estructura básica del informe del proyecto en el repositorio de GitHub. Se crearon los siguientes elementos clave:
+
+Estructura del Informe: Se diseñó la estructura general del informe, definiendo las secciones principales que incluirá el documento final, como la introducción, objetivos, metodología, resultados preliminares y conclusiones.
+
+Registro de Versiones: Se configuró un archivo de registro de versiones en el repositorio de GitHub para llevar un seguimiento de los cambios realizados en el informe a lo largo del proyecto.
+
+Capturas de Imagen: Se tomaron capturas de imagen de los análisis de colaboración y commits en GitHub para el repositorio del informe. Estas capturas proporcionan una instantánea de la actividad del equipo en el repositorio durante esta fase inicial del proyecto.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe:
+
+<div align="center">
+<img src="/content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+<img src="/content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+</div>
+
    <!-- TP Content -->
-   
-   <strong>TP:</strong>
+
+<strong>TP:</strong>
+
+Actividades de Elaboración del Informe:
+
+En la segunda entrega del trabajo, el equipo continuó desarrollando y mejorando el informe del proyecto. Se llevaron a cabo las siguientes actividades:
+
+Desarrollo de Contenido: Se completaron las secciones faltantes del informe, como los resultados detallados, el análisis de datos y las conclusiones finales. Se incorporaron gráficos y tablas para respaldar los hallazgos.
+
+Revisión y Edición: Se realizó una revisión exhaustiva del contenido del informe para asegurarse de que esté claro, coherente y bien estructurado. Se corrigieron errores gramaticales y se mejoró la redacción.
+
+Registro de Versiones: Se mantuvo actualizado el registro de versiones en el repositorio de GitHub para reflejar todos los cambios realizados en el informe desde la primera entrega.
+
+Evidencias:
+
+A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe durante la segunda entrega:
+
+<div align="center">
+<img src="/content/images/sprint2-team/commits.png">
+<img src="/content/images/sprint2-team/contribuitors.png">
+</div>
 
 </div>
 
@@ -320,6 +358,19 @@
          <il><h3><a href="./content/chapter-5/sprint-1/6-services-documentation-evicence-1.md">5.2.1.6. Services Documentation Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/sprint-1/7-software-deployment-evidence-1.md">5.2.1.7. Software Deployment Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/sprint-1/8-team-colaboration-insights-1.md">5.2.1.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+   </ul>
+   <ul>
+      <il><h3><a href="./content/chapter-5/sprint-2/2.1-sprint-planning-2.md">5.2.2. Sprint 2</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.1-sprint-planning-2.md">5.2.2.1. Sprint Planning 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.2-sprint-backlog-2.md">5.2.2.2. Sprint Backlog 2</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.3-development-evidence-for-sprint-review.md">5.2.2.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.4-testing-suite-evidence.md">5.2.2.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.5-execution-evidence.md">5.2.2.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.6-services-documentation-evidence.md">5.2.2.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.7-software-deployment-evidence.md">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-2/2.8-team-collaboration-insights.md">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
    </ul>
 </ul>
