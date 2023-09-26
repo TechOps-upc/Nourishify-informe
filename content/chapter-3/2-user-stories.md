@@ -701,8 +701,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Sale un mensaje que advierte que se ingresó el correo o la contraseña
-  de manera incorrecta.<o:p></o:p></span></p>
+  ES-PE'>se muestra un mensaje de error que advierte que se ingresó un correo electrónico incorrecto.<o:p></o:p></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -805,14 +804,13 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de cerrar sesión y no tiene una contratación en
-  proceso, pero sí una reseña<o:p></o:p></span></p>
+  ES-PE'>presiona la opción de cerrar sesión y no tiene ninguna contratación en proceso, pero sí una reseña pendiente<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale un mensaje que advierte que aún hay acciones en proceso<o:p></o:p></span></p>
+  ES-PE'>se muestra un mensaje de advertencia que informa al usuario que aún tiene una reseña pendiente y no se permite cerrar sesión hasta que se complete.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -828,14 +826,13 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de cerrar sesión y no tiene una reseña en proceso,
-  pero sí una contratación<o:p></o:p></span></p>
+  ES-PE'>presiona la opción de cerrar sesión y no tiene ninguna reseña en proceso, pero sí una contratación en curso<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale un mensaje que advierte que aún hay acciones en proceso<b><span
+  ES-PE'>se muestra un mensaje de advertencia que informa al usuario que aún tiene una contratación en proceso y no se permite cerrar sesión.<b><span
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
@@ -952,7 +949,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>sale un mensaje que advierte que el correo no es válido<b><span
+  ES-PE'>se muestra un mensaje de error que advierte que el correo electrónico no es válido o no está asociado a una cuenta existente.<b><span
   style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
@@ -1912,132 +1909,6 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Ingreso
-  de Información de gimnasio <o:p></o:p></span></p>
-  </td>
-  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:6.55pt;text-align:justify;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como dueño
-  o administrador de gimnasio, deseo ingresar la información de mi gimnasio a
-  la plataforma para que los usuarios sepan sobre las características de mi
-  gimnasio<o:p></o:p></span></p>
-  </td>
-  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
-  mso-fareast-language:ES-PE'>E01: Ingreso correcto de datos</span></b><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
-  ES-PE'><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
-  mso-fareast-language:ES-PE'>CA01</span></b><b><span style='mso-bidi-font-size:
-  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'>:</span></b><span style='mso-bidi-font-size:14.0pt;
-  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>el usuario se encuentra en el formulario de adjuntar información del gimnasio<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>ingresa un archivo <span class=SpellE>pdf</span><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>se ingresan la información del gimnasio<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
-  mso-fareast-language:ES-PE'>E02: Ingreso incorrecto de datos</span></b><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
-  ES-PE'><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
-  mso-fareast-language:ES-PE'>CA02</span></b><b><span style='mso-bidi-font-size:
-  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'>:</span></b><span style='mso-bidi-font-size:14.0pt;
-  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>el usuario se encuentra en el formulario de adjuntar información del
-  gimnasio<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>ingresa datos generales y un archivo que no es <span class=SpellE>pdf</span><o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
-  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
-  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>saldrá un mensaje que advierte que no se admiten archivos que no sean <span
-  class=SpellE>pdf</span><b><span style='color:#0070C0'><o:p></o:p></span></b></span></p>
-  </td>
-  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
-  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><a
-  style='mso-comment-reference:djag_1;mso-comment-date:20230904T1112'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP02</span></a><span
-  class=MsoCommentReference><span style='font-size:8.0pt'><![if !supportAnnotations]><a
-  class=msocomanchor id="_anchor_1"
-  onmouseover="msoCommentShow('_anchor_1','_com_1')"
-  onmouseout="msoCommentHide('_com_1')" href="#_msocom_1" language=JavaScript
-  name="_msoanchor_1">[djag1]</a><![endif]><span style='mso-special-character:
-  comment'>&nbsp;</span></span></span><span style='mso-bidi-font-size:14.0pt;
-  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:14;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
-  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:6.65pt;text-align:justify;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU14<o:p></o:p></span></p>
-  </td>
-  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
-  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:5.7pt;text-align:justify;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Búsqueda
   por nombre<o:p></o:p></span></p>
   </td>
@@ -2144,7 +2015,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU15<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU14<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2260,7 +2131,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU16<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU15<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2364,7 +2235,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU17<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU16<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2481,7 +2352,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU18<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU17<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2596,7 +2467,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU20<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU18<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2744,7 +2615,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU21<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU19<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2864,7 +2735,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU22<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU20<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2977,7 +2848,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU23<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU21<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3097,7 +2968,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU24<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU22<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3232,14 +3103,16 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:24;height:29.75pt'>
+
+
+ <tr style='mso-yfti-irow:23;height:29.75pt'>
   <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
   mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:29.75pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU25<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU23<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3248,8 +3121,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:5.7pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Agregar
-  Ubicación del Gimnasio<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Registro de usuario en la base de datos<o:p></o:p></span></p>
   </td>
   <td width=113 style='width:84.75pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -3258,10 +3130,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.55pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como dueño
-  de gimnasio, quiero agregar la ubicación exacta de mi gimnasio en la
-  aplicación para que los clientes puedan encontrar fácilmente dónde estamos
-  ubicados.<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como developer, deseo poder almacenar un nuevo usuario dentro de la base de datos para registrar su cuenta.<o:p></o:p></span></p>
   </td>
   <td width=385 style='width:288.75pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -3270,7 +3139,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
-  mso-fareast-language:ES-PE'>E01: Ingreso de ubicación</span></b><span
+  mso-fareast-language:ES-PE'>E01: Envio de datos correctos</span></b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
   ES-PE'><o:p></o:p></span></p>
@@ -3285,79 +3154,35 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>soy el propietario del gimnasio, cuando acceda a la aplicación,
-  debería encontrar una opción clara para agregar la ubicación.<o:p></o:p></span></p>
+  ES-PE'>el servicio de registro de la cuenta está<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>ingrese la ubicación, esta debería mostrarse en un mapa para que los
-  clientes puedan ver visualmente dónde estamos ubicados.<o:p></o:p></span></p>
+  ES-PE'>selecciona la cantidad de estrellas e ingresa un texto correcto<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Entonces, </span></b><span style='mso-bidi-font-size:14.0pt;
-  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-  mso-fareast-language:ES-PE'>la ubicación se muestra correctamente en la aplicación.<span
-  style='color:#0070C0'><o:p></o:p></span></span></p>
-  </td>
-  <td width=59 style='width:44.35pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
-  0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:25;mso-yfti-lastrow:yes;height:29.75pt'>
-  <td width=84 style='width:63.0pt;border:solid white 1.0pt;border-top:none;
-  mso-border-top-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>se muestra esta reseña con mi nombre en el apartado de calificaciones
+  del profesional<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:6.65pt;text-align:justify;line-height:normal'><span
+  margin-left:6.2pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU26<o:p></o:p></span></p>
-  </td>
-  <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
-  solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
-  mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:5.7pt;text-align:justify;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Describir
-  Instalaciones y Servicios<o:p></o:p></span></p>
-  </td>
-  <td width=113 style='width:84.75pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:6.55pt;text-align:justify;line-height:normal'><span
-  style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Como
-  usuario propietario de gimnasio, deseo proporcionar una descripción detallada
-  de las instalaciones y servicios disponibles en mi gimnasio en la aplicación
-  para que los clientes sepan qué ofrecemos.<o:p></o:p></span></p>
-  </td>
-  <td width=385 style='width:288.75pt;border-top:none;border-left:none;
-  border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
-  solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:29.75pt'>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#0070C0;
-  mso-fareast-language:ES-PE'>E01: Agregar descripciones</span></b><span
+  mso-fareast-language:ES-PE'>E02: Ingreso de datos incorrecto</span></b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
   ES-PE'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
-  mso-fareast-language:ES-PE'>CA01:</span></b><span style='mso-bidi-font-size:
+  mso-fareast-language:ES-PE'>CA02:</span></b><span style='mso-bidi-font-size:
   14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
   color:#00B050;mso-fareast-language:ES-PE'><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
@@ -3365,23 +3190,49 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>soy el propietario del gimnasio, cuando acceda a la aplicación,
-  debería encontrar una sección para agregar descripciones de instalaciones y
-  servicios.<o:p></o:p></span></p>
+  ES-PE'>el usuario se encuentra en el formulario de ingreso de reseñas<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>selecciona la cantidad de estrellas correcto, pero ingresa un texto
+  con caracteres no permitidos<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>sale un mensaje que advierte que la reseña contiene caracteres no
+  permitidos<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
+  mso-fareast-language:ES-PE'>CA03</span></b><b><span style='mso-bidi-font-size:
+  14.0pt;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  mso-fareast-language:ES-PE'>:</span></b><span style='mso-bidi-font-size:14.0pt;
+  mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
+  mso-fareast-language:ES-PE'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+  normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>Dado que </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
+  ES-PE'>el usuario se encuentra en el formulario de ingreso de reseñas<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando</span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'> agregue un texto descriptivo y detalles sobre cada instalación y
-  servicio.<o:p></o:p></span></p>
+  ES-PE'> ingresa un texto correcto, pero no selecciona la cantidad de
+  estrellas<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>Entonces</span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
+  ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>, la información sobre instalaciones y servicios está disponible para
-  los clientes.<span style='color:#0070C0'><o:p></o:p></span></span></p>
+  ES-PE'>sale un mensaje que advierte que no se ha agregado una calificación<b><span
+  style='color:#0070C0'><o:p></o:p></span></b></span></p>
   </td>
   <td width=59 style='width:44.35pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -3390,9 +3241,10 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:5.85pt;margin-bottom:
   0cm;margin-left:6.15pt;text-align:justify;text-indent:.5pt;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP06<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>EP05<o:p></o:p></span></p>
   </td>
  </tr>
+ 
 </table>
 
 </div>
