@@ -61,6 +61,7 @@
 | Diego Miguel Ramirez Ortega     | U202123548 |
 | José Diego Huamani Sánchez      | U202110458 |
 | Sebastian Alonso Bustinza Muñoz | U202123362 |
+
 <br>
 <br>
 <h4>Link del repositorio: https://github.com/TechOps-upc/Nourishify-informe </h4>
@@ -188,7 +189,7 @@
                <td>Melgar, Adrian</td>
                <td>Mejora de: Impact Mapping</td>
             </tr>
-             <tr>
+            <tr>
                <td>1.15</td>
                <td>26/09/2023</td>
                <td>Acuña, Diego</td>
@@ -198,14 +199,20 @@
                <td>1.15</td>
                <td>26/09/2023</td>
                <td>Ramirez, Diego</td>
-                <td>Agregar class diagram</td>
-             </tr>
-              <tr>
+               <td>Agregar class diagram</td>
+            </tr>
+            <tr>
                <td>1.16</td>
                <td>26/09/2023</td>
                <td>Bustinza, Sebastian</td>
-                <td>Mejora de Web App Design</td>
-             </tr>
+               <td>Mejora de Web App Design</td>
+            </tr>
+            <tr>
+               <td>2.0</td>
+               <td>26/09/2023</td>
+               <td>TechOps</td>
+               <td>Entrega TP</td>
+            </tr>
          </tbody>
       </table>
    </span>
@@ -398,7 +405,6 @@ A continuación, se presentan algunas de las capturas de imagen que muestran la 
    </ul>
 </ul>
 
-   
 <h3><a id="lean-ux-canvas">1.2.2.4. Lean UX Canvas</a></h3>
 <div align="center">
   <a href="https://ibb.co/RgSNk5x"><img src="https://i.ibb.co/p1PQBmt/Untitled-2023-09-05-07-55-53.png" alt="Imagen del Lean UX Canvas" border="0"></a>
@@ -506,17 +512,15 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
     </ol>
 <h3><a id="registro-de-entrevistas">2.2.2. Registro de entrevistas</a></h3>
 
-
-
 <div align ="center">
 
 ### **Usuario cliente**
 
 <h4>Entrevista 1</h4>
 
-| Nombre | Apellido | Edad |
-| :----- | :------- | :--: |
-| Arecely  | Sanches    | 21  |
+| Nombre  | Apellido | Edad |
+| :------ | :------- | :--: |
+| Arecely | Sanches  |  21  |
 
 <img src="static/entrevista aracely.png" >
 <p align="left"><strong>URL: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c794_upc_edu_pe/ERk_YTw9RktAv6gf9F9uie4Bl3OFcrS-o5pDVYNrdxVOqQ?e=M0qPvJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19" target="_blank">Entrevista Aracely</a></p>
@@ -526,7 +530,6 @@ Dicho proceso comparativo, es uno de los más preciados para extraer informació
 ### **Usuario dueño de gimnasios**
 
 <h4>Entrevista 1</h4>
-
 
 <div align ="center">
 
@@ -4573,15 +4576,17 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 <p align ="center">
    <img src="./static/styles-guidelines/branding.png" >
 </p><br>
-Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural. 
+Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
 
 <br>Typography
+
 <p align ="center">
    <img src="./static/styles-guidelines/typografy.png" >
 </p><br>
 
 Colors
 <br>
+
 <p align ="center">
    <img src="./static/styles-guidelines/color.png" >
 </p><br>
@@ -4602,16 +4607,12 @@ Blanco: Representa limpieza y claridad. Asimismo, se usa mucho en aplicaciones i
 Negro: Color serio y elegante.
 El lenguaje a utilizar será serio, formal, respetuoso junto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 
-
-
-
 <h3><a id="web-style-guidelines">4.1.2. Web Style Guidelines</a></h3>
-
-
 
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
 
 <br><br>
+
 <p align ="center">
    <img src="./static/styles-guidelines/selectionboxes.png" >
 </p><br>
@@ -4625,6 +4626,7 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 </p><br>
 
 <br>Link Figma: https://www.figma.com/file/yUavmzKkW2nMUMpxhpxDfL/Nourishify-style-guidelines?type=design&node-id=0%3A1&mode=design&t=ghLjnndHn9rHaL0e-1
+
 <h3><a id="information-architecture">4.2. Information Architecture</a></h3>
 En esta sección, definiremos la estructuración de nuestro producto para cada uno de nuestros segmentos objetivo. Abarcaremos diversos componentes que permitirán al usuario a organizar y encontrar su contenido: Organization systems, Labeling systems, SEO Tags and Meta Tags, Searching systems y Navigation systems.
 <h3><a id="organization-systems">4.2.1. Organization Systems</a></h3>
@@ -7709,9 +7711,9 @@ Network: se muestran los últimos commits, los push y los merge que el equipo de
 Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
 
 <br><br>
+
 <h2>ANEXOS:</h2>
 <br><br>
 Repositorio de Github: https://github.com/TechOps-upc/Nourishify-informe
 <br>
 Video about the team: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2FTechOps%2DNourishify%2DApps%2DWeb%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
-
