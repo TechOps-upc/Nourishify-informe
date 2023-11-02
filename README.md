@@ -165,6 +165,12 @@
                <td>Melgar, Adrian</td>
                <td>Mejora de: Impact Mapping</td>
             </tr>
+            <tr>
+               <td>2.0</td>
+               <td>2/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Sprint 3: sprint planning,development evidence, execution evidence, software deployment evidence,team collaboration insight evidence</td>
+            </tr>
          </tbody>
       </table>
    </span>
