@@ -1,10 +1,7 @@
 <h3>5.2.1.3. Development Evidence for Sprint Review</h3>
 En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrollo fue la primera version del Landing Page, se implementaron ramas a partir de la rama develop para que cada integrante pueda codificar su parte del Landing Page, se implementaron la navbar, la sección know us, la sección services, goals, hero and footer. Con ello completamos el primer sprint de implementación. <br><br>
-Integrantes:  <br><br>
-        <p align ="center">
-            <img src="../images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
-         </p>
-         <table border="1">
+
+<table border="1">
   <tr>
     <th>Repository</th>
     <th>Branch</th>
