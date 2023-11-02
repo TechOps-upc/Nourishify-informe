@@ -205,13 +205,14 @@
                <td>1.16</td>
                <td>26/09/2023</td>
                <td>Bustinza, Sebastian</td>
-          <td>Mejora de Web App Design</td>
-             </tr>
-              <tr>
+               <td>Mejora de Web App Design</td>
+            </tr>
+            <tr>
                <td>2.0</td>
                <td>26/09/2023</td>
                <td>TechOps</td>
-                <td>Entrega TP</td>
+               <td>Entrega TP</td>
+            </tr>
          </tbody>
       </table>
    </span>
