@@ -211,11 +211,40 @@
             </tr>
              <tr>
                <td>2.5</td>
-               <td>03/11/2023</td>
+               <td>02/11/2023</td>
                <td>Acuña, Diego</td>
-               <td>Sprint 3 redaccion</td>
+               <td>Desarrollo Sprint Planning 3</td>
             </tr>
-         </tbody>
+             <tr>
+               <td>2.6</td>
+               <td>02/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Desarrollo del sprint backlog 3</td>
+            </tr>
+              <tr>
+               <td>2.7</td>
+               <td>02/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Desarrollo del sprint development 3</td>
+            </tr>
+              <tr>
+               <td>2.8</td>
+               <td>02/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Desarrollo del Execution evidence 3</td>
+            </tr>
+             <tr>
+               <td>2.9</td>
+               <td>02/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Desarrollo del Team Collaboration insights</td>
+            </tr>
+              <tr>
+               <td>2.10</td>
+               <td>02/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Desarollo de la seccion e Validation interviews y video about the product. Y actualizacion de nuevos miembros del equipo</td>
+            </tr>
       </table>
    </span>
 </div>
