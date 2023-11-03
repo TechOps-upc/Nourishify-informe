@@ -213,6 +213,12 @@
                <td>TechOps</td>
                <td>Entrega TP</td>
             </tr>
+            <tr>
+               <td>2.1</td>
+               <td>01/11/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Desarrollo del endpoint 'roles' en la API</td>
+            </tr>
          </tbody>
       </table>
    </span>
