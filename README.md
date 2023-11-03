@@ -189,34 +189,28 @@
                <td>2.1</td>
                <td>31/10/2023</td>
                <td>Melgar, Adrian</td>
-               <td>Creacion de la view de planes nutricionales del front end</td>
+               <td>Desarrollo del execution evidence 3</td>
             </tr>
             <tr>
                <td>2.2</td>
                <td>31/10/2023</td>
                <td>Melgar, Adrian</td>
-               <td>Creacion de la view de pago de planes nutricionales del front end</td>
+               <td>Desarrollo del service documentation 3</td>
             </tr>
             <tr>
                <td>2.3</td>
                <td>01/11/2023</td>
                <td>Melgar, Adrian</td>
-               <td>Desarrollo del endpoint 'roles' en la API</td>
+               <td>Desarrollo del sprint backlog 3</td>
             </tr>
             <tr>
                <td>2.4</td>
                <td>01/11/2023</td>
                <td>Melgar, Adrian</td>
-               <td>Desarrollo de la parte register del endpoint 'users' de la API</td>
-            </tr>
-            <tr>
-               <td>2.5</td>
-               <td>02/11/2023</td>
-               <td>Melgar, Adrian</td>
-               <td>Desarrollo de los endpoints de put t delete de usuarios</td>
+               <td>Insersión de commits del backend</td>
             </tr>
              <tr>
-               <td>2.6</td>
+               <td>2.5</td>
                <td>03/11/2023</td>
                <td>Acuña, Diego</td>
                <td>Sprint 3 redaccion</td>
