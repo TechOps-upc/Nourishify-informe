@@ -71,7 +71,7 @@ A continuación, se presenta la gestión de código fuente o como es conocido po
 <li>
 <strong>URL de la Organización:</strong> https://github.com/TechOps-upc
 </li>
-<li><strong>URL del Repositorio del Landing Page:</strong>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html</li>
+<li><strong>URL del Repositorio del Landing Page:</strong>https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html</li>
 </ul>
 <strong>GitFlow</strong>
 El enfoque de desarrollo de ramas en Git que ha ganado una gran importancia en los últimos años es un método alternativo que muchos desarrolladores consideran esencial. Este flujo de trabajo de control de versiones, que se basa en el uso de ramas, fue introducido y promovido por Vincent Driessen. Su propósito principal es facilitar la gestión y organización de las diferentes versiones de un código, permitiendo la creación ordenada de nuevas características (features) y correcciones urgentes (hotfixes).
@@ -2354,7 +2354,7 @@ style='mso-ansi-language:ES-PE'><o:p>&nbsp;</o:p></span></p>
 </div>
 
 <h3>5.1.4. Software Deployment Configuration</h3>
-Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:<br>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo:<br>https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
 <br><br>
 Para el desarrollo del Landing Page de Nourishify se han utilizado las siguientes herramientas: 
    <ul>
@@ -2419,7 +2419,7 @@ El despliegue del Landing Page de Nourishify no pudo ser posible sin utilizar la
          </p>
    </ul>
    Siguiendo los pasos, obtenemos el siguiente enlace:<br>
-   https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+   https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
    <br>
    <strong>Evidencia de Deployment</strong><br><br>
         <p align ="center">
