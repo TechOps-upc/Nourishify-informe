@@ -219,6 +219,12 @@
                <td>Melgar, Adrian</td>
                <td>Desarrollo del endpoint 'roles' en la API</td>
             </tr>
+            <tr>
+               <td>2.2</td>
+               <td>01/11/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Desarrollo de la parte register del endpoint 'users' de la API</td>
+            </tr>
          </tbody>
       </table>
    </span>
