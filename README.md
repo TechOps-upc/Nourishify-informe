@@ -433,5 +433,25 @@ A continuación, se presentan algunas de las capturas de imagen que muestran la 
          <il><h3><a href="./content/chapter-5/sprint-2/2.7-software-deployment-evidence.md">5.2.2.7. Software Deployment Evidence for Sprint Review</a></h3></il>
          <il><h3><a href="./content/chapter-5/sprint-2/2.8-team-collaboration-insights.md">5.2.2.8. Team Collaboration Insights during Sprint</a></h3></il>
       </ul>
+      <il><h3><a href="./content/chapter-5/sprint-3/3.1-sprint-planning-3.md">5.2.3. Sprint 3</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.1-sprint-planning-3.md">5.2.3.1. Spring Planning 3</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.2-sprint-backlog-3.md">5.2.3.2. Sprint Backlog 3.</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.3-development-evidence-for-sprint-review.md">5.2.3.3. Development Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.4-testing-suite-evidence.md">5.2.3.4. Testing Suite Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.5-execution-evidence.md">5.2.3.5. Execution Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.6-services-documentation-evidence.md">5.2.3.6. Services Documentation Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.7-software-deployment-evidence.md">5.2.3.7. Software Deployment Evidence for Sprint Review</a></h3></il>
+         <il><h3><a href="./content/chapter-5/sprint-3/3.8-team-collaboration-insights.md">5.2.3.8. Team Collaboration Insights during Sprint</a></h3></il>
+      </ul>
+       <il><h3><a href="./content/chapter-5/validation-interviews/5.3.1-diseño-entrevistas.md">5.3 Validation Interviews</a></h3></il>
+      <ul>
+         <il><h3><a href="./content/chapter-5/validation-interviews/5.3.1-diseño-entrevistas.md">5.3.1. Diseño de Entrevista</a></h3></il>
+          <il><h3><a href="./content/chapter-5/validation-interviews/5.3.1-diseño-entrevistas.md">5.3.2. Registro de Entrevista</a></h3></il>
+           <il><h3><a href="./content/chapter-5/validation-interviews/5.3.3-evaluaciones-segun-heuristicas.md">5.3.3.Evaluaciones según heuristicas</a></h3></il>
+      </ul>
+         <il><h3><a href="./content/chapter-5/video-about-the-product/5.4.Video About-the-product.md">5.4 Video About The Product</a></h3></il>
+      <ul>
+      </ul>
    </ul>
 </ul>
