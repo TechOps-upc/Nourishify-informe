@@ -47,11 +47,19 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
   
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="../images/team-photos/diego-ramirez.png" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
+      <img src="../images/team-photos/antonella.jfif  " alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ramirez, Diego</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Ramirez, tengo 19 años y estoy en el quinto ciclo de la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto..</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123548</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Gonzales, Antonella</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Antonella Frida Gonzales Gomez, como estudiante de la carrera de Ingeniería de Software, contribuiré al equipo mis conocimientos fundamentales en algunos lenguajes de programación. Estos conocimientos me permitirán participar activamente en la creación y desarrollo de proyectos además tengo un enfoque responsable hacia mi trabajo y tareas asignadas. Entiendo la importancia de cumplir con plazos y metas establecidas, lo que contribuye al flujo de trabajo del equipo y al éxito general del proyecto.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U20211C403</td>
+  </tr>
+   <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="../images/team-photos/gabriel.jfif" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Martel, Gabriel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de 5º ciclo de la carrera de ingenieria de software. Soy una persona empatica y responsable con habilidades para aprender. Aporto a mi equipo con conocientos de programacion en distintos lenguajes y entornos. Puedo trabajar en equipo y soy un poco perfeccionista.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202121584</td>
   </tr>
 </table>
 <div display="flex" align="right" >
