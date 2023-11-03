@@ -17,23 +17,33 @@
       <tr>
          <td><strong>Diego Jose Acuña Gomez</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias. Tambien la landing page
          </br><strong>TP:</strong>
-         </br>Para esta entrega, he participado activamente el desarrollo de la Web App FrontEnd</td>
-         <td rowspan="4">TP: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente</td>
+         </br>Para esta entrega, he participado activamente el desarrollo de la Web App FrontEnd</br><strong>TB3:</strong></br>Para esta entrega, he participado activamente en la mejora del Front End Web Application y Landing Page
+         </br></td>
+         <td rowspan="4">TP: Como conclusion, cada miembro ha apoyado en mayor o menor medida en el desarrollo de este entregable del informe de manera eficiente
+         <br><br>TB3:Como conclusion, en esta entregable se ha visto mejor desarrollo de la participacion de los miembros del equipo
+         </td>
       </tr>
       <tr>
          <td><strong>Sebastian Alonso Bustinza Muñoz</br>TB1:</strong></br>Para esta entrega, participe activamente, estuve en todas las reuniones para la asignacion de tareas, realice el registro de entrevistas de los nutricionistas, analisis de entrevistas en general, empathy map y Product backlog.
          </br><strong>TP:</strong>
-         </br>Para este entregable he participado activamente en la mejora continua como los Web App UX/UI Design y entrevistas</td>
+         </br>Para este entregable he participado activamente en la mejora continua como los Web App UX/UI Design y entrevistas</br><strong>TB3:</strong></br>Para esta entrega participe activamente en todas las reuniones con mi grupo, realicé la vista register form, para que nuevos usuarios puedan acceder a nuestra aplicación web, participé en la mejora del desarrollo de la Web App FrontEnd y realicé las entrevistas de  validación de nutricionistas.
+         </br></td>
       </tr>
       <tr>
          <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.
          </br><strong>TP:</strong>
-         </br>Para este entregable he participado activamente en la mejora continua del informe, como la refactorizacion del repositorio de github, user personas, versiones de informe.</td>
+         </br>Para este entregable he participado activamente en la mejora continua del informe, como la refactorizacion del repositorio de github, user personas, versiones de informe.</br><strong>TB3:</strong>
+         </br>Para este entregable he participado activamente en el desarrollo de tanto el frontend como el backend del proyecto.</td>
       </tr>
       <tr>
-         <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Para esta entraga he realizado los antecedentes y problemáticas. También la realización de los mapas de escenarios. Realicé las tareas anteriores con la comunicación continua, informandoles los avances y preguntando activamente sobre el desarrollo del trabajo en general
-         </br><strong>TP:</strong>
-         </br>Para este entregable he participado activamente en el desarrollo de la mejora de la Landing Page</td>
+         <td><strong>Antonella Frida Gonzales Gomez </strong></br>
+         </br><strong>TB3:</strong>
+         </br>Participé activamente en el desarrollo frontend utilizando Vue.js, HTML, CSS y JavaScript.
+      Contribuí a la creación de componentes visuales y funcionales para mejorar la experiencia del usuario.
+      También colaboré en la documentación del proyecto, ayudando en la organización y creación de información detallada
+      <strong><br><br><strong> Gabriel Aristoteles Martel Zevallos</strong></br>TB3:</strong>
+         </br>Para esta entrega me adherí al grupo hace poco tiempo y rápidamente cumplí con las tareas que se me asignaron. Participando activamente en el desarrollo de la aplicación web.
+      </td>
       </tr>
       <tr>
          <td rowspan="5">Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
@@ -43,30 +53,41 @@
          </br>TB1:</strong>
          </br>Para esta entrega conocia como hacer una landing page usando html y css. Asi como tambien el desarrollo correcto de los sprints
          </br><strong>TP:</strong>
-         </br>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js</td>
-         <td rowspan="4">TP: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado</td>
+         </br>Para esta entrega conocia como hacer una web app frontend utilizando el framework de VUE.js<br><strong>TB3:</strong>
+         </br>Para esta entrega mejore mis habilidades en el framework de Vue.Js para realizar mas componentes importantes del negocio como los planes de comida y mejorar la estetica del sidebar, ademas de implementar mas datos en el db.json y luego reutilizarlos</td>
+         <td rowspan="4">TP: Como conclusion, cada uno de los integrantes conocia una tecnologia diferente para la mejora o implementacion de caracteristicas que se les fue asignado <br><br>TB3:Como conclusion,en este entregable los integrantes conocian y estaban mas familiarizados con el framework de Vue.js para trabajar en equipo</td>
       </tr>
       <tr>
          <td><strong>Sebastian Alonso Bustinza Muñoz
          </br>TB1:</strong>
          </br>Para esta entrega conocía la manera correcta de diseñar los style guidelines utilizando figma
          </br><strong>TP:</strong>
-         </br>Para esta entrega conocía la forma en hacer los mockups y wireframes en figma para la mejora continua</td>
+         </br>Para esta entrega conocía la forma en hacer los mockups y wireframes en figma para la mejora continua</br><strong>TB3:</strong>
+         </br>Para esta entrega conocía como hacer una web app frontend utilizando el framework de VUE.js</td>
       </tr>
       <tr>
          <td><strong>Adrian Gonzalo Melgar Takahashi
          </br>TB1:</strong>
          </br>Para esta entrega conocia las herramientas para la elaboracion de user task matrix user journey mapping y empathy mapping.
          </br><strong>TP:</strong>
-         </br>Para esta entrega sabia como refactorizar un proyecto de informe di github para tener una mejor organizacion</td>
+         </br>Para esta entrega sabia como refactorizar un proyecto de informe di github para tener una mejor organizacion
+         </br><strong>TB3:</strong>
+         </br>Para esta entrega aprendi a desarrollar una API para nuestro proyecto y a como hacer el deploy de esta.</td>
       </tr>
       <tr>
-         <td><strong>Diego Miguel Ramirez Ortega
-         </br>TB1:</strong>
-         </br>Para esta entrega conocia las herramientas para realizar el as-is y el to-be scenario mapping
-         </br><strong>TP:</strong>
-         </br>Para esta entrega conocia html, css y javascript para la mejora continua de la Landing Page</td>
+         <td><strong>Antonella Frida Gonzales Gomez
+         </br>TB3:</strong>
+         </br>Aprendí a desarrollar frontend con Vue.js y a utilizar tecnologías como HTML, CSS y JavaScript.
+Trabajé en la mejora de la interfaz de usuario.
+Tambien he contribuido  en la documentación del proyecto .
+         </br>
+         <strong>Gabriel Aristoteles Martel Zevallos
+         </br>TB3:</strong>
+         </br>Aprendí a usar el pluggin i18n para la internacionalización de la aplicación. Cambien colabore con la creación de algunos componentes.
+         </br>
+         </td>
       </tr>
+      
    </tbody>
 </table>
 

@@ -1,5 +1,5 @@
 <h3>5.2.1.7. Software Deployment Evidence for Sprint Review</h3>
-Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: <br>https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: <br>https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
 
 Para el desarrollo del Landing Page de Nourishify se han utilizado las siguientes herramientas: <br>
 
@@ -65,7 +65,7 @@ El despliegue del Landing Page de Nourishify no pudo ser posible sin utilizar la
          </p>
    </ul>
    Siguiendo los pasos, obtenemos el siguiente enlace:<br>
-   https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+  https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
    <br>
    <strong>Evidencia de Deployment</strong><br><br>
         <p align ="center">

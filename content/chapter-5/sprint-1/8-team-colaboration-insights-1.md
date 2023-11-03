@@ -1,7 +1,7 @@
 <h3>5.2.1.8. Team Collaboration Insights during Sprint</a></h3><br>
 Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.<br><br>
 Repositorio Principal: LandingPageDS:https://github.com/TechOps-upc/Landing-Page<br>
-Landing Page: https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+Landing Page: https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
 <br><br>
 <strong>Integrantes y aportantes:</strong>
 <br><br>
@@ -47,7 +47,7 @@ Network: se muestran los últimos commits, los push y los merge que el equipo de
 <p align ="center">
                <img src="../../images/landing-page-services-app-implementations-img/network.png">
             </p>
-Link de Landing Page actual:  https://diegoacuna1612.github.io/nourishify-landinpage.github.io/public/index.html
+Link de Landing Page actual:  https://diegoacuna1612.github.io/diegoAcuna1612land.github.io/public/index.html
 
 <div display="flex" align="right" >
    </br></br>
