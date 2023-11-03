@@ -215,6 +215,18 @@
             </tr>
             <tr>
                <td>2.1</td>
+               <td>31/10/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Creacion de la view de planes nutricionales del front end</td>
+            </tr>
+            <tr>
+               <td>2.1</td>
+               <td>31/10/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Creacion de la view de pago de planes nutricionales del front end</td>
+            </tr>
+            <tr>
+               <td>2.1</td>
                <td>01/11/2023</td>
                <td>Melgar, Adrian</td>
                <td>Desarrollo del endpoint 'roles' en la API</td>
