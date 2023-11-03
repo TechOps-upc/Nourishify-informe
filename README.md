@@ -7,43 +7,15 @@
    </br></br>
    <p><strong>Sección:</strong> SW52</p>
    <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>
-   <p><strong>Informe:</strong> Trabajo parcial</p>
+   <p><strong>Informe:</strong> TB3</p>
    <p><strong>Nombre de la Startup:</strong> TechOps</p>
    <p><strong>Nombre del producto:</strong> Nourishify</p>
    <p><strong>Ciclo:</strong> 2023-02</p>
 </div>
 </br></br>
 <div align="center">
-   <h3>Integrantes</h3>
-   </br>
-   <table>
-      <thead>
-         <tr>
-            <th>Nombre</th>
-            <th>Código</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Adrian Gonzalo Melgar Takahashi</td>
-            <td>U201819465</td>
-         </tr>
-         <tr>
-            <td>Diego Jose Acuña Gomez</td>
-            <td>U20201C794</td>
-         </tr>
-         <tr>
-            <td>Diego Miguel Ramirez Ortega</td>
-            <td>U202123548</td>
-         </tr>
-         <tr>
-            <td>Sebastian Alonso Bustinza Muñoz</td>
-            <td>U202123362</td>
-         </tr>
-      </tbody>
-   </table>
-=======
-<h3>Aplicaciones Web - TB1</h3>
+
+<h3>Aplicaciones Web -TB3</h3>
 <ul style="list-style-type: none;">
    <li> <strong>Sección:</strong> SW52 </li>
    <li><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</li>
@@ -58,9 +30,9 @@
 | :------------------------------ | :--------: |
 | Adrian Gonzalo Melgar Takahashi | U201819465 |
 | Diego Jose Acuña Gomez          | U20201C794 |
-| Diego Miguel Ramirez Ortega     | U202123548 |
-| José Diego Huamani Sánchez      | U202110458 |
-| Sebastian Alonso Bustinza Muñoz | U202123362 |
+| Gabriel Aristoteles Martel Zevallos    | U202121584 |
+|   Antonella Frida Gonzales Gomez   | U20211C403 |
+| Sebastian Alonso Bustinza Muñoz |  U202123362|
 
 <br>
 <br>
@@ -242,6 +214,12 @@
                <td>02/11/2023</td>
                <td>Melgar, Adrian</td>
                <td>Desarrollo de los endpoints de put t delete de usuarios</td>
+            </tr>
+             <tr>
+               <td>2.6</td>
+               <td>03/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Sprint 3 redaccion</td>
             </tr>
          </tbody>
       </table>
