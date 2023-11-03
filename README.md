@@ -225,6 +225,12 @@
                <td>Melgar, Adrian</td>
                <td>Desarrollo de la parte register del endpoint 'users' de la API</td>
             </tr>
+            <tr>
+               <td>2.3</td>
+               <td>02/11/2023</td>
+               <td>Melgar, Adrian</td>
+               <td>Desarrollo de los endpoints de put t delete de usuarios</td>
+            </tr>
          </tbody>
       </table>
    </span>
