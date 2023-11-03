@@ -28,7 +28,8 @@
       <tr>
          <td><strong>Adrian Gonzalo Melgar Takahashi</br>TB1:</strong></br>Para esta entrega, he participado activamente y he comunicado mis avances en la redacción del proyecto. Además, hubo múltiples reuniones para expresar ideas y asignar las tareas necesarias.
          </br><strong>TP:</strong>
-         </br>Para este entregable he participado activamente en la mejora continua del informe, como la refactorizacion del repositorio de github, user personas, versiones de informe.</td>
+         </br>Para este entregable he participado activamente en la mejora continua del informe, como la refactorizacion del repositorio de github, user personas, versiones de informe.</br><strong>TB2:</strong>
+         </br>Para este entregable he participado activamente en el desarrollo de tanto el frontend como el backend del proyecto.</td>
       </tr>
       <tr>
          <td><strong>Diego Miguel Ramirez Ortega</br>TB1:</strong></br>Para esta entraga he realizado los antecedentes y problemáticas. También la realización de los mapas de escenarios. Realicé las tareas anteriores con la comunicación continua, informandoles los avances y preguntando activamente sobre el desarrollo del trabajo en general
@@ -58,7 +59,9 @@
          </br>TB1:</strong>
          </br>Para esta entrega conocia las herramientas para la elaboracion de user task matrix user journey mapping y empathy mapping.
          </br><strong>TP:</strong>
-         </br>Para esta entrega sabia como refactorizar un proyecto de informe di github para tener una mejor organizacion</td>
+         </br>Para esta entrega sabia como refactorizar un proyecto de informe di github para tener una mejor organizacion
+         </br><strong>TB2:</strong>
+         </br>Para esta entrega aprendi a desarrollar una API para nuestro proyecto y a como hacer el deploy de esta.</td>
       </tr>
       <tr>
          <td><strong>Diego Miguel Ramirez Ortega
