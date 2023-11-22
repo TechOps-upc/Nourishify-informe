@@ -275,7 +275,7 @@ A continuación, se presentan algunas de las capturas de imagen que muestran la 
 
 
 <img src="./content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
-<img src=".content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+<img src="./content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
 </div>
 
    <!-- TP Content -->
