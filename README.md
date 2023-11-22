@@ -235,7 +235,7 @@
             </tr>
              <tr>
                <td>2.9</td>
-               <td>02/11/2023</td>
+               <td>22/11/2023</td>
                <td>Acuña, Diego</td>
                <td>Desarrollo del Team Collaboration insights</td>
             </tr>
@@ -244,6 +244,24 @@
                <td>02/11/2023</td>
                <td>Acuña, Diego</td>
                <td>Desarollo de la seccion e Validation interviews y video about the product. Y actualizacion de nuevos miembros del equipo</td>
+            </tr>
+             <tr>
+               <td>2.11</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Correcion de las entrevistas</td>
+            </tr>
+             <tr>
+               <td>2.12</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Cambio por Technical Stories algunas User Stories necesarias, mejora en la redacción</td>
+            </tr>
+             <tr>
+               <td>2.13</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Agregación de la sección conclusiones</td>
             </tr>
       </table>
    </span>
