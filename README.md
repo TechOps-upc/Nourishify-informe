@@ -253,7 +253,7 @@
    <h1 align="center">Project Report Collaboration Insights</h1>
    </br>
    
-   Repositorio GitHub: <a href="https://github.com/orgs/TechOps-upc/repositories">https://github.com/orgs/TechOps-upc/repositories</a>
+   Repositorio GitHub:  [Nuestro Repositorio en GitHub](https://github.com/orgs/TechOps-upc/repositories)
    
    <!-- TB1 Content -->
    
@@ -273,9 +273,9 @@ Evidencias:
 
 A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe:
 
-<div align="center">
-<img src="/content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
-<img src="/content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+
+<img src="../nourishify-report/content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+<img src="../nourishify-report/content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
 </div>
 
    <!-- TP Content -->
@@ -297,8 +297,8 @@ Evidencias:
 A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe durante la segunda entrega:
 
 <div align="center">
-<img src="/content/images/sprint2-team/commits.png">
-<img src="/content/images/sprint2-team/contribuitors.png">
+<img src="../nourishify-report/content/images/sprint2-team/commits.png">
+<img src="../nourishify-report/content/images/sprint2-team/contribuitors.png">
 </div>
 
 </div>
