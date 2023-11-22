@@ -235,7 +235,7 @@
             </tr>
              <tr>
                <td>2.9</td>
-               <td>02/11/2023</td>
+               <td>22/11/2023</td>
                <td>Acuña, Diego</td>
                <td>Desarrollo del Team Collaboration insights</td>
             </tr>
@@ -244,6 +244,24 @@
                <td>02/11/2023</td>
                <td>Acuña, Diego</td>
                <td>Desarollo de la seccion e Validation interviews y video about the product. Y actualizacion de nuevos miembros del equipo</td>
+            </tr>
+             <tr>
+               <td>2.11</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Correcion de las entrevistas</td>
+            </tr>
+             <tr>
+               <td>2.12</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Cambio por Technical Stories algunas User Stories necesarias, mejora en la redacción</td>
+            </tr>
+             <tr>
+               <td>2.13</td>
+               <td>22/11/2023</td>
+               <td>Acuña, Diego</td>
+               <td>Agregación de la sección conclusiones</td>
             </tr>
       </table>
    </span>
@@ -302,6 +320,29 @@ A continuación, se presentan algunas de las capturas de imagen que muestran la 
 </div>
 
 </div>
+<strong>TB2:</strong>
+
+Actividades de Elaboración del Informe:
+
+En la tercera entrega del trabajo, el equipo continuó desarrollando y mejorando el informe del proyecto. Se llevaron a cabo las siguientes actividades:
+
+En este sprint, nuestro equipo de desarrollo se centró en una serie de actividades clave para avanzar en nuestro proyecto. Comenzamos por el desarrollo del "Execution Evidence 3", donde documentamos detalladamente cada paso y resultado del proceso de desarrollo. Esto nos ayudó a asegurarnos de que nuestros avances estuvieran bien registrados y respaldados.
+
+Además, trabajamos en el "Service Documentation 3", donde se generó documentación esencial sobre nuestros servicios, lo que facilita la comprensión y el mantenimiento de nuestros sistemas.
+
+En paralelo, se llevó a cabo el "Sprint Backlog 3", que implicó la planificación y organización de las tareas prioritarias para este sprint. Esto nos permitió establecer metas claras y definir qué actividades debían completarse.
+
+Nos enfocamos tambien en la "Inserción de commits del backend", lo que contribuyó al progreso de esa área del proyecto.
+
+El "Sprint Planning 3" y el "Sprint Development 3" fueron procesos importantes en la planificación y ejecución de tareas para este sprint, asegurándonos de que estábamos en la dirección correcta.
+
+Además, trabajamos en el "Team Collaboration Insights", analizando la dinámica de trabajo y patrones de colaboración dentro del equipo. Esto nos ayudó a mejorar nuestra comunicación y aprovechar las habilidades y fortalezas individuales de manera más efectiva.
+
+Por último, nos enfocamos en la sección de "Validation Interviews" y en la creación de un video sobre el producto. También actualizamos la información sobre los nuevos miembros del equipo, lo que contribuyó a mantener a todos informados sobre los cambios en el equipo.
+
+En resumen, este sprint fue una combinación de desarrollo, documentación, planificación y mejora de la colaboración dentro del equipo, lo que nos permitió avanzar de manera efectiva hacia nuestros objetivos del proyecto.
+Evidencias:
+
 
 <h1 align="center">Contenido</h1>
 </br>
