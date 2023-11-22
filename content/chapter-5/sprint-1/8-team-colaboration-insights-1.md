@@ -22,6 +22,7 @@ Landing Page Desplegada:  [Link to Our Landing Page](https://diegoacuna1612.gith
 <br><br>
         <p align ="center">
             <img src="../../images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+            <br>
             Participantes del sprint
          </p>
          
@@ -29,6 +30,7 @@ Landing Page Desplegada:  [Link to Our Landing Page](https://diegoacuna1612.gith
 Semana de desarrollo para el Sprint 1: se puede ver que todos los integrantes contribuyeron.
    <p align ="center">
                <img src="../../images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+            <br>
                Evidencia de commits
             </p>
 
@@ -41,6 +43,7 @@ Lenguaje por utilizar es HTML, con CSS y un poco de JS.
 Tráfico: se clonó el repositorio para comenzar a trabajar, y se efectuaron updates.
   <p align ="center">
                <img src="../../images/landing-page-services-app-implementations-img/gitcloneandvisitors.png">
+            <br>
             </p>
 <br><br>
 Visitors: número de visitantes en el repositorio y se realizaron 885 vistas, para visualizar si los commits y los merges se agregaban de manera correcta.
