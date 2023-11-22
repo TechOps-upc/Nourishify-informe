@@ -29,14 +29,6 @@ Nuestra visión es simple pero ambiciosa, queremos ser líderes en la industria 
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="../images/team-photos/sebastian-bustinza.png" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sebastian Bustinza</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 21 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre soñé con poder crear un mundo virtual y me gustaría especializarme en realidad virtual. Tengo conocimientos de programación en C, C++, Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de textos y presentaciones, básico de Java. Me gusta trabajar en equipo y conocer mucha gente.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202123362</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="../images/team-photos/adrian-melgar.jpeg" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Melgar Takahashi, Adrian Gonzalo</td>

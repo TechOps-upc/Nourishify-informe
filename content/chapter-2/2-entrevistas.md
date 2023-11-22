@@ -61,7 +61,7 @@
 **Tiempo de duración de la entrevista:** 10 minutos
 
 **Plataforma utilizada:** Zoom
-
+**Minuto en el video:** 1 al 10
 | Nombre  | Apellido | Edad |
 | :------ | :------- | :--: |
 | Arecely | Sanches  |  21  |
@@ -69,7 +69,7 @@
 
 <img src="../images/interviews/clients/entrevista aracely.png" >
 
-<p align="justify">Resumen entrevista: La entrevistada fue Aracely Sanchez, tiene 21 años y reside en el distrito de Los Olivos. Estudia Periodismo en la Universidad Peruana de Ciencias Aplicadas. Aracely disfruta de ir al gimnasio todos los dias, su principal objetivo es ganar fuerza. Ella nos cuenta que llevaba atencion con un nutricionista previamente, pero dejo de hacerlo porque su nutricionista cobraba mucho y ella no podia permitirselo. Finalmente nos comenta que le parece una buena idea nuestra startup, ya que le daria mucha facilidad por el tema virtual, y ademas contar con planes de nutricion personalizados le parece una gran idea para negocio.
+<p align="justify">Resumen entrevista: La entrevistada fue Aracely Sanchez, tiene 21 años y reside en el distrito de Los Olivos. Sus aplicaciones favoritas son Instagram y Facebook y usa dispositivo Android. Estudia Periodismo en la Universidad Peruana de Ciencias Aplicadas. Aracely disfruta de ir al gimnasio todos los dias, su principal objetivo es ganar fuerza. Ella nos cuenta que llevaba atencion con un nutricionista previamente, pero dejo de hacerlo porque su nutricionista cobraba mucho y ella no podia permitirselo. Finalmente nos comenta que le parece una buena idea nuestra startup, ya que le daria mucha facilidad por el tema virtual, y ademas contar con planes de nutricion personalizados le parece una gran idea para negocio.
 </div>
 
 ### **Usuario nutricionista**
@@ -77,6 +77,7 @@
 **Tiempo de duración de la entrevista:**  8 minutos
 
 **Plataforma utilizada:** Zoom
+**Minuto en el video:** 10 al 18
 <h4>Entrevista 1</h4>
 
 <div align ="center">
@@ -91,7 +92,7 @@
 
 </br>
 
-<p align="justify">Resumen entrevista: Shirley Marelene Muñoz Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana, algunos días trabaja todo el día y otros días de madrugada. Shirley al contestar las preguntas realizadas, nos indicó que es de gran importancia que cada individuo tenga una nutrición especializada, de acuerdo a su actividad física, a su distribución de su composición corporal y de acuerdo a la condición médica que tenga.</br> En cuanto a los elementos para crear un plan de nutrición, mencionó que los principales son los gustos de las personas, la actividad que realiza la persona, sus horarios para saber cómo serán sus tiempos de comida y el 
+<p align="justify">Resumen entrevista: Shirley Marelene Muñoz Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana, algunos días trabaja todo el día y otros días de madrugada. Sus buscador preferido es Chrome y usa Linkdn y Instagram, tambien tiene un celular marca Iphone.Shirley al contestar las preguntas realizadas, nos indicó que es de gran importancia que cada individuo tenga una nutrición especializada, de acuerdo a su actividad física, a su distribución de su composición corporal y de acuerdo a la condición médica que tenga.</br> En cuanto a los elementos para crear un plan de nutrición, mencionó que los principales son los gustos de las personas, la actividad que realiza la persona, sus horarios para saber cómo serán sus tiempos de comida y el 
 presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, de querer tener algún cambio en su alimentación, asimismo, la falta de tiempo, ya que, la falta de tiempo hace que tengamos a la mano alimentos procesados como las comidas rápidas.</br> Opina que nuestra plataforma la ayudaría a ampliar su cartera de clientes y a hacerse más conocida. Lo que ella agregaría a nuestra plataforma serían diversas formas de darle seguimiento a su cliente; como agendar citas, contar con un canal de chat y de voz, que le permita comunicarse con el cliente. </p>
 </div>
 </br>
@@ -101,6 +102,7 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 **Tiempo de duración de la entrevista:** 8 minutos
 
 **Plataforma utilizada:** Zoom
+**Minuto en el video:** 18 al 26
 
 <div align ="center">
 
@@ -111,7 +113,7 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 <img src="../images/interviews/nutritionists/IMAGENENTREVISTAMINIATURA.png" >
 
 
-<p align="justify">Resumen entrevista: Maria Esther Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana y los días que descansa prefiere estar en su casa con su familia. Maria Esther al contestar las preguntas realizadas, nos indicó que la nutrición personalizada es muy importante para el bienestar de la persona, porque cada una de ellas tiene distintos requerimientos, distintas edades y distintas patologías, cada persona es distinta.</br> En cuanto a los elementos importantes para desarrollar un plan de alimentación efectivo, son relevantes los índices de masa corporal de cada persona, porque esto nos indica si estamos en obesidad o en delgadez. Las barreras entre la persona y el plan de alimentación es la falta de seguimiento a su plan cada día, indica que debe ser estricta para ver que en verdad se cumpla.</br> Opina que podemos facilitarle el trabajo al obtener una mayor comunicación entre ella y su paciente o cliente, resalta la importancia de darle seguimiento. Le gustaría contar con un chat privado, con una herramienta para agendar citas, asimismo, cree que nuestra plataforma le ayudaría a llegar a más personas.  </p>
+<p align="justify">Resumen entrevista: Maria Esther Ibañez es nutricionista del Hospital Cayetano Heredia, trabaja cuatro días a la semana y los días que descansa prefiere estar en su casa con su familia.Trabaja con una laptop con Windows y solo usa Facebook, tambien usa una celular Android. Maria Esther al contestar las preguntas realizadas, nos indicó que la nutrición personalizada es muy importante para el bienestar de la persona, porque cada una de ellas tiene distintos requerimientos, distintas edades y distintas patologías, cada persona es distinta.</br> En cuanto a los elementos importantes para desarrollar un plan de alimentación efectivo, son relevantes los índices de masa corporal de cada persona, porque esto nos indica si estamos en obesidad o en delgadez. Las barreras entre la persona y el plan de alimentación es la falta de seguimiento a su plan cada día, indica que debe ser estricta para ver que en verdad se cumpla.</br> Opina que podemos facilitarle el trabajo al obtener una mayor comunicación entre ella y su paciente o cliente, resalta la importancia de darle seguimiento. Le gustaría contar con un chat privado, con una herramienta para agendar citas, asimismo, cree que nuestra plataforma le ayudaría a llegar a más personas.  </p>
 </div>
 </br>
 
