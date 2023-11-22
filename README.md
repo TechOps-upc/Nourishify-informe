@@ -292,8 +292,10 @@ Evidencias:
 A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe:
 
 
-<img src="./content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
-<img src="./content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+
+<img src="../nourishify-report/content/images/../../../report/content/images/landing-page-services-app-implementations-img/development-evidence-for-sprint.png">
+<img src="../nourishify-report/content/images/../../../report/content/images/landing-page-services-app-implementations-img/landin-page-contribucion.png   ">
+
 </div>
 
    <!-- TP Content -->
@@ -313,11 +315,26 @@ Registro de Versiones: Se mantuvo actualizado el registro de versiones en el rep
 Evidencias:
 
 A continuación, se presentan algunas de las capturas de imagen que muestran la actividad de colaboración y commits en GitHub en el repositorio del informe durante la segunda entrega:
-
 <div align="center">
-<img src="./content/images/sprint2-team/commits.png">
-<img src="./content/images/sprint2-team/contribuitors.png">
+<img src="../nourishify-report/content/images/../../../report/content/images/sprint2-team/commits.png">
+<img src="../nourishify-report/content/images/../../../report/content/images/sprint2-team/contribuitors.png">
 </div>
+
+<strong>TB3:</strong>
+
+En la tercera fase del proyecto, la atención se centró en la elaboración continua del informe. El equipo completó secciones pendientes, como los resultados detallados, análisis de datos y conclusiones finales. La documentación se enriqueció con gráficos y tablas que respaldan los hallazgos clave. Se llevó a cabo una revisión exhaustiva del contenido para garantizar claridad y coherencia, corrigiendo errores gramaticales y mejorando la redacción. Además, se mantuvo actualizado el registro de versiones en el repositorio de GitHub, reflejando todos los cambios realizados desde la primera entrega. Se adjuntan evidencias visuales, como capturas de pantalla, que ilustran la actividad de colaboración y commits durante esta fase de desarrollo del informe.
+
+
+<strong>TF:</strong>
+
+En el proyecto TF, que abordó tanto el frontend como el backend, se realizaron despliegues exitosos de los proyectos. El equipo trabajó en la mejora continua, implementando actualizaciones y optimizaciones en ambas capas. Se gestionaron eficientemente las tareas de frontend y backend, asegurando la coherencia entre ambos. El proceso de deploy se ejecutó de manera efectiva, marcando un hito en la entrega del producto final. Este logro resalta la capacidad del equipo para trabajar de manera integral, desde el desarrollo hasta la implementación exitosa en producción.
+<div align="center">
+
+<img src="../nourishify-report/content/images/../../../report/content/images/sprint2-team/commits.png">
+<img src="../nourishify-report/content/images/../../../report/content/images/sprint2-team/contribuitors.png">
+
+</div>
+
 
 </div>
 <strong>TB2:</strong>
