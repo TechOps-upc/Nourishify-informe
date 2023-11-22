@@ -61,7 +61,7 @@
 **Tiempo de duración de la entrevista:** 10 minutos
 
 **Plataforma utilizada:** Zoom
-
+**Minuto en el video:** 1 al 10
 | Nombre  | Apellido | Edad |
 | :------ | :------- | :--: |
 | Arecely | Sanches  |  21  |
@@ -77,6 +77,7 @@
 **Tiempo de duración de la entrevista:**  8 minutos
 
 **Plataforma utilizada:** Zoom
+**Minuto en el video:** 10 al 18
 <h4>Entrevista 1</h4>
 
 <div align ="center">
@@ -101,6 +102,7 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 **Tiempo de duración de la entrevista:** 8 minutos
 
 **Plataforma utilizada:** Zoom
+**Minuto en el video:** 18 al 26
 
 <div align ="center">
 
