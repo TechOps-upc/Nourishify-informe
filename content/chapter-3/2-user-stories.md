@@ -508,7 +508,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de cerrar sesión y no tiene una contratación ni una
+  ES-PE'>cierra sesión y no tiene una contratación ni una
   reseña en proceso<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -542,7 +542,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de cerrar sesión y no tiene ninguna contratación en proceso, pero sí una reseña pendiente<o:p></o:p></span></p>
+  ES-PE'>cierra sesion y no tiene ninguna contratación en proceso, pero sí una reseña pendiente<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -564,7 +564,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de cerrar sesión y no tiene ninguna reseña en proceso, pero sí una contratación en curso<o:p></o:p></span></p>
+  ES-PE'>cierra sesión y no tiene ninguna reseña en proceso, pero sí una contratación en curso<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -759,7 +759,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>inicia sesión y presiona la opción de ver perfil<o:p></o:p></span></p>
+  ES-PE'>inicia sesión y ve su perfil<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -836,8 +836,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cuando </span></b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>presiona
-  subir foto e ingresa una imagen correcta<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>
+  sube una foto e ingresa una imagen correcta<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Entonces </span></b><span
@@ -870,8 +870,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>Cuando </span></b><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>presiona
-  subir foto e ingresa una imagen que excede el tamaño permitido<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>sube una foto e ingresa una imagen que excede el tamaño permitido<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -948,7 +947,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar ubicación e ingresa una correcta<o:p></o:p></span></p>
+  ES-PE'>modifica una ubicacion e ingresa una correcta<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -982,7 +981,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar ubicación e ingresa caracteres no
+  ES-PE'>modifica su ubicacion e ingresa caracteres no
   permitidos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1060,8 +1059,8 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar número telefónico e ingresa uno
-  correcta<o:p></o:p></span></p>
+  ES-PE'>modifica su numero telefonico e ingresa uno
+  correcto<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1097,7 +1096,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar número telefónico e ingresa caracteres
+  ES-PE'>modifica su numero telefonico e ingresa caracteres
   no permitidos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1124,7 +1123,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar número telefónico e ingresa uno
+  ES-PE'>modifica su numero telefónico e ingresa uno
   inexistente<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1204,7 +1203,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar correo e ingresa uno correcta<o:p></o:p></span></p>
+  ES-PE'>modifica su correo e ingresa uno correcto<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1240,7 +1239,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar número correo e ingresa caracteres no permitidos<o:p></o:p></span></p>
+  ES-PE'>modifica su  correo e ingresa caracteres no permitidos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1266,7 +1265,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar correo e ingresa uno inexistente<o:p></o:p></span></p>
+  ES-PE'>modifica su correo e ingresa uno inexistente<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1345,7 +1344,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar nombre e ingresa uno correcta<o:p></o:p></span></p>
+  ES-PE'>modifica su nombre e ingresa uno correcto<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1381,7 +1380,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la opción de modificar nombre e ingresa caracteres no
+  ES-PE'>modifica su nombre e ingresa caracteres no
   permitidos<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -1922,7 +1921,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona el nombre de un especialista<o:p></o:p></span></p>
+  ES-PE'>busca el nombre de un especialista<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -1948,7 +1947,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona la foto de un especialista<o:p></o:p></span></p>
+  ES-PE'>busca la foto de un especialista<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
@@ -2261,7 +2260,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona archivar consulta, ingresa el nombre de uno de sus clientes y
+  ES-PE'>archiva consulta, ingresa el nombre de uno de sus clientes y
   sube los avances en <span class=SpellE>pdf</span><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2299,7 +2298,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona archivar consulta, ingresa el nombre de alguien que no es su cliente
+  ES-PE'>archiva consulta, ingresa el nombre de alguien que no es su cliente
   y sube los avances en <span class=SpellE>pdf</span><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2326,7 +2325,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Cuando </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>presiona archivar consulta, ingresa el nombre de alguien que es su cliente
+  ES-PE'>archiva consulta, ingresa el nombre de alguien que es su cliente
   y sube los avances en un formato que no es <span class=SpellE>pdf</span><o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
@@ -2849,7 +2848,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU23<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS01<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -2964,7 +2963,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU24<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS02<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3078,7 +3077,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU25<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS03<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3192,7 +3191,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU26<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS04<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3312,7 +3311,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU27<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS05<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3432,7 +3431,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU28<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS06<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3553,7 +3552,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU29<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS07<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3673,7 +3672,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU30<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS08<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;
@@ -3793,7 +3792,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:6.65pt;text-align:justify;line-height:normal'><span
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
-  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>HU31<o:p></o:p></span></p>
+  mso-bidi-font-family:"Times New Roman";mso-fareast-language:ES-PE'>TS09<o:p></o:p></span></p>
   </td>
   <td width=96 style='width:72.0pt;border-top:none;border-left:none;border-bottom:
   solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:solid white 1.0pt;

@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<img src="https://i.ibb.co/yRT4gmY/imagen-2023-09-07-160743689.png" alt="Context-Diagram" style="width:700px;height:500px">
+<img src="../images/c4-model/context-diagram.png" alt="Context-Diagram" style="width:700px;height:500px">
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-<img src="https://i.ibb.co/k662Xbm/imagen-2023-09-07-162010919.png" alt="Context-Diagram" style="width:700px;height:500px">
+<img src="../images//c4-model/container-diagram.png" alt="Context-Diagram" style="width:700px;height:500px">
 </div>
 
 <br>
