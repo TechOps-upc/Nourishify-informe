@@ -56,11 +56,16 @@
 
 ### **Usuario cliente**
 
-<h4>Entrevista 1</h4>
+# Entrevista 1
+
+**Tiempo de duración de la entrevista:** 10 minutos
+
+**Plataforma utilizada:** Zoom
 
 | Nombre  | Apellido | Edad |
 | :------ | :------- | :--: |
 | Arecely | Sanches  |  21  |
+
 
 <img src="../images/interviews/clients/entrevista aracely.png" >
 
@@ -69,9 +74,13 @@
 
 ### **Usuario nutricionista**
 
+**Tiempo de duración de la entrevista:**  8 minutos
+
+**Plataforma utilizada:** Zoom
 <h4>Entrevista 1</h4>
 
 <div align ="center">
+
 
 | Nombre  | Apellido |  Edad   |
 | :------ | :------- | :-----: |
@@ -88,6 +97,10 @@ presupuesto que manejan. La mayor barrera es la falta de disciplina y voluntad, 
 </br>
 
 <h4>Entrevista 2</h4>
+
+**Tiempo de duración de la entrevista:** 8 minutos
+
+**Plataforma utilizada:** Zoom
 
 <div align ="center">
 

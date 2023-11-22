@@ -15,6 +15,90 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
         </thead>
         <tbody>
             <tr>
+                <td>30</td>
+                <td>HU30</td>
+                <td>Visualización de Landing Page</td>
+                <td>Como usuario, quiero ingresar al landing page para acceder y visualizar toda la información relevante.</td>
+                <td>8</td>
+            </tr>
+                <tr>
+                <td>31</td>
+                <td>HU31</td>
+                <td>Contacto con la Empresa</td>
+                <td>Como usuario interesado, deseo tener la capacidad de ponerme en contacto con la empresa desde el landing page para obtener información adicional o resolver consultas.</td>
+                <td>5</td>
+            </tr>
+                <tr>
+                <td>32</td>
+                <td>HU32</td>
+                <td>Acceso a Redes Sociales</td>
+                <td>Como usuario, deseo tener acceso fácil a las redes sociales desde el landing page para compartir información o interactuar en estas plataformas.</td>
+                <td>5</td>
+                 <tr>
+                <td>1</td>
+                <td>HU01</td>
+                <td>Registrar Cuenta</td>
+                <td>Como usuario, deseo crear una nueva cuenta para entrar a la plataforma.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>HU02</td>
+                <td>Iniciar Sesión</td>
+                <td>Como usuario, deseo ingresar con mi cuenta ya creada para tener mis datos ya guardados.</td>
+                <td>2</td>
+            </tr>
+                <tr>
+                <td>4</td>
+                <td>HU04</td>
+                <td>Recuperar Cuenta</td>
+                <td>Como usuario, deseo que me brinden mis datos de inicio de sesión por un medio externo para recuperar mi cuenta.</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>HU05</td>
+                <td>Visualización de Perfil</td>
+                <td>Como usuario, deseo ingresar a mi perfil para observar todos mis datos.</td>
+                <td>3</td>
+            </tr> 
+                 <tr>
+                <td>9</td>
+                <td>HU10</td>
+                <td>Cambio de Nombre</td>
+                <td>Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.</td>
+                <td>1</td>
+            </tr>
+                 <tr>
+                <td>6</td>
+                <td>HU06</td>
+                <td>Cambio de Foto</td>
+                <td>Como usuario, deseo ingresar una foto de perfil para que las personas con las que realizó algún contrato tengan una representación mía.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>HU07</td>
+                <td>Cambio de Ubicación</td>
+                <td>Como usuario, deseo cambiar mi lugar de residencia para que este se encuentre con mi dirección actual.</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>HU08</td>
+                <td>Cambio de Número Telefónico</td>
+                <td>Como usuario, deseo cambiar mi número de teléfono o celular para que puedan contactarse conmigo.</td>
+                <td>1</td>
+            </tr>
+                  <tr>
+                <td>3</td>
+                <td>HU03</td>
+                <td>Cerrar Sesión</td>
+                <td>Como usuario, deseo cerrar sesión para que esta no se quede abierta en el buscador.</td>
+                <td>1</td>
+            </tr>
+            </tr>
+                 <tr>
                 <td>19</td>
                 <td>HU20</td>
                 <td>Ingreso de plan alimenticio</td>
@@ -113,29 +197,29 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
                 <td>3</td>
             </tr>
             <tr>
-                <td>30</td>
-                <td>HU30</td>
+                <td>33</td>
+                <td>HU33</td>
                 <td>Almacenamiento de historial médico</td>
                 <td>Como developer, deseo poder almacenar el historial médico del usuario en la base de datos para que los usuarios tengan acceso a este desde la aplicación.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>31</td>
-                <td>HU31</td>
+                <td>34</td>
+                <td>HU34</td>
                 <td>Almacenamiento de curriculum vitae</td>
                 <td>Como developer, deseo poder almacenar archivos de curriculum vitae del nutricionista en la base de datos para quie los usuarios tengan acceso a este desde la aplicación.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>32</td>
-                <td>HU32</td>
+                <td>35</td>
+                <td>HU35</td>
                 <td>Visualizar planes nutricionales</td>
                 <td>Como usuario, deseo visualizar los planes nutricionales para poder elegir el que mejor se adecua a mis requerimientos.</td>
                 <td>3</td>
             </tr>
             <tr>
-                <td>33</td>
-                <td>HU33</td>
+                <td>36</td>
+                <td>HU36</td>
                 <td>Visualizar planes de ejercicio</td>
                 <td>Como usuario, deseo visualizar los planes de ejercicio para poder elegir el que mejor se adecua a mis requerimientos.</td>
                 <td>3</td>
@@ -175,84 +259,5 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
                 <td>Como usuario, deseo ingresar mi experiencia en la plataforma para que otros clientes conozcan los beneficios de utilizarla.</td>
                 <td>2</td>
             </tr>
-            <tr>
-                <td>1</td>
-                <td>HU01</td>
-                <td>Registrar Cuenta</td>
-                <td>Como usuario, deseo crear una nueva cuenta para entrar a la plataforma.</td>
-                <td>2</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>HU02</td>
-                <td>Iniciar Sesión</td>
-                <td>Como usuario, deseo ingresar con mi cuenta ya creada para tener mis datos ya guardados.</td>
-                <td>2</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>HU03</td>
-                <td>Cerrar Sesión</td>
-                <td>Como usuario, deseo cerrar sesión para que esta no se quede abierta en el buscador.</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>HU04</td>
-                <td>Recuperar Cuenta</td>
-                <td>Como usuario, deseo que me brinden mis datos de inicio de sesión por un medio externo para recuperar mi cuenta.</td>
-                <td>2</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>HU05</td>
-                <td>Visualización de Perfil</td>
-                <td>Como usuario, deseo ingresar a mi perfil para observar todos mis datos.</td>
-                <td>3</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>HU06</td>
-                <td>Cambio de Foto</td>
-                <td>Como usuario, deseo ingresar una foto de perfil para que las personas con las que realizó algún contrato tengan una representación mía.</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>HU07</td>
-                <td>Cambio de Ubicación</td>
-                <td>Como usuario, deseo cambiar mi lugar de residencia para que este se encuentre con mi dirección actual.</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>HU08</td>
-                <td>Cambio de Número Telefónico</td>
-                <td>Como usuario, deseo cambiar mi número de teléfono o celular para que puedan contactarse conmigo.</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>HU10</td>
-                <td>Cambio de Nombre</td>
-                <td>Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.</td>
-                <td>1</td>
-            </tr>
         </tbody>
     </table>
-
-<p align ="center">
-   <img src="../images/random/userstories-epic.png" >
-</p>
- <a href="https://www.pivotaltracker.com/n/projects/2674928">Enlace al pivotal tracker</a>
-</div>
-
-<div display="flex" align="right" >
-   </br></br>
-   &lt;
-   <a href="./3-impact-mapping.md">Previous</a>
-   &boxh;
-   <a href="../chapter-4/1-style-guidelines.md">Next</a>
-   &gt;
-   </br></br>
-</div>
