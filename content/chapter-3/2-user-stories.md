@@ -169,7 +169,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>aparece una marca de error junto a la casilla del nombre con el mensaje "Nombre con caracteres no permitidos".<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje de error indicando el problema.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -195,7 +195,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>aparece una marca de error junto a la casilla de ubicación con el mensaje "Ubicación incorrecta"<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje de error indicando el problema.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -221,7 +221,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>aparece una marca de error junto a la casilla de edad con el mensaje "Edad incorrecta"<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje de error indicando el problema.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -247,7 +247,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>aparece una marca de error junto a la casilla de apellidos con el mensaje "Apellidos incorrectos"<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje de error indicando el problema.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -273,7 +273,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
   ES-PE'>Entonces </span></b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";mso-fareast-language:
-  ES-PE'>aparece una marca de error junto a la casilla de correo electrónico con el mensaje "Correo incorrecto"<o:p></o:p></span></p>
+  ES-PE'>aparece un mensaje de error indicando el problema.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
@@ -351,6 +351,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
   style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:"Times New Roman";
   mso-bidi-font-family:"Times New Roman";color:#0070C0;mso-fareast-language:
   ES-PE'><o:p></o:p></span></p>
+   
   <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
   normal'><b><span style='mso-bidi-font-size:14.0pt;mso-fareast-font-family:
   "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#00B050;
